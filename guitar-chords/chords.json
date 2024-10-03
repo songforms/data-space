@@ -1,0 +1,15 @@
+{
+  "chords": [
+    {"name": "C", "fretString": "010230"},
+    {"name": "D", "fretString": "2320xx"},
+    {"name": "E", "fretString": "001220"},
+    {"name": "Em", "fretString": "000220"},
+    {"name": "F", "fretString": "112331"},
+    {"name": "Fm", "fretString": "111331"},
+    {"name": "G", "fretString": "300023"},
+    {"name": "A", "fretString": "022200"},
+    {"name": "Am", "fretString": "012200"},
+    {"name": "B", "fretString": "244422"},
+    {"name": "Bm", "fretString": "234422"},
+  ]
+}
