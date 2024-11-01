@@ -1,15 +1,15 @@
 {
   "chords": [
-    {"name": "C", "fretString": "010230"},
-    {"name": "D", "fretString": "2320xx"},
-    {"name": "E", "fretString": "001220"},
-    {"name": "Em", "fretString": "000220"},
-    {"name": "F", "fretString": "112331"},
-    {"name": "Fm", "fretString": "111331"},
-    {"name": "G", "fretString": "300023"},
-    {"name": "A", "fretString": "022200"},
-    {"name": "Am", "fretString": "012200"},
-    {"name": "B", "fretString": "244422"},
-    {"name": "Bm", "fretString": "234422"},
+    {"name": "C", "fretString": "0_1_0_2_3_0"},
+    {"name": "D", "fretString": "2_3_2_0_x_x"},
+    {"name": "E", "fretString": "0_0_1_2_2_0"},
+    {"name": "Em", "fretString": "0_0_0_2_2_0"},
+    {"name": "F", "fretString": "1_1_2_3_3_1"},
+    {"name": "Fm", "fretString": "1_1_1_3_3_1"},
+    {"name": "G", "fretString": "3_0_0_0_2_3"},
+    {"name": "A", "fretString": "0_2_2_2_0_0"},
+    {"name": "Am", "fretString": "0_1_2_2_0_0"},
+    {"name": "B", "fretString": "2_4_4_4_2_2"},
+    {"name": "Bm", "fretString": "2_3_4_4_2_2"},
   ]
 }
