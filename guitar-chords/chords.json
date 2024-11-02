@@ -1,15 +1,8268 @@
 {
-  "chords": [
-    {"name": "C", "fretString": "0_1_0_2_3_0"},
-    {"name": "D", "fretString": "2_3_2_0_x_x"},
-    {"name": "E", "fretString": "0_0_1_2_2_0"},
-    {"name": "Em", "fretString": "0_0_0_2_2_0"},
-    {"name": "F", "fretString": "1_1_2_3_3_1"},
-    {"name": "Fm", "fretString": "1_1_1_3_3_1"},
-    {"name": "G", "fretString": "3_0_0_0_2_3"},
-    {"name": "A", "fretString": "0_2_2_2_0_0"},
-    {"name": "Am", "fretString": "0_1_2_2_0_0"},
-    {"name": "B", "fretString": "2_4_4_4_2_2"},
-    {"name": "Bm", "fretString": "2_3_4_4_2_2"},
-  ]
+    "chords": [
+        {
+            "name": "C6",
+            "fretString": "0_1_2_2_3_x"
+        },
+        {
+            "name": "C6",
+            "fretString": "3_3_3_3_1_x"
+        },
+        {
+            "name": "C6",
+            "fretString": "x_2_3_1_x_2"
+        },
+        {
+            "name": "C6",
+            "fretString": "1_3_2_3_x_1"
+        },
+        {
+            "name": "C7",
+            "fretString": "0_1_3_2_3_x"
+        },
+        {
+            "name": "C7",
+            "fretString": "1_3_1_3_1_1"
+        },
+        {
+            "name": "C7",
+            "fretString": "2_1_1_1_x_x"
+        },
+        {
+            "name": "C7",
+            "fretString": "1_1_2_1_3_1"
+        },
+        {
+            "name": "C9",
+            "fretString": "x_3_3_2_3_x"
+        },
+        {
+            "name": "C9",
+            "fretString": "3_3_3_2_3_x"
+        },
+        {
+            "name": "C9",
+            "fretString": "2_2_1_2_1_2"
+        },
+        {
+            "name": "C9",
+            "fretString": "4_2_3_2_4_2"
+        },
+        {
+            "name": "C9",
+            "fretString": "2_3_1_2_x_x"
+        },
+        {
+            "name": "C11",
+            "fretString": "1_1_3_2_3_x"
+        },
+        {
+            "name": "C11",
+            "fretString": "1_3_1_1_1_x"
+        },
+        {
+            "name": "C11",
+            "fretString": "1_1_0_0_2_3"
+        },
+        {
+            "name": "C11",
+            "fretString": "1_1_2_1_1_1"
+        },
+        {
+            "name": "C13",
+            "fretString": "4_4_2_1_2_x"
+        },
+        {
+            "name": "C13",
+            "fretString": "3_3_1_1_1_1"
+        },
+        {
+            "name": "C13",
+            "fretString": "1_3_2_2_2_3"
+        },
+        {
+            "name": "C13",
+            "fretString": "1_3_2_1_3_1"
+        },
+        {
+            "name": "C",
+            "fretString": "0_1_0_2_3_x"
+        },
+        {
+            "name": "C",
+            "fretString": "1_3_3_3_1_1"
+        },
+        {
+            "name": "C",
+            "fretString": "4_1_1_1_x_x"
+        },
+        {
+            "name": "C",
+            "fretString": "1_1_2_3_3_1"
+        },
+        {
+            "name": "Cm",
+            "fretString": "3_1_0_1_3_x"
+        },
+        {
+            "name": "Cm",
+            "fretString": "1_2_3_3_1_1"
+        },
+        {
+            "name": "Cm",
+            "fretString": "x_x_1_1_2_4"
+        },
+        {
+            "name": "Cm",
+            "fretString": "1_1_1_3_3_1"
+        },
+        {
+            "name": "Cdim",
+            "fretString": "2_1_x_1_3_x"
+        },
+        {
+            "name": "Cdim",
+            "fretString": "x_2_3_2_1_x"
+        },
+        {
+            "name": "Cdim",
+            "fretString": "x_2_3_x_1_3"
+        },
+        {
+            "name": "Cdim",
+            "fretString": "2_x_2_1_x_x"
+        },
+        {
+            "name": "Cdim7",
+            "fretString": "2_1_2_1_x_x"
+        },
+        {
+            "name": "Cdim7",
+            "fretString": "2_4_2_4_3_x"
+        },
+        {
+            "name": "Cdim7",
+            "fretString": "x_1_2_1_x_2"
+        },
+        {
+            "name": "Cdim7",
+            "fretString": "2_1_2_1_x_x"
+        },
+        {
+            "name": "Csus2",
+            "fretString": "3_1_0_0_3_x"
+        },
+        {
+            "name": "Csus2",
+            "fretString": "3_3_0_0_3_x"
+        },
+        {
+            "name": "Csus2",
+            "fretString": "1_1_3_3_1_1"
+        },
+        {
+            "name": "Csus2",
+            "fretString": "2_2_1_0_x_2"
+        },
+        {
+            "name": "Csus4",
+            "fretString": "1_1_0_3_3_x"
+        },
+        {
+            "name": "Csus4",
+            "fretString": "1_4_3_3_1_1"
+        },
+        {
+            "name": "Csus4",
+            "fretString": "3_1_0_x_3_3"
+        },
+        {
+            "name": "Csus4",
+            "fretString": "1_1_3_3_3_1"
+        },
+        {
+            "name": "C7sus4",
+            "fretString": "1_1_3_3_3_x"
+        },
+        {
+            "name": "C7sus4",
+            "fretString": "1_4_1_3_1_1"
+        },
+        {
+            "name": "C7sus4",
+            "fretString": "2_2_1_1_x_x"
+        },
+        {
+            "name": "C7sus4",
+            "fretString": "1_1_3_1_3_1"
+        },
+        {
+            "name": "Calt",
+            "fretString": "1_4_4_1_2_x"
+        },
+        {
+            "name": "Calt",
+            "fretString": "0_3_3_2_1_x"
+        },
+        {
+            "name": "Calt",
+            "fretString": "2_1_3_4_x_x"
+        },
+        {
+            "name": "Calt",
+            "fretString": "3_4_2_1_x_x"
+        },
+        {
+            "name": "Caug",
+            "fretString": "x_1_1_2_3_x"
+        },
+        {
+            "name": "Caug",
+            "fretString": "x_3_3_4_1_x"
+        },
+        {
+            "name": "Caug",
+            "fretString": "x_1_1_2_3_4"
+        },
+        {
+            "name": "Caug",
+            "fretString": "1_2_2_3_x_x"
+        },
+        {
+            "name": "C6/9",
+            "fretString": "3_3_2_2_3_x"
+        },
+        {
+            "name": "C6/9",
+            "fretString": "3_3_0_0_1_x"
+        },
+        {
+            "name": "C6/9",
+            "fretString": "2_2_1_1_1_2"
+        },
+        {
+            "name": "C6/9",
+            "fretString": "2_2_1_2_2_x"
+        },
+        {
+            "name": "C7b5",
+            "fretString": "2_1_3_2_x_x"
+        },
+        {
+            "name": "C7b5",
+            "fretString": "x_3_1_2_1_x"
+        },
+        {
+            "name": "C7b5",
+            "fretString": "0_1_3_2_x_2"
+        },
+        {
+            "name": "C7b5",
+            "fretString": "3_2_2_1_x_x"
+        },
+        {
+            "name": "Caug7",
+            "fretString": "4_x_3_2_3_x"
+        },
+        {
+            "name": "Caug7",
+            "fretString": "2_3_1_4_1_x"
+        },
+        {
+            "name": "Caug7",
+            "fretString": "0_2_2_1_x_1"
+        },
+        {
+            "name": "Caug7",
+            "fretString": "3_2_4_1_x_x"
+        },
+        {
+            "name": "C9b5",
+            "fretString": "2_3_3_2_3_x"
+        },
+        {
+            "name": "C9b5",
+            "fretString": "0_3_3_4_3_x"
+        },
+        {
+            "name": "C9b5",
+            "fretString": "2_1_1_2_1_2"
+        },
+        {
+            "name": "C9b5",
+            "fretString": "3_x_2_1_2_1"
+        },
+        {
+            "name": "Caug9",
+            "fretString": "4_3_3_2_3_x"
+        },
+        {
+            "name": "Caug9",
+            "fretString": "2_3_1_0_1_x"
+        },
+        {
+            "name": "Caug9",
+            "fretString": "2_1_1_2_1_2"
+        },
+        {
+            "name": "Caug9",
+            "fretString": "x_3_1_2_1_2"
+        },
+        {
+            "name": "C7b9",
+            "fretString": "3_2_3_2_3_x"
+        },
+        {
+            "name": "C7b9",
+            "fretString": "x_x_1_3_2_3"
+        },
+        {
+            "name": "C7b9",
+            "fretString": "2_1_2_1_x_1"
+        },
+        {
+            "name": "C7b9",
+            "fretString": "1_3_1_2_x_x"
+        },
+        {
+            "name": "C7#9",
+            "fretString": "x_4_3_2_3_x"
+        },
+        {
+            "name": "C7#9",
+            "fretString": "0_2_1_3_1_x"
+        },
+        {
+            "name": "C7#9",
+            "fretString": "4_1_2_1_3_1"
+        },
+        {
+            "name": "C7#9",
+            "fretString": "3_3_1_2_x_x"
+        },
+        {
+            "name": "C9#11",
+            "fretString": "2_3_3_2_3_x"
+        },
+        {
+            "name": "C9#11",
+            "fretString": "1_3_1_2_1_x"
+        },
+        {
+            "name": "C9#11",
+            "fretString": "2_1_1_2_1_2"
+        },
+        {
+            "name": "C9#11",
+            "fretString": "3_2_2_1_x_x"
+        },
+        {
+            "name": "Cmaj7",
+            "fretString": "0_0_0_2_3_3"
+        },
+        {
+            "name": "Cmaj7",
+            "fretString": "1_3_2_3_1_1"
+        },
+        {
+            "name": "Cmaj7",
+            "fretString": "3_1_1_1_x_x"
+        },
+        {
+            "name": "Cmaj7",
+            "fretString": "3_3_3_1_x_x"
+        },
+        {
+            "name": "Cmaj7b5",
+            "fretString": "2_0_4_2_3_x"
+        },
+        {
+            "name": "Cmaj7b5",
+            "fretString": "x_3_2_2_1_x"
+        },
+        {
+            "name": "Cmaj7b5",
+            "fretString": "1_1_3_3_1_2"
+        },
+        {
+            "name": "Cmaj7b5",
+            "fretString": "3_3_2_1_x_x"
+        },
+        {
+            "name": "Cmaj7#5",
+            "fretString": "0_0_1_2_3_x"
+        },
+        {
+            "name": "Cmaj7#5",
+            "fretString": "0_3_2_4_1_x"
+        },
+        {
+            "name": "Cmaj7#5",
+            "fretString": "0_0_1_2_3_4"
+        },
+        {
+            "name": "Cmaj7#5",
+            "fretString": "0_0_2_3_4_1"
+        },
+        {
+            "name": "Cmaj9",
+            "fretString": "0_0_0_0_3_x"
+        },
+        {
+            "name": "Cmaj9",
+            "fretString": "x_3_4_2_3_x"
+        },
+        {
+            "name": "Cmaj9",
+            "fretString": "3_1_1_1_1_0"
+        },
+        {
+            "name": "Cmaj9",
+            "fretString": "3_1_2_2_x_1"
+        },
+        {
+            "name": "Cmaj11",
+            "fretString": "1_0_0_2_3_x"
+        },
+        {
+            "name": "Cmaj11",
+            "fretString": "0_0_0_3_3_x"
+        },
+        {
+            "name": "Cmaj11",
+            "fretString": "0_1_0_4_2_3"
+        },
+        {
+            "name": "Cmaj11",
+            "fretString": "1_1_2_2_1_1"
+        },
+        {
+            "name": "Cmaj13",
+            "fretString": "1_0_2_2_3_x"
+        },
+        {
+            "name": "Cmaj13",
+            "fretString": "3_3_2_1_1_x"
+        },
+        {
+            "name": "Cmaj13",
+            "fretString": "1_2_1_1_1_2"
+        },
+        {
+            "name": "Cmaj13",
+            "fretString": "1_3_2_2_1_1"
+        },
+        {
+            "name": "Cm6",
+            "fretString": "3_1_2_1_3_x"
+        },
+        {
+            "name": "Cm6",
+            "fretString": "3_2_x_3_1_x"
+        },
+        {
+            "name": "Cm6",
+            "fretString": "2_2_2_1_x_2"
+        },
+        {
+            "name": "Cm6",
+            "fretString": "1_3_1_3_3_1"
+        },
+        {
+            "name": "Cm6/9",
+            "fretString": "3_3_2_1_3_x"
+        },
+        {
+            "name": "Cm6/9",
+            "fretString": "3_2_0_0_1_x"
+        },
+        {
+            "name": "Cm6/9",
+            "fretString": "x_x_2_2_1_3"
+        },
+        {
+            "name": "Cm6/9",
+            "fretString": "3_3_1_3_3_x"
+        },
+        {
+            "name": "Cm7",
+            "fretString": "x_4_3_1_3_x"
+        },
+        {
+            "name": "Cm7",
+            "fretString": "1_2_1_3_1_1"
+        },
+        {
+            "name": "Cm7",
+            "fretString": "3_1_2_2_x_x"
+        },
+        {
+            "name": "Cm7",
+            "fretString": "1_1_1_1_3_1"
+        },
+        {
+            "name": "Cm7b5",
+            "fretString": "x_4_3_4_3_x"
+        },
+        {
+            "name": "Cm7b5",
+            "fretString": "3_1_2_1_x_x"
+        },
+        {
+            "name": "Cm7b5",
+            "fretString": "1_4_1_3_2_1"
+        },
+        {
+            "name": "Cm7b5",
+            "fretString": "2_2_2_1_x_x"
+        },
+        {
+            "name": "Cm9",
+            "fretString": "3_3_3_1_3_x"
+        },
+        {
+            "name": "Cm9",
+            "fretString": "3_4_3_0_3_x"
+        },
+        {
+            "name": "Cm9",
+            "fretString": "3_3_2_3_1_x"
+        },
+        {
+            "name": "Cm9",
+            "fretString": "3_1_1_1_3_1"
+        },
+        {
+            "name": "Cm11",
+            "fretString": "1_3_3_1_3_x"
+        },
+        {
+            "name": "Cm11",
+            "fretString": "3_4_3_3_3_x"
+        },
+        {
+            "name": "Cm11",
+            "fretString": "1_1_2_3_1_3"
+        },
+        {
+            "name": "Cm11",
+            "fretString": "3_1_1_1_1_1"
+        },
+        {
+            "name": "Cmmaj7",
+            "fretString": "x_0_0_1_3_x"
+        },
+        {
+            "name": "Cmmaj7",
+            "fretString": "1_2_2_3_1_1"
+        },
+        {
+            "name": "Cmmaj7",
+            "fretString": "1_1_1_2_3_1"
+        },
+        {
+            "name": "Cmmaj7",
+            "fretString": "2_3_3_1_x_x"
+        },
+        {
+            "name": "Cmmaj7b5",
+            "fretString": "2_4_4_x_3_x"
+        },
+        {
+            "name": "Cmmaj7b5",
+            "fretString": "x_4_4_4_3_x"
+        },
+        {
+            "name": "Cmmaj7b5",
+            "fretString": "1_x_1_2_2_1"
+        },
+        {
+            "name": "Cmmaj7b5",
+            "fretString": "2_3_2_1_x_x"
+        },
+        {
+            "name": "Cmmaj9",
+            "fretString": "x_3_4_1_3_x"
+        },
+        {
+            "name": "Cmmaj9",
+            "fretString": "3_4_4_0_3_x"
+        },
+        {
+            "name": "Cmmaj9",
+            "fretString": "3_0_2_x_1_3"
+        },
+        {
+            "name": "Cmmaj9",
+            "fretString": "3_1_1_2_3_1"
+        },
+        {
+            "name": "Cmmaj11",
+            "fretString": "1_0_0_1_3_x"
+        },
+        {
+            "name": "Cmmaj11",
+            "fretString": "3_4_4_3_3_3"
+        },
+        {
+            "name": "Cmmaj11",
+            "fretString": "3_1_1_2_1_1"
+        },
+        {
+            "name": "Cmmaj11",
+            "fretString": "2_3_1_1_x_x"
+        },
+        {
+            "name": "Cadd9",
+            "fretString": "0_3_0_2_3_x"
+        },
+        {
+            "name": "Cadd9",
+            "fretString": "0_3_0_0_3_x"
+        },
+        {
+            "name": "Cadd9",
+            "fretString": "0_2_0_0_1_2"
+        },
+        {
+            "name": "Cadd9",
+            "fretString": "3_1_2_3_x_x"
+        },
+        {
+            "name": "Cmadd9",
+            "fretString": "3_3_0_1_3_x"
+        },
+        {
+            "name": "Cmadd9",
+            "fretString": "1_2_3_0_1_x"
+        },
+        {
+            "name": "Cmadd9",
+            "fretString": "3_3_2_0_1_3"
+        },
+        {
+            "name": "Cmadd9",
+            "fretString": "3_1_1_3_x_x"
+        },
+        {
+            "name": "C/E",
+            "fretString": "0_1_0_2_3_0"
+        },
+        {
+            "name": "C/E",
+            "fretString": "3_1_0_2_3_0"
+        },
+        {
+            "name": "C/E",
+            "fretString": "4_4_1_1_3_x"
+        },
+        {
+            "name": "C/F",
+            "fretString": "0_1_0_3_x_x"
+        },
+        {
+            "name": "C/F",
+            "fretString": "0_1_0_2_3_1"
+        },
+        {
+            "name": "C/F",
+            "fretString": "1_3_3_1_x_x"
+        },
+        {
+            "name": "C/G",
+            "fretString": "0_1_0_2_3_3"
+        },
+        {
+            "name": "C/G",
+            "fretString": "1_3_3_3_1_1"
+        },
+        {
+            "name": "C/G",
+            "fretString": "x_4_4_1_2_2"
+        },
+        {
+            "name": "C#6",
+            "fretString": "x_2_3_3_4_x"
+        },
+        {
+            "name": "C#6",
+            "fretString": "3_3_3_3_1_x"
+        },
+        {
+            "name": "C#6",
+            "fretString": "1_1_1_3_3_4"
+        },
+        {
+            "name": "C#6",
+            "fretString": "1_3_2_3_x_1"
+        },
+        {
+            "name": "C#7",
+            "fretString": "x_2_4_3_4_x"
+        },
+        {
+            "name": "C#7",
+            "fretString": "1_3_1_3_1_x"
+        },
+        {
+            "name": "C#7",
+            "fretString": "2_1_1_1_3_4"
+        },
+        {
+            "name": "C#7",
+            "fretString": "1_1_2_1_3_1"
+        },
+        {
+            "name": "C#9",
+            "fretString": "4_4_4_3_4_4"
+        },
+        {
+            "name": "C#9",
+            "fretString": "x_x_1_2_1_2"
+        },
+        {
+            "name": "C#9",
+            "fretString": "3_1_2_1_3_1"
+        },
+        {
+            "name": "C#9",
+            "fretString": "2_3_1_2_x_x"
+        },
+        {
+            "name": "C#11",
+            "fretString": "4_0_0_3_4_x"
+        },
+        {
+            "name": "C#11",
+            "fretString": "1_3_1_2_1_x"
+        },
+        {
+            "name": "C#11",
+            "fretString": "2_1_1_2_1_2"
+        },
+        {
+            "name": "C#11",
+            "fretString": "1_1_2_1_2_1"
+        },
+        {
+            "name": "C#13",
+            "fretString": "2_0_3_3_4_x"
+        },
+        {
+            "name": "C#13",
+            "fretString": "3_3_1_1_1_1"
+        },
+        {
+            "name": "C#13",
+            "fretString": "1_3_2_2_2_3"
+        },
+        {
+            "name": "C#13",
+            "fretString": "3_3_2_1_1_1"
+        },
+        {
+            "name": "C#",
+            "fretString": "1_2_1_3_4_x"
+        },
+        {
+            "name": "C#",
+            "fretString": "1_3_3_3_1_1"
+        },
+        {
+            "name": "C#",
+            "fretString": "4_1_1_1_3_4"
+        },
+        {
+            "name": "C#",
+            "fretString": "1_1_2_3_3_1"
+        },
+        {
+            "name": "C#m",
+            "fretString": "x_2_1_2_4_x"
+        },
+        {
+            "name": "C#m",
+            "fretString": "1_2_3_3_1_1"
+        },
+        {
+            "name": "C#m",
+            "fretString": "4_x_1_1_2_4"
+        },
+        {
+            "name": "C#m",
+            "fretString": "1_1_1_3_3_1"
+        },
+        {
+            "name": "C#dim",
+            "fretString": "3_2_x_2_4_x"
+        },
+        {
+            "name": "C#dim",
+            "fretString": "x_2_3_2_1_x"
+        },
+        {
+            "name": "C#dim",
+            "fretString": "x_2_3_x_1_3"
+        },
+        {
+            "name": "C#dim",
+            "fretString": "2_x_2_1_x_x"
+        },
+        {
+            "name": "C#dim7",
+            "fretString": "3_2_3_2_x_x"
+        },
+        {
+            "name": "C#dim7",
+            "fretString": "1_3_1_3_2_x"
+        },
+        {
+            "name": "C#dim7",
+            "fretString": "x_1_2_1_x_2"
+        },
+        {
+            "name": "C#dim7",
+            "fretString": "2_1_2_1_x_x"
+        },
+        {
+            "name": "C#sus2",
+            "fretString": "1_1_3_3_1_1"
+        },
+        {
+            "name": "C#sus2",
+            "fretString": "x_4_3_1_1_4"
+        },
+        {
+            "name": "C#sus2",
+            "fretString": "3_1_x_3_3_1"
+        },
+        {
+            "name": "C#sus2",
+            "fretString": "1_4_3_1_1_1"
+        },
+        {
+            "name": "C#sus4",
+            "fretString": "x_2_1_4_4_x"
+        },
+        {
+            "name": "C#sus4",
+            "fretString": "1_4_3_3_1_1"
+        },
+        {
+            "name": "C#sus4",
+            "fretString": "4_2_1_1_x_4"
+        },
+        {
+            "name": "C#sus4",
+            "fretString": "1_1_3_3_3_1"
+        },
+        {
+            "name": "C#7sus4",
+            "fretString": "2_2_4_4_4_x"
+        },
+        {
+            "name": "C#7sus4",
+            "fretString": "1_4_1_3_1_1"
+        },
+        {
+            "name": "C#7sus4",
+            "fretString": "2_2_1_x_x_x"
+        },
+        {
+            "name": "C#7sus4",
+            "fretString": "1_1_3_1_3_1"
+        },
+        {
+            "name": "C#alt",
+            "fretString": "1_2_0_3_4_x"
+        },
+        {
+            "name": "C#alt",
+            "fretString": "1_4_0_3_2_x"
+        },
+        {
+            "name": "C#alt",
+            "fretString": "x_3_3_2_1_x"
+        },
+        {
+            "name": "C#alt",
+            "fretString": "2_1_3_4_x_x"
+        },
+        {
+            "name": "C#aug",
+            "fretString": "2_2_4_4_4_x"
+        },
+        {
+            "name": "C#aug",
+            "fretString": "1_4_1_3_1_1"
+        },
+        {
+            "name": "C#aug",
+            "fretString": "x_1_1_2_3_4"
+        },
+        {
+            "name": "C#aug",
+            "fretString": "1_2_2_3_x_1"
+        },
+        {
+            "name": "C#6/9",
+            "fretString": "1_2_3_1_4_x"
+        },
+        {
+            "name": "C#6/9",
+            "fretString": "4_4_3_3_4_x"
+        },
+        {
+            "name": "C#6/9",
+            "fretString": "2_2_1_1_1_2"
+        },
+        {
+            "name": "C#6/9",
+            "fretString": "2_2_1_2_x_x"
+        },
+        {
+            "name": "C#7b5",
+            "fretString": "1_0_0_3_4_x"
+        },
+        {
+            "name": "C#7b5",
+            "fretString": "x_3_1_2_1_x"
+        },
+        {
+            "name": "C#7b5",
+            "fretString": "x_1_3_2_x_2"
+        },
+        {
+            "name": "C#7b5",
+            "fretString": "3_2_2_1_x_x"
+        },
+        {
+            "name": "C#aug7",
+            "fretString": "1_0_2_3_4_x"
+        },
+        {
+            "name": "C#aug7",
+            "fretString": "2_3_1_4_1_x"
+        },
+        {
+            "name": "C#aug7",
+            "fretString": "1_0_x_1_2_3"
+        },
+        {
+            "name": "C#aug7",
+            "fretString": "x_2_2_1_x_1"
+        },
+        {
+            "name": "C#9b5",
+            "fretString": "3_4_4_3_4_x"
+        },
+        {
+            "name": "C#9b5",
+            "fretString": "2_1_1_2_1_2"
+        },
+        {
+            "name": "C#9b5",
+            "fretString": "3_0_2_x_2_1"
+        },
+        {
+            "name": "C#aug9",
+            "fretString": "3_2_2_1_2_x"
+        },
+        {
+            "name": "C#aug9",
+            "fretString": "x_0_2_1_2_3"
+        },
+        {
+            "name": "C#aug9",
+            "fretString": "x_3_1_2_1_2"
+        },
+        {
+            "name": "C#aug9",
+            "fretString": "3_0_2_1_4_1"
+        },
+        {
+            "name": "C#7b9",
+            "fretString": "4_3_4_3_4_x"
+        },
+        {
+            "name": "C#7b9",
+            "fretString": "4_3_1_0_1_x"
+        },
+        {
+            "name": "C#7b9",
+            "fretString": "x_0_1_3_2_3"
+        },
+        {
+            "name": "C#7b9",
+            "fretString": "2_1_2_1_x_x"
+        },
+        {
+            "name": "C#7#9",
+            "fretString": "0_2_4_3_4_x"
+        },
+        {
+            "name": "C#7#9",
+            "fretString": "x_3_2_1_2_x"
+        },
+        {
+            "name": "C#7#9",
+            "fretString": "2_2_2_2_1_x"
+        },
+        {
+            "name": "C#7#9",
+            "fretString": "4_1_2_1_3_1"
+        },
+        {
+            "name": "C#9#11",
+            "fretString": "3_0_0_2_3_x"
+        },
+        {
+            "name": "C#9#11",
+            "fretString": "1_3_1_2_1_x"
+        },
+        {
+            "name": "C#9#11",
+            "fretString": "2_1_1_2_1_2"
+        },
+        {
+            "name": "C#9#11",
+            "fretString": "1_1_2_1_2_1"
+        },
+        {
+            "name": "C#maj7",
+            "fretString": "1_1_1_3_4_x"
+        },
+        {
+            "name": "C#maj7",
+            "fretString": "1_3_2_3_1_1"
+        },
+        {
+            "name": "C#maj7",
+            "fretString": "3_1_1_x_x_x"
+        },
+        {
+            "name": "C#maj7",
+            "fretString": "x_1_2_2_x_1"
+        },
+        {
+            "name": "C#maj7b5",
+            "fretString": "1_4_3_1_2_x"
+        },
+        {
+            "name": "C#maj7b5",
+            "fretString": "x_3_2_2_1_x"
+        },
+        {
+            "name": "C#maj7b5",
+            "fretString": "1_1_3_3_1_2"
+        },
+        {
+            "name": "C#maj7b5",
+            "fretString": "3_3_2_1_x_x"
+        },
+        {
+            "name": "C#maj7#5",
+            "fretString": "1_1_2_3_4_1"
+        },
+        {
+            "name": "C#maj7#5",
+            "fretString": "x_3_2_4_1_x"
+        },
+        {
+            "name": "C#maj7#5",
+            "fretString": "1_3_3_4_x_x"
+        },
+        {
+            "name": "C#maj7#5",
+            "fretString": "3_3_4_1_x_x"
+        },
+        {
+            "name": "C#maj9",
+            "fretString": "1_1_1_1_4_x"
+        },
+        {
+            "name": "C#maj9",
+            "fretString": "x_2_3_1_2_x"
+        },
+        {
+            "name": "C#maj9",
+            "fretString": "1_2_1_3_1_2"
+        },
+        {
+            "name": "C#maj9",
+            "fretString": "2_4_1_2_x_x"
+        },
+        {
+            "name": "C#maj11",
+            "fretString": "1_1_4_2_3_x"
+        },
+        {
+            "name": "C#maj11",
+            "fretString": "1_3_2_1_1_1"
+        },
+        {
+            "name": "C#maj11",
+            "fretString": "2_1_x_x_2_3"
+        },
+        {
+            "name": "C#maj11",
+            "fretString": "1_1_2_2_1_1"
+        },
+        {
+            "name": "C#maj13",
+            "fretString": "1_1_3_1_4_x"
+        },
+        {
+            "name": "C#maj13",
+            "fretString": "3_3_2_1_1_x"
+        },
+        {
+            "name": "C#maj13",
+            "fretString": "1_2_1_1_1_2"
+        },
+        {
+            "name": "C#maj13",
+            "fretString": "1_3_2_2_1_1"
+        },
+        {
+            "name": "C#m6",
+            "fretString": "4_2_3_2_4_x"
+        },
+        {
+            "name": "C#m6",
+            "fretString": "2_1_2_2_x_x"
+        },
+        {
+            "name": "C#m6",
+            "fretString": "x_2_2_1_x_2"
+        },
+        {
+            "name": "C#m6",
+            "fretString": "1_3_1_3_3_1"
+        },
+        {
+            "name": "C#m6/9",
+            "fretString": "0_2_3_1_4_x"
+        },
+        {
+            "name": "C#m6/9",
+            "fretString": "x_4_3_2_4_x"
+        },
+        {
+            "name": "C#m6/9",
+            "fretString": "0_x_2_2_1_3"
+        },
+        {
+            "name": "C#m6/9",
+            "fretString": "3_3_1_3_3_x"
+        },
+        {
+            "name": "C#m7",
+            "fretString": "1_2_1_3_1_x"
+        },
+        {
+            "name": "C#m7",
+            "fretString": "3_1_2_2_x_x"
+        },
+        {
+            "name": "C#m7",
+            "fretString": "1_1_1_1_3_1"
+        },
+        {
+            "name": "C#m7",
+            "fretString": "2_2_3_1_x_x"
+        },
+        {
+            "name": "C#m7b5",
+            "fretString": "x_2_1_2_1_x"
+        },
+        {
+            "name": "C#m7b5",
+            "fretString": "3_1_2_1_x_x"
+        },
+        {
+            "name": "C#m7b5",
+            "fretString": "x_1_2_2_x_2"
+        },
+        {
+            "name": "C#m7b5",
+            "fretString": "2_2_2_1_x_x"
+        },
+        {
+            "name": "C#m9",
+            "fretString": "4_4_4_2_4_x"
+        },
+        {
+            "name": "C#m9",
+            "fretString": "3_1_2_2_2_x"
+        },
+        {
+            "name": "C#m9",
+            "fretString": "3_3_2_3_1_x"
+        },
+        {
+            "name": "C#m9",
+            "fretString": "3_1_1_1_3_1"
+        },
+        {
+            "name": "C#m11",
+            "fretString": "2_2_4_2_4_x"
+        },
+        {
+            "name": "C#m11",
+            "fretString": "1_1_2_3_1_3"
+        },
+        {
+            "name": "C#m11",
+            "fretString": "3_1_1_1_1_1"
+        },
+        {
+            "name": "C#m11",
+            "fretString": "2_2_1_1_x_x"
+        },
+        {
+            "name": "C#mmaj7",
+            "fretString": "x_1_1_2_4_x"
+        },
+        {
+            "name": "C#mmaj7",
+            "fretString": "1_2_2_3_1_1"
+        },
+        {
+            "name": "C#mmaj7",
+            "fretString": "1_1_1_2_3_1"
+        },
+        {
+            "name": "C#mmaj7",
+            "fretString": "2_3_3_1_1_x"
+        },
+        {
+            "name": "C#mmaj7b5",
+            "fretString": "0_1_0_2_4_x"
+        },
+        {
+            "name": "C#mmaj7b5",
+            "fretString": "x_2_2_2_1_x"
+        },
+        {
+            "name": "C#mmaj7b5",
+            "fretString": "1_x_1_2_2_1"
+        },
+        {
+            "name": "C#mmaj7b5",
+            "fretString": "2_3_2_1_x_x"
+        },
+        {
+            "name": "C#mmaj9",
+            "fretString": "0_1_1_1_4_x"
+        },
+        {
+            "name": "C#mmaj9",
+            "fretString": "0_3_4_1_3_x"
+        },
+        {
+            "name": "C#mmaj9",
+            "fretString": "0_1_2_3_1_1"
+        },
+        {
+            "name": "C#mmaj9",
+            "fretString": "3_1_1_2_3_1"
+        },
+        {
+            "name": "C#mmaj11",
+            "fretString": "1_3_4_1_3_x"
+        },
+        {
+            "name": "C#mmaj11",
+            "fretString": "1_2_2_1_1_1"
+        },
+        {
+            "name": "C#mmaj11",
+            "fretString": "3_1_1_2_1_1"
+        },
+        {
+            "name": "C#mmaj11",
+            "fretString": "2_3_1_1_x_x"
+        },
+        {
+            "name": "C#add9",
+            "fretString": "1_4_1_3_4_x"
+        },
+        {
+            "name": "C#add9",
+            "fretString": "4_4_x_3_4_x"
+        },
+        {
+            "name": "C#add9",
+            "fretString": "x_2_1_x_1_2"
+        },
+        {
+            "name": "C#add9",
+            "fretString": "3_1_2_3_x_x"
+        },
+        {
+            "name": "C#madd9",
+            "fretString": "x_4_1_2_4_x"
+        },
+        {
+            "name": "C#madd9",
+            "fretString": "0_1_3_3_1_x"
+        },
+        {
+            "name": "C#madd9",
+            "fretString": "0_3_2_x_1_3"
+        },
+        {
+            "name": "C#madd9",
+            "fretString": "3_1_1_3_x_x"
+        },
+        {
+            "name": "D6",
+            "fretString": "2_0_2_0_x_x"
+        },
+        {
+            "name": "D6",
+            "fretString": "x_1_2_2_3_x"
+        },
+        {
+            "name": "D6",
+            "fretString": "3_3_3_3_1_x"
+        },
+        {
+            "name": "D6",
+            "fretString": "1_4_1_1_3_1"
+        },
+        {
+            "name": "D7",
+            "fretString": "2_1_2_0_x_x"
+        },
+        {
+            "name": "D7",
+            "fretString": "x_1_3_2_3_x"
+        },
+        {
+            "name": "D7",
+            "fretString": "1_3_1_3_1_1"
+        },
+        {
+            "name": "D7",
+            "fretString": "1_1_2_1_3_1"
+        },
+        {
+            "name": "D9",
+            "fretString": "2_2_2_1_2_2"
+        },
+        {
+            "name": "D9",
+            "fretString": "2_1_1_0_1_x"
+        },
+        {
+            "name": "D9",
+            "fretString": "x_2_1_2_1_2"
+        },
+        {
+            "name": "D9",
+            "fretString": "3_1_2_1_3_1"
+        },
+        {
+            "name": "D11",
+            "fretString": "2_1_0_0_x_x"
+        },
+        {
+            "name": "D11",
+            "fretString": "1_1_3_2_3_x"
+        },
+        {
+            "name": "D11",
+            "fretString": "1_3_1_1_1_x"
+        },
+        {
+            "name": "D11",
+            "fretString": "2_2_1_1_3_x"
+        },
+        {
+            "name": "D13",
+            "fretString": "2_1_4_0_x_x"
+        },
+        {
+            "name": "D13",
+            "fretString": "3_3_1_1_1_1"
+        },
+        {
+            "name": "D13",
+            "fretString": "1_0_2_0_2_3"
+        },
+        {
+            "name": "D13",
+            "fretString": "x_3_2_1_x_1"
+        },
+        {
+            "name": "D",
+            "fretString": "2_3_2_0_x_x"
+        },
+        {
+            "name": "D",
+            "fretString": "1_2_1_3_4_1"
+        },
+        {
+            "name": "D",
+            "fretString": "1_3_3_3_1_1"
+        },
+        {
+            "name": "D",
+            "fretString": "1_1_2_3_3_1"
+        },
+        {
+            "name": "Dm",
+            "fretString": "1_3_2_0_x_x"
+        },
+        {
+            "name": "Dm",
+            "fretString": "1_2_3_3_1_1"
+        },
+        {
+            "name": "Dm",
+            "fretString": "x_1_2_2_3_x"
+        },
+        {
+            "name": "Dm",
+            "fretString": "1_1_1_3_3_1"
+        },
+        {
+            "name": "Ddim",
+            "fretString": "1_x_1_0_x_x"
+        },
+        {
+            "name": "Ddim",
+            "fretString": "2_1_x_1_3_x"
+        },
+        {
+            "name": "Ddim",
+            "fretString": "x_2_3_2_1_x"
+        },
+        {
+            "name": "Ddim",
+            "fretString": "x_2_3_x_1_3"
+        },
+        {
+            "name": "Ddim7",
+            "fretString": "1_0_1_0_x_x"
+        },
+        {
+            "name": "Ddim7",
+            "fretString": "1_3_1_3_2_x"
+        },
+        {
+            "name": "Ddim7",
+            "fretString": "1_3_4_0_2_x"
+        },
+        {
+            "name": "Ddim7",
+            "fretString": "1_3_1_3_2_1"
+        },
+        {
+            "name": "Dsus2",
+            "fretString": "0_3_2_0_x_x"
+        },
+        {
+            "name": "Dsus2",
+            "fretString": "4_2_1_1_x_x"
+        },
+        {
+            "name": "Dsus2",
+            "fretString": "1_1_3_3_1_1"
+        },
+        {
+            "name": "Dsus2",
+            "fretString": "4_4_1_1_1_x"
+        },
+        {
+            "name": "Dsus4",
+            "fretString": "3_3_2_0_x_x"
+        },
+        {
+            "name": "Dsus4",
+            "fretString": "3_1_0_0_3_x"
+        },
+        {
+            "name": "Dsus4",
+            "fretString": "1_4_3_3_1_1"
+        },
+        {
+            "name": "Dsus4",
+            "fretString": "1_1_3_3_3_1"
+        },
+        {
+            "name": "D7sus4",
+            "fretString": "3_1_2_0_x_x"
+        },
+        {
+            "name": "D7sus4",
+            "fretString": "x_1_3_3_3_x"
+        },
+        {
+            "name": "D7sus4",
+            "fretString": "1_4_1_3_1_1"
+        },
+        {
+            "name": "D7sus4",
+            "fretString": "1_1_3_1_3_1"
+        },
+        {
+            "name": "Dalt",
+            "fretString": "2_3_1_0_x_x"
+        },
+        {
+            "name": "Dalt",
+            "fretString": "2_1_x_2_3_x"
+        },
+        {
+            "name": "Dalt",
+            "fretString": "x_3_3_2_1_x"
+        },
+        {
+            "name": "Dalt",
+            "fretString": "2_1_3_0_3_x"
+        },
+        {
+            "name": "Daug",
+            "fretString": "2_3_3_0_x_x"
+        },
+        {
+            "name": "Daug",
+            "fretString": "x_1_1_2_3_x"
+        },
+        {
+            "name": "Daug",
+            "fretString": "x_1_1_2_3_4"
+        },
+        {
+            "name": "Daug",
+            "fretString": "x_2_2_3_x_1"
+        },
+        {
+            "name": "D6/9",
+            "fretString": "0_0_1_3_4_x"
+        },
+        {
+            "name": "D6/9",
+            "fretString": "2_2_1_1_2_x"
+        },
+        {
+            "name": "D6/9",
+            "fretString": "2_2_1_1_1_2"
+        },
+        {
+            "name": "D6/9",
+            "fretString": "2_2_1_2_2_x"
+        },
+        {
+            "name": "D7b5",
+            "fretString": "2_1_1_0_x_x"
+        },
+        {
+            "name": "D7b5",
+            "fretString": "2_1_3_2_x_x"
+        },
+        {
+            "name": "D7b5",
+            "fretString": "x_3_1_2_1_x"
+        },
+        {
+            "name": "D7b5",
+            "fretString": "x_1_3_2_x_2"
+        },
+        {
+            "name": "Daug7",
+            "fretString": "2_1_3_0_x_x"
+        },
+        {
+            "name": "Daug7",
+            "fretString": "3_x_2_1_2_x"
+        },
+        {
+            "name": "Daug7",
+            "fretString": "2_3_1_4_1_x"
+        },
+        {
+            "name": "Daug7",
+            "fretString": "x_2_2_1_x_1"
+        },
+        {
+            "name": "D9b5",
+            "fretString": "1_2_2_1_2_x"
+        },
+        {
+            "name": "D9b5",
+            "fretString": "0_3_1_2_1_x"
+        },
+        {
+            "name": "D9b5",
+            "fretString": "2_1_1_2_1_2"
+        },
+        {
+            "name": "D9b5",
+            "fretString": "3_x_2_1_2_1"
+        },
+        {
+            "name": "Daug9",
+            "fretString": "3_2_2_1_2_x"
+        },
+        {
+            "name": "Daug9",
+            "fretString": "2_3_1_0_3_x"
+        },
+        {
+            "name": "Daug9",
+            "fretString": "x_3_1_2_1_2"
+        },
+        {
+            "name": "Daug9",
+            "fretString": "0_2_2_1_x_1"
+        },
+        {
+            "name": "D7b9",
+            "fretString": "1_3_4_0_x_x"
+        },
+        {
+            "name": "D7b9",
+            "fretString": "2_1_2_1_2_x"
+        },
+        {
+            "name": "D7b9",
+            "fretString": "1_3_1_0_2_x"
+        },
+        {
+            "name": "D7b9",
+            "fretString": "x_x_1_3_2_3"
+        },
+        {
+            "name": "D7#9",
+            "fretString": "x_3_2_1_2_x"
+        },
+        {
+            "name": "D7#9",
+            "fretString": "2_1_4_0_0_0"
+        },
+        {
+            "name": "D7#9",
+            "fretString": "2_1_1_1_2_x"
+        },
+        {
+            "name": "D7#9",
+            "fretString": "4_1_2_1_3_1"
+        },
+        {
+            "name": "D9#11",
+            "fretString": "2_1_1_0_x_x"
+        },
+        {
+            "name": "D9#11",
+            "fretString": "1_2_2_1_2_x"
+        },
+        {
+            "name": "D9#11",
+            "fretString": "2_3_1_0_3_x"
+        },
+        {
+            "name": "D9#11",
+            "fretString": "2_1_1_2_1_2"
+        },
+        {
+            "name": "Dmaj7",
+            "fretString": "2_2_2_0_x_x"
+        },
+        {
+            "name": "Dmaj7",
+            "fretString": "1_1_1_3_4_x"
+        },
+        {
+            "name": "Dmaj7",
+            "fretString": "1_3_2_3_1_1"
+        },
+        {
+            "name": "Dmaj7",
+            "fretString": "3_1_1_1_x_x"
+        },
+        {
+            "name": "Dmaj7b5",
+            "fretString": "2_2_1_0_x_x"
+        },
+        {
+            "name": "Dmaj7b5",
+            "fretString": "x_3_2_2_1_x"
+        },
+        {
+            "name": "Dmaj7b5",
+            "fretString": "1_1_3_3_1_2"
+        },
+        {
+            "name": "Dmaj7b5",
+            "fretString": "1_x_2_2_2_1"
+        },
+        {
+            "name": "Dmaj7#5",
+            "fretString": "2_2_3_0_x_x"
+        },
+        {
+            "name": "Dmaj7#5",
+            "fretString": "1_1_2_3_4_1"
+        },
+        {
+            "name": "Dmaj7#5",
+            "fretString": "2_3_2_0_1_x"
+        },
+        {
+            "name": "Dmaj7#5",
+            "fretString": "1_3_3_0_x_x"
+        },
+        {
+            "name": "Dmaj9",
+            "fretString": "1_1_1_1_4_x"
+        },
+        {
+            "name": "Dmaj9",
+            "fretString": "x_1_3_1_2_x"
+        },
+        {
+            "name": "Dmaj9",
+            "fretString": "3_1_3_0_3_x"
+        },
+        {
+            "name": "Dmaj9",
+            "fretString": "3_1_2_2_x_1"
+        },
+        {
+            "name": "Dmaj11",
+            "fretString": "2_2_0_0_x_x"
+        },
+        {
+            "name": "Dmaj11",
+            "fretString": "1_3_2_1_1_1"
+        },
+        {
+            "name": "Dmaj11",
+            "fretString": "3_2_1_0_3_x"
+        },
+        {
+            "name": "Dmaj11",
+            "fretString": "1_1_2_2_1_1"
+        },
+        {
+            "name": "Dmaj13",
+            "fretString": "2_2_4_0_x_x"
+        },
+        {
+            "name": "Dmaj13",
+            "fretString": "0_1_3_3_4_x"
+        },
+        {
+            "name": "Dmaj13",
+            "fretString": "3_3_2_1_1_x"
+        },
+        {
+            "name": "Dmaj13",
+            "fretString": "1_2_1_1_1_2"
+        },
+        {
+            "name": "Dm6",
+            "fretString": "1_0_2_0_x_x"
+        },
+        {
+            "name": "Dm6",
+            "fretString": "3_1_2_1_3_x"
+        },
+        {
+            "name": "Dm6",
+            "fretString": "3_2_x_3_1_x"
+        },
+        {
+            "name": "Dm6",
+            "fretString": "2_2_2_1_x_2"
+        },
+        {
+            "name": "Dm6/9",
+            "fretString": "0_0_1_2_4_x"
+        },
+        {
+            "name": "Dm6/9",
+            "fretString": "0_3_2_1_3_x"
+        },
+        {
+            "name": "Dm6/9",
+            "fretString": "2_1_2_0_2_x"
+        },
+        {
+            "name": "Dm6/9",
+            "fretString": "3_3_1_3_3_x"
+        },
+        {
+            "name": "Dm7",
+            "fretString": "1_1_2_0_x_x"
+        },
+        {
+            "name": "Dm7",
+            "fretString": "1_2_1_3_1_1"
+        },
+        {
+            "name": "Dm7",
+            "fretString": "3_1_2_2_x_x"
+        },
+        {
+            "name": "Dm7",
+            "fretString": "1_1_1_1_3_1"
+        },
+        {
+            "name": "Dm7b5",
+            "fretString": "1_1_1_0_x_x"
+        },
+        {
+            "name": "Dm7b5",
+            "fretString": "2_1_3_1_3_x"
+        },
+        {
+            "name": "Dm7b5",
+            "fretString": "x_2_1_2_1_x"
+        },
+        {
+            "name": "Dm7b5",
+            "fretString": "1_2_3_0_1_x"
+        },
+        {
+            "name": "Dm9",
+            "fretString": "0_1_2_0_0_1"
+        },
+        {
+            "name": "Dm9",
+            "fretString": "3_3_3_1_3_x"
+        },
+        {
+            "name": "Dm9",
+            "fretString": "0_2_1_3_1_x"
+        },
+        {
+            "name": "Dm9",
+            "fretString": "3_1_1_1_3_1"
+        },
+        {
+            "name": "Dm11",
+            "fretString": "1_1_0_0_x_x"
+        },
+        {
+            "name": "Dm11",
+            "fretString": "1_3_3_1_3_x"
+        },
+        {
+            "name": "Dm11",
+            "fretString": "1_1_2_3_1_3"
+        },
+        {
+            "name": "Dm11",
+            "fretString": "3_1_1_1_1_1"
+        },
+        {
+            "name": "Dmmaj7",
+            "fretString": "1_2_2_0_x_x"
+        },
+        {
+            "name": "Dmmaj7",
+            "fretString": "0_1_1_2_4_x"
+        },
+        {
+            "name": "Dmmaj7",
+            "fretString": "1_2_2_3_1_1"
+        },
+        {
+            "name": "Dmmaj7",
+            "fretString": "1_1_1_2_3_1"
+        },
+        {
+            "name": "Dmmaj7b5",
+            "fretString": "1_2_1_0_x_x"
+        },
+        {
+            "name": "Dmmaj7b5",
+            "fretString": "x_3_3_3_2_1"
+        },
+        {
+            "name": "Dmmaj7b5",
+            "fretString": "x_2_2_2_1_x"
+        },
+        {
+            "name": "Dmmaj7b5",
+            "fretString": "1_x_1_2_2_1"
+        },
+        {
+            "name": "Dmmaj9",
+            "fretString": "0_3_4_1_3_x"
+        },
+        {
+            "name": "Dmmaj9",
+            "fretString": "1_2_2_0_3_x"
+        },
+        {
+            "name": "Dmmaj9",
+            "fretString": "2_3_2_0_1_x"
+        },
+        {
+            "name": "Dmmaj9",
+            "fretString": "3_1_1_2_3_1"
+        },
+        {
+            "name": "Dmmaj11",
+            "fretString": "1_2_0_0_x_x"
+        },
+        {
+            "name": "Dmmaj11",
+            "fretString": "1_3_4_1_3_x"
+        },
+        {
+            "name": "Dmmaj11",
+            "fretString": "1_3_3_1_1_1"
+        },
+        {
+            "name": "Dmmaj11",
+            "fretString": "3_1_1_2_1_1"
+        },
+        {
+            "name": "Dadd9",
+            "fretString": "1_4_1_3_4_x"
+        },
+        {
+            "name": "Dadd9",
+            "fretString": "0_3_3_3_1_x"
+        },
+        {
+            "name": "Dadd9",
+            "fretString": "4_1_3_0_x_x"
+        },
+        {
+            "name": "Dadd9",
+            "fretString": "3_1_2_3_x_x"
+        },
+        {
+            "name": "Dmadd9",
+            "fretString": "0_2_1_2_4_x"
+        },
+        {
+            "name": "Dmadd9",
+            "fretString": "x_4_1_2_4_x"
+        },
+        {
+            "name": "Dmadd9",
+            "fretString": "0_2_3_3_1_x"
+        },
+        {
+            "name": "Dmadd9",
+            "fretString": "3_1_1_3_x_x"
+        },
+        {
+            "name": "D/F#",
+            "fretString": "2_3_2_0_0_2"
+        },
+        {
+            "name": "D/F#",
+            "fretString": "1_2_1_3_4_1"
+        },
+        {
+            "name": "D/F#",
+            "fretString": "4_2_1_3_x_x"
+        },
+        {
+            "name": "D/A",
+            "fretString": "2_3_2_0_0_x"
+        },
+        {
+            "name": "D/A",
+            "fretString": "1_3_3_3_1_1"
+        },
+        {
+            "name": "D/A",
+            "fretString": "x_4_4_1_2_2"
+        },
+        {
+            "name": "D/Bb",
+            "fretString": "2_3_2_0_1_x"
+        },
+        {
+            "name": "D/Bb",
+            "fretString": "2_3_2_4_1_x"
+        },
+        {
+            "name": "D/Bb",
+            "fretString": "x_3_3_3_1_2"
+        },
+        {
+            "name": "D/B",
+            "fretString": "2_3_2_0_2_x"
+        },
+        {
+            "name": "D/B",
+            "fretString": "2_3_2_4_2_x"
+        },
+        {
+            "name": "D/B",
+            "fretString": "4_2_1_3_1_x"
+        },
+        {
+            "name": "D/C",
+            "fretString": "2_3_2_0_3_x"
+        },
+        {
+            "name": "D/C",
+            "fretString": "2_3_2_4_3_x"
+        },
+        {
+            "name": "D/C",
+            "fretString": "x_3_3_3_1_4"
+        },
+        {
+            "name": "Eb6",
+            "fretString": "3_1_3_1_x_x"
+        },
+        {
+            "name": "Eb6",
+            "fretString": "x_1_2_2_3_x"
+        },
+        {
+            "name": "Eb6",
+            "fretString": "3_3_3_3_1_x"
+        },
+        {
+            "name": "Eb6",
+            "fretString": "x_2_3_1_x_2"
+        },
+        {
+            "name": "Eb7",
+            "fretString": "3_2_3_1_x_x"
+        },
+        {
+            "name": "Eb7",
+            "fretString": "1_3_1_3_1_x"
+        },
+        {
+            "name": "Eb7",
+            "fretString": "2_1_1_1_x_x"
+        },
+        {
+            "name": "Eb7",
+            "fretString": "1_1_2_1_3_1"
+        },
+        {
+            "name": "Eb9",
+            "fretString": "1_2_0_1_x_x"
+        },
+        {
+            "name": "Eb9",
+            "fretString": "2_2_2_1_2_x"
+        },
+        {
+            "name": "Eb9",
+            "fretString": "x_x_1_2_1_2"
+        },
+        {
+            "name": "Eb9",
+            "fretString": "3_1_2_1_3_1"
+        },
+        {
+            "name": "Eb11",
+            "fretString": "3_2_1_1_1_1"
+        },
+        {
+            "name": "Eb11",
+            "fretString": "1_1_3_2_3_x"
+        },
+        {
+            "name": "Eb11",
+            "fretString": "1_3_1_1_1_0"
+        },
+        {
+            "name": "Eb11",
+            "fretString": "1_1_2_1_1_1"
+        },
+        {
+            "name": "Eb13",
+            "fretString": "4_4_2_1_2_x"
+        },
+        {
+            "name": "Eb13",
+            "fretString": "3_3_1_1_1_1"
+        },
+        {
+            "name": "Eb13",
+            "fretString": "1_1_0_2_2_3"
+        },
+        {
+            "name": "Eb13",
+            "fretString": "3_3_2_1_1_1"
+        },
+        {
+            "name": "Eb",
+            "fretString": "3_4_3_1_x_x"
+        },
+        {
+            "name": "Eb",
+            "fretString": "1_2_1_3_4_x"
+        },
+        {
+            "name": "Eb",
+            "fretString": "1_3_3_3_1_x"
+        },
+        {
+            "name": "Eb",
+            "fretString": "4_1_1_1_x_x"
+        },
+        {
+            "name": "Ebm",
+            "fretString": "2_4_3_1_x_x"
+        },
+        {
+            "name": "Ebm",
+            "fretString": "2_4_3_4_x_x"
+        },
+        {
+            "name": "Ebm",
+            "fretString": "1_2_3_3_1_1"
+        },
+        {
+            "name": "Ebm",
+            "fretString": "1_1_1_3_3_1"
+        },
+        {
+            "name": "Ebdim",
+            "fretString": "2_x_2_1_x_x"
+        },
+        {
+            "name": "Ebdim",
+            "fretString": "2_1_x_1_3_x"
+        },
+        {
+            "name": "Ebdim",
+            "fretString": "x_2_3_2_1_x"
+        },
+        {
+            "name": "Ebdim",
+            "fretString": "x_2_3_x_1_3"
+        },
+        {
+            "name": "Ebdim7",
+            "fretString": "2_1_2_1_x_x"
+        },
+        {
+            "name": "Ebdim7",
+            "fretString": "1_3_1_3_2_x"
+        },
+        {
+            "name": "Ebdim7",
+            "fretString": "2_1_2_1_x_x"
+        },
+        {
+            "name": "Ebdim7",
+            "fretString": "x_1_2_1_x_2"
+        },
+        {
+            "name": "Ebsus2",
+            "fretString": "1_4_3_1_1_1"
+        },
+        {
+            "name": "Ebsus2",
+            "fretString": "1_1_3_3_1_1"
+        },
+        {
+            "name": "Ebsus2",
+            "fretString": "x_4_3_1_1_4"
+        },
+        {
+            "name": "Ebsus2",
+            "fretString": "3_1_x_3_3_1"
+        },
+        {
+            "name": "Ebsus4",
+            "fretString": "4_4_3_1_x_x"
+        },
+        {
+            "name": "Ebsus4",
+            "fretString": "1_4_3_3_1_1"
+        },
+        {
+            "name": "Ebsus4",
+            "fretString": "x_2_1_1_x_x"
+        },
+        {
+            "name": "Ebsus4",
+            "fretString": "1_1_3_3_3_1"
+        },
+        {
+            "name": "Eb7sus4",
+            "fretString": "4_2_3_1_x_x"
+        },
+        {
+            "name": "Eb7sus4",
+            "fretString": "1_1_3_3_3_x"
+        },
+        {
+            "name": "Eb7sus4",
+            "fretString": "1_4_1_3_1_1"
+        },
+        {
+            "name": "Eb7sus4",
+            "fretString": "1_1_3_1_3_1"
+        },
+        {
+            "name": "Ebalt",
+            "fretString": "3_4_2_1_x_x"
+        },
+        {
+            "name": "Ebalt",
+            "fretString": "2_1_0_2_3_x"
+        },
+        {
+            "name": "Ebalt",
+            "fretString": "x_3_0_2_1_x"
+        },
+        {
+            "name": "Ebalt",
+            "fretString": "2_1_3_x_1_2"
+        },
+        {
+            "name": "Ebaug",
+            "fretString": "1_2_2_3_x_x"
+        },
+        {
+            "name": "Ebaug",
+            "fretString": "x_1_1_2_3_x"
+        },
+        {
+            "name": "Ebaug",
+            "fretString": "x_1_1_2_3_4"
+        },
+        {
+            "name": "Ebaug",
+            "fretString": "x_2_2_3_x_1"
+        },
+        {
+            "name": "Eb6/9",
+            "fretString": "1_1_0_1_x_x"
+        },
+        {
+            "name": "Eb6/9",
+            "fretString": "3_4_3_3_3_x"
+        },
+        {
+            "name": "Eb6/9",
+            "fretString": "2_2_1_1_2_x"
+        },
+        {
+            "name": "Eb6/9",
+            "fretString": "2_2_1_1_1_2"
+        },
+        {
+            "name": "Eb7b5",
+            "fretString": "3_2_2_1_x_x"
+        },
+        {
+            "name": "Eb7b5",
+            "fretString": "2_1_3_2_x_x"
+        },
+        {
+            "name": "Eb7b5",
+            "fretString": "1_3_1_2_1_x"
+        },
+        {
+            "name": "Eb7b5",
+            "fretString": "x_1_3_2_x_2"
+        },
+        {
+            "name": "Ebaug7",
+            "fretString": "3_2_4_1_x_x"
+        },
+        {
+            "name": "Ebaug7",
+            "fretString": "2_3_1_4_1_x"
+        },
+        {
+            "name": "Ebaug7",
+            "fretString": "1_0_0_3_2_3"
+        },
+        {
+            "name": "Ebaug7",
+            "fretString": "x_2_2_1_x_1"
+        },
+        {
+            "name": "Eb9b5",
+            "fretString": "1_2_2_1_2_x"
+        },
+        {
+            "name": "Eb9b5",
+            "fretString": "4_1_0_2_1_x"
+        },
+        {
+            "name": "Eb9b5",
+            "fretString": "2_1_1_2_1_2"
+        },
+        {
+            "name": "Eb9b5",
+            "fretString": "3_x_2_1_2_1"
+        },
+        {
+            "name": "Ebaug9",
+            "fretString": "3_4_4_3_4_3"
+        },
+        {
+            "name": "Ebaug9",
+            "fretString": "3_2_2_1_2_x"
+        },
+        {
+            "name": "Ebaug9",
+            "fretString": "1_0_2_x_2_3"
+        },
+        {
+            "name": "Ebaug9",
+            "fretString": "x_3_1_2_1_2"
+        },
+        {
+            "name": "Eb7b9",
+            "fretString": "0_2_0_1_x_x"
+        },
+        {
+            "name": "Eb7b9",
+            "fretString": "2_1_2_1_2_x"
+        },
+        {
+            "name": "Eb7b9",
+            "fretString": "0_3_1_3_1_x"
+        },
+        {
+            "name": "Eb7b9",
+            "fretString": "x_x_1_3_2_3"
+        },
+        {
+            "name": "Eb7#9",
+            "fretString": "2_2_0_1_x_x"
+        },
+        {
+            "name": "Eb7#9",
+            "fretString": "x_3_2_1_2_x"
+        },
+        {
+            "name": "Eb7#9",
+            "fretString": "2_1_1_1_2_x"
+        },
+        {
+            "name": "Eb7#9",
+            "fretString": "x_x_2_2_1_2"
+        },
+        {
+            "name": "Eb9#11",
+            "fretString": "3_2_2_1_x_x"
+        },
+        {
+            "name": "Eb9#11",
+            "fretString": "1_2_2_1_2_x"
+        },
+        {
+            "name": "Eb9#11",
+            "fretString": "x_3_1_2_1_x"
+        },
+        {
+            "name": "Eb9#11",
+            "fretString": "2_1_1_2_1_2"
+        },
+        {
+            "name": "Ebmaj7",
+            "fretString": "3_3_3_1_1_x"
+        },
+        {
+            "name": "Ebmaj7",
+            "fretString": "1_1_1_3_4_x"
+        },
+        {
+            "name": "Ebmaj7",
+            "fretString": "1_3_2_3_1_1"
+        },
+        {
+            "name": "Ebmaj7",
+            "fretString": "3_1_1_1_x_x"
+        },
+        {
+            "name": "Ebmaj7b5",
+            "fretString": "3_3_2_1_x_x"
+        },
+        {
+            "name": "Ebmaj7b5",
+            "fretString": "1_3_2_2_1_x"
+        },
+        {
+            "name": "Ebmaj7b5",
+            "fretString": "1_1_3_3_1_2"
+        },
+        {
+            "name": "Ebmaj7b5",
+            "fretString": "1_x_2_2_2_1"
+        },
+        {
+            "name": "Ebmaj7#5",
+            "fretString": "1_1_2_3_4_1"
+        },
+        {
+            "name": "Ebmaj7#5",
+            "fretString": "3_x_3_1_2_x"
+        },
+        {
+            "name": "Ebmaj7#5",
+            "fretString": "x_3_2_4_1_x"
+        },
+        {
+            "name": "Ebmaj7#5",
+            "fretString": "1_2_2_2_x_1"
+        },
+        {
+            "name": "Ebmaj9",
+            "fretString": "1_1_1_1_4_x"
+        },
+        {
+            "name": "Ebmaj9",
+            "fretString": "x_2_3_1_2_x"
+        },
+        {
+            "name": "Ebmaj9",
+            "fretString": "3_1_1_1_1_x"
+        },
+        {
+            "name": "Ebmaj9",
+            "fretString": "3_1_2_2_x_x"
+        },
+        {
+            "name": "Ebmaj11",
+            "fretString": "3_3_1_1_x_x"
+        },
+        {
+            "name": "Ebmaj11",
+            "fretString": "1_1_4_2_3_x"
+        },
+        {
+            "name": "Ebmaj11",
+            "fretString": "1_3_2_1_1_1"
+        },
+        {
+            "name": "Ebmaj11",
+            "fretString": "1_1_2_2_1_1"
+        },
+        {
+            "name": "Ebmaj13",
+            "fretString": "x_3_0_1_3_x"
+        },
+        {
+            "name": "Ebmaj13",
+            "fretString": "1_1_3_3_4_x"
+        },
+        {
+            "name": "Ebmaj13",
+            "fretString": "3_3_2_1_1_x"
+        },
+        {
+            "name": "Ebmaj13",
+            "fretString": "1_2_1_1_1_2"
+        },
+        {
+            "name": "Ebm6",
+            "fretString": "2_1_3_1_1_x"
+        },
+        {
+            "name": "Ebm6",
+            "fretString": "3_1_2_1_3_x"
+        },
+        {
+            "name": "Ebm6",
+            "fretString": "2_1_2_2_x_x"
+        },
+        {
+            "name": "Ebm6",
+            "fretString": "1_3_1_3_3_1"
+        },
+        {
+            "name": "Ebm6/9",
+            "fretString": "1_1_3_1_x_2"
+        },
+        {
+            "name": "Ebm6/9",
+            "fretString": "x_3_2_1_3_x"
+        },
+        {
+            "name": "Ebm6/9",
+            "fretString": "1_1_2_2_1_3"
+        },
+        {
+            "name": "Ebm6/9",
+            "fretString": "3_3_1_3_x_x"
+        },
+        {
+            "name": "Ebm7",
+            "fretString": "2_2_3_1_x_x"
+        },
+        {
+            "name": "Ebm7",
+            "fretString": "1_2_1_3_1_1"
+        },
+        {
+            "name": "Ebm7",
+            "fretString": "3_1_2_2_x_x"
+        },
+        {
+            "name": "Ebm7",
+            "fretString": "1_1_1_1_3_1"
+        },
+        {
+            "name": "Ebm7b5",
+            "fretString": "2_2_2_1_x_x"
+        },
+        {
+            "name": "Ebm7b5",
+            "fretString": "x_2_1_2_1_x"
+        },
+        {
+            "name": "Ebm7b5",
+            "fretString": "3_1_2_1_x_x"
+        },
+        {
+            "name": "Ebm7b5",
+            "fretString": "x_1_2_2_x_2"
+        },
+        {
+            "name": "Ebm9",
+            "fretString": "3_3_3_1_3_x"
+        },
+        {
+            "name": "Ebm9",
+            "fretString": "3_1_4_2_x_x"
+        },
+        {
+            "name": "Ebm9",
+            "fretString": "3_3_2_3_1_x"
+        },
+        {
+            "name": "Ebm9",
+            "fretString": "3_1_1_1_3_1"
+        },
+        {
+            "name": "Ebm11",
+            "fretString": "2_2_1_1_x_x"
+        },
+        {
+            "name": "Ebm11",
+            "fretString": "1_3_3_1_3_x"
+        },
+        {
+            "name": "Ebm11",
+            "fretString": "1_1_2_3_1_3"
+        },
+        {
+            "name": "Ebm11",
+            "fretString": "3_1_1_1_1_1"
+        },
+        {
+            "name": "Ebmmaj7",
+            "fretString": "2_3_3_1_x_x"
+        },
+        {
+            "name": "Ebmmaj7",
+            "fretString": "x_1_1_2_4_x"
+        },
+        {
+            "name": "Ebmmaj7",
+            "fretString": "1_2_2_3_1_x"
+        },
+        {
+            "name": "Ebmmaj7",
+            "fretString": "1_1_1_2_3_1"
+        },
+        {
+            "name": "Ebmmaj7b5",
+            "fretString": "2_3_2_1_x_x"
+        },
+        {
+            "name": "Ebmmaj7b5",
+            "fretString": "x_3_3_3_2_1"
+        },
+        {
+            "name": "Ebmmaj7b5",
+            "fretString": "x_2_2_2_1_x"
+        },
+        {
+            "name": "Ebmmaj7b5",
+            "fretString": "1_x_1_2_2_1"
+        },
+        {
+            "name": "Ebmmaj9",
+            "fretString": "x_3_4_1_3_x"
+        },
+        {
+            "name": "Ebmmaj9",
+            "fretString": "1_1_2_3_4_1"
+        },
+        {
+            "name": "Ebmmaj9",
+            "fretString": "x_x_2_4_1_3"
+        },
+        {
+            "name": "Ebmmaj9",
+            "fretString": "3_1_1_2_3_1"
+        },
+        {
+            "name": "Ebmmaj11",
+            "fretString": "2_3_1_1_1_x"
+        },
+        {
+            "name": "Ebmmaj11",
+            "fretString": "1_3_4_1_3_x"
+        },
+        {
+            "name": "Ebmmaj11",
+            "fretString": "1_2_2_1_1_1"
+        },
+        {
+            "name": "Ebmmaj11",
+            "fretString": "3_1_1_2_1_1"
+        },
+        {
+            "name": "Ebadd9",
+            "fretString": "1_4_1_3_4_x"
+        },
+        {
+            "name": "Ebadd9",
+            "fretString": "2_2_0_1_2_x"
+        },
+        {
+            "name": "Ebadd9",
+            "fretString": "x_2_1_x_1_2"
+        },
+        {
+            "name": "Ebadd9",
+            "fretString": "3_1_2_3_x_x"
+        },
+        {
+            "name": "Ebmadd9",
+            "fretString": "1_4_3_4_x_x"
+        },
+        {
+            "name": "Ebmadd9",
+            "fretString": "x_4_1_2_4_x"
+        },
+        {
+            "name": "Ebmadd9",
+            "fretString": "3_3_x_1_3_x"
+        },
+        {
+            "name": "Ebmadd9",
+            "fretString": "3_1_1_3_x_x"
+        },
+        {
+            "name": "E6",
+            "fretString": "0_2_1_2_2_0"
+        },
+        {
+            "name": "E6",
+            "fretString": "4_2_4_2_2_0"
+        },
+        {
+            "name": "E6",
+            "fretString": "x_1_2_2_3_x"
+        },
+        {
+            "name": "E6",
+            "fretString": "3_3_3_3_1_x"
+        },
+        {
+            "name": "E7",
+            "fretString": "0_0_1_0_2_0"
+        },
+        {
+            "name": "E7",
+            "fretString": "x_1_3_2_3_x"
+        },
+        {
+            "name": "E7",
+            "fretString": "1_3_1_3_1_1"
+        },
+        {
+            "name": "E7",
+            "fretString": "2_1_1_1_x_x"
+        },
+        {
+            "name": "E9",
+            "fretString": "2_0_1_0_2_0"
+        },
+        {
+            "name": "E9",
+            "fretString": "2_3_4_2_x_4"
+        },
+        {
+            "name": "E9",
+            "fretString": "2_2_2_1_2_2"
+        },
+        {
+            "name": "E9",
+            "fretString": "2_1_1_1_1_0"
+        },
+        {
+            "name": "E11",
+            "fretString": "0_0_1_0_0_0"
+        },
+        {
+            "name": "E11",
+            "fretString": "4_3_4_4_0_0"
+        },
+        {
+            "name": "E11",
+            "fretString": "1_1_3_2_3_x"
+        },
+        {
+            "name": "E11",
+            "fretString": "1_3_1_1_1_x"
+        },
+        {
+            "name": "E13",
+            "fretString": "0_2_1_0_2_0"
+        },
+        {
+            "name": "E13",
+            "fretString": "2_2_1_0_0_0"
+        },
+        {
+            "name": "E13",
+            "fretString": "0_1_2_2_1_0"
+        },
+        {
+            "name": "E13",
+            "fretString": "3_3_1_1_1_1"
+        },
+        {
+            "name": "E",
+            "fretString": "0_0_1_2_2_0"
+        },
+        {
+            "name": "E",
+            "fretString": "3_4_3_1_x_x"
+        },
+        {
+            "name": "E",
+            "fretString": "1_2_1_3_4_1"
+        },
+        {
+            "name": "E",
+            "fretString": "1_3_3_3_1_1"
+        },
+        {
+            "name": "Em",
+            "fretString": "0_0_0_2_2_0"
+        },
+        {
+            "name": "Em",
+            "fretString": "2_4_3_1_1_0"
+        },
+        {
+            "name": "Em",
+            "fretString": "1_2_3_3_1_1"
+        },
+        {
+            "name": "Em",
+            "fretString": "x_x_1_1_2_4"
+        },
+        {
+            "name": "Edim",
+            "fretString": "3_x_3_2_x_x"
+        },
+        {
+            "name": "Edim",
+            "fretString": "2_1_x_1_3_x"
+        },
+        {
+            "name": "Edim",
+            "fretString": "x_2_3_2_1_x"
+        },
+        {
+            "name": "Edim",
+            "fretString": "x_2_3_x_1_3"
+        },
+        {
+            "name": "Edim7",
+            "fretString": "0_2_0_2_1_0"
+        },
+        {
+            "name": "Edim7",
+            "fretString": "3_2_3_2_x_x"
+        },
+        {
+            "name": "Edim7",
+            "fretString": "x_3_1_3_2_x"
+        },
+        {
+            "name": "Edim7",
+            "fretString": "x_1_2_1_x_2"
+        },
+        {
+            "name": "Esus2",
+            "fretString": "1_4_3_1_1_1"
+        },
+        {
+            "name": "Esus2",
+            "fretString": "1_1_3_3_1_0"
+        },
+        {
+            "name": "Esus2",
+            "fretString": "0_0_1_1_1_0"
+        },
+        {
+            "name": "Esus2",
+            "fretString": "3_1_x_3_3_1"
+        },
+        {
+            "name": "Esus4",
+            "fretString": "0_0_2_2_2_0"
+        },
+        {
+            "name": "Esus4",
+            "fretString": "4_4_3_1_1_0"
+        },
+        {
+            "name": "Esus4",
+            "fretString": "1_4_3_3_1_1"
+        },
+        {
+            "name": "Esus4",
+            "fretString": "0_2_1_1_x_x"
+        },
+        {
+            "name": "E7sus4",
+            "fretString": "0_0_2_0_2_0"
+        },
+        {
+            "name": "E7sus4",
+            "fretString": "1_1_3_3_3_x"
+        },
+        {
+            "name": "E7sus4",
+            "fretString": "1_4_1_3_1_1"
+        },
+        {
+            "name": "E7sus4",
+            "fretString": "2_2_1_1_x_x"
+        },
+        {
+            "name": "Ealt",
+            "fretString": "x_x_1_2_1_0"
+        },
+        {
+            "name": "Ealt",
+            "fretString": "3_4_2_1_x_x"
+        },
+        {
+            "name": "Ealt",
+            "fretString": "2_1_x_2_3_0"
+        },
+        {
+            "name": "Ealt",
+            "fretString": "0_3_3_2_1_0"
+        },
+        {
+            "name": "Eaug",
+            "fretString": "0_1_1_2_3_0"
+        },
+        {
+            "name": "Eaug",
+            "fretString": "x_1_1_2_3_x"
+        },
+        {
+            "name": "Eaug",
+            "fretString": "x_3_3_4_1_x"
+        },
+        {
+            "name": "Eaug",
+            "fretString": "0_1_1_2_3_4"
+        },
+        {
+            "name": "E6/9",
+            "fretString": "2_2_1_2_2_0"
+        },
+        {
+            "name": "E6/9",
+            "fretString": "2_2_1_1_2_x"
+        },
+        {
+            "name": "E6/9",
+            "fretString": "1_1_1_1_1_x"
+        },
+        {
+            "name": "E6/9",
+            "fretString": "2_2_1_1_1_0"
+        },
+        {
+            "name": "E7b5",
+            "fretString": "0_3_1_0_1_0"
+        },
+        {
+            "name": "E7b5",
+            "fretString": "4_3_3_2_x_x"
+        },
+        {
+            "name": "E7b5",
+            "fretString": "2_1_3_2_x_x"
+        },
+        {
+            "name": "E7b5",
+            "fretString": "x_3_1_2_1_x"
+        },
+        {
+            "name": "Eaug7",
+            "fretString": "0_1_1_0_3_0"
+        },
+        {
+            "name": "Eaug7",
+            "fretString": "3_2_4_1_x_x"
+        },
+        {
+            "name": "Eaug7",
+            "fretString": "2_3_1_4_1_x"
+        },
+        {
+            "name": "Eaug7",
+            "fretString": "x_2_2_1_x_1"
+        },
+        {
+            "name": "E9b5",
+            "fretString": "2_3_1_2_1_0"
+        },
+        {
+            "name": "E9b5",
+            "fretString": "2_1_1_2_3_0"
+        },
+        {
+            "name": "E9b5",
+            "fretString": "1_2_2_1_2_x"
+        },
+        {
+            "name": "E9b5",
+            "fretString": "0_3_1_2_3_0"
+        },
+        {
+            "name": "Eaug9",
+            "fretString": "2_3_1_0_3_0"
+        },
+        {
+            "name": "Eaug9",
+            "fretString": "1_2_2_1_2_0"
+        },
+        {
+            "name": "Eaug9",
+            "fretString": "3_2_2_1_2_x"
+        },
+        {
+            "name": "Eaug9",
+            "fretString": "2_1_1_2_1_0"
+        },
+        {
+            "name": "E7b9",
+            "fretString": "1_0_1_0_2_0"
+        },
+        {
+            "name": "E7b9",
+            "fretString": "1_3_1_0_2_0"
+        },
+        {
+            "name": "E7b9",
+            "fretString": "2_1_2_1_2_x"
+        },
+        {
+            "name": "E7b9",
+            "fretString": "x_x_1_3_2_3"
+        },
+        {
+            "name": "E7#9",
+            "fretString": "3_0_1_0_2_0"
+        },
+        {
+            "name": "E7#9",
+            "fretString": "2_1_0_0_3_0"
+        },
+        {
+            "name": "E7#9",
+            "fretString": "x_3_2_1_2_x"
+        },
+        {
+            "name": "E7#9",
+            "fretString": "2_1_1_1_2_0"
+        },
+        {
+            "name": "E9#11",
+            "fretString": "0_0_1_0_1_0"
+        },
+        {
+            "name": "E9#11",
+            "fretString": "2_3_1_0_3_0"
+        },
+        {
+            "name": "E9#11",
+            "fretString": "1_2_2_1_2_x"
+        },
+        {
+            "name": "E9#11",
+            "fretString": "2_1_1_2_1_2"
+        },
+        {
+            "name": "Emaj7",
+            "fretString": "0_0_1_1_2_0"
+        },
+        {
+            "name": "Emaj7",
+            "fretString": "4_4_4_2_x_x"
+        },
+        {
+            "name": "Emaj7",
+            "fretString": "1_1_1_3_4_x"
+        },
+        {
+            "name": "Emaj7",
+            "fretString": "1_3_2_3_1_1"
+        },
+        {
+            "name": "Emaj7b5",
+            "fretString": "0_4_1_1_1_0"
+        },
+        {
+            "name": "Emaj7b5",
+            "fretString": "4_4_3_2_x_x"
+        },
+        {
+            "name": "Emaj7b5",
+            "fretString": "x_3_2_2_1_x"
+        },
+        {
+            "name": "Emaj7b5",
+            "fretString": "1_1_3_3_1_0"
+        },
+        {
+            "name": "Emaj7#5",
+            "fretString": "4_4_1_2_3_0"
+        },
+        {
+            "name": "Emaj7#5",
+            "fretString": "1_1_2_3_4_1"
+        },
+        {
+            "name": "Emaj7#5",
+            "fretString": "x_3_2_4_1_x"
+        },
+        {
+            "name": "Emaj7#5",
+            "fretString": "3_1_1_2_3_0"
+        },
+        {
+            "name": "Emaj9",
+            "fretString": "2_0_1_1_2_0"
+        },
+        {
+            "name": "Emaj9",
+            "fretString": "2_4_4_2_2_4"
+        },
+        {
+            "name": "Emaj9",
+            "fretString": "x_2_3_1_2_x"
+        },
+        {
+            "name": "Emaj9",
+            "fretString": "3_1_3_1_x_x"
+        },
+        {
+            "name": "Emaj11",
+            "fretString": "0_0_1_1_0_0"
+        },
+        {
+            "name": "Emaj11",
+            "fretString": "2_1_1_3_0_0"
+        },
+        {
+            "name": "Emaj11",
+            "fretString": "1_3_2_1_1_1"
+        },
+        {
+            "name": "Emaj11",
+            "fretString": "3_2_1_1_3_0"
+        },
+        {
+            "name": "Emaj13",
+            "fretString": "2_2_1_1_2_0"
+        },
+        {
+            "name": "Emaj13",
+            "fretString": "1_1_3_3_4_x"
+        },
+        {
+            "name": "Emaj13",
+            "fretString": "3_3_2_1_1_x"
+        },
+        {
+            "name": "Emaj13",
+            "fretString": "1_2_1_1_1_2"
+        },
+        {
+            "name": "Em6",
+            "fretString": "0_2_0_2_2_0"
+        },
+        {
+            "name": "Em6",
+            "fretString": "3_2_4_2_2_0"
+        },
+        {
+            "name": "Em6",
+            "fretString": "3_1_2_1_3_x"
+        },
+        {
+            "name": "Em6",
+            "fretString": "2_1_2_2_x_x"
+        },
+        {
+            "name": "Em6/9",
+            "fretString": "2_2_0_2_2_0"
+        },
+        {
+            "name": "Em6/9",
+            "fretString": "2_2_4_2_x_3"
+        },
+        {
+            "name": "Em6/9",
+            "fretString": "3_3_2_1_3_x"
+        },
+        {
+            "name": "Em6/9",
+            "fretString": "0_3_2_2_1_0"
+        },
+        {
+            "name": "Em7",
+            "fretString": "0_3_0_2_2_0"
+        },
+        {
+            "name": "Em7",
+            "fretString": "0_0_0_0_2_0"
+        },
+        {
+            "name": "Em7",
+            "fretString": "3_3_4_2_2_0"
+        },
+        {
+            "name": "Em7",
+            "fretString": "1_2_1_3_1_1"
+        },
+        {
+            "name": "Em7",
+            "fretString": "3_1_2_2_x_x"
+        },
+        {
+            "name": "Em7b5",
+            "fretString": "3_3_3_2_1_0"
+        },
+        {
+            "name": "Em7b5",
+            "fretString": "x_2_1_2_1_x"
+        },
+        {
+            "name": "Em7b5",
+            "fretString": "3_1_2_1_x_x"
+        },
+        {
+            "name": "Em7b5",
+            "fretString": "x_1_2_2_x_2"
+        },
+        {
+            "name": "Em9",
+            "fretString": "2_0_0_0_2_0"
+        },
+        {
+            "name": "Em9",
+            "fretString": "2_3_0_2_2_0"
+        },
+        {
+            "name": "Em9",
+            "fretString": "3_3_3_1_3_x"
+        },
+        {
+            "name": "Em9",
+            "fretString": "1_3_2_3_1_0"
+        },
+        {
+            "name": "Em11",
+            "fretString": "2_0_0_0_0_0"
+        },
+        {
+            "name": "Em11",
+            "fretString": "0_1_2_3_0_0"
+        },
+        {
+            "name": "Em11",
+            "fretString": "1_3_3_1_3_x"
+        },
+        {
+            "name": "Em11",
+            "fretString": "1_1_2_3_1_3"
+        },
+        {
+            "name": "Emmaj7",
+            "fretString": "0_0_0_1_2_0"
+        },
+        {
+            "name": "Emmaj7",
+            "fretString": "3_4_4_2_2_0"
+        },
+        {
+            "name": "Emmaj7",
+            "fretString": "x_1_1_2_4_x"
+        },
+        {
+            "name": "Emmaj7",
+            "fretString": "1_2_2_3_1_1"
+        },
+        {
+            "name": "Emmaj7b5",
+            "fretString": "0_x_0_1_1_0"
+        },
+        {
+            "name": "Emmaj7b5",
+            "fretString": "3_4_3_2_x_x"
+        },
+        {
+            "name": "Emmaj7b5",
+            "fretString": "x_3_3_3_2_1"
+        },
+        {
+            "name": "Emmaj7b5",
+            "fretString": "x_2_2_2_1_x"
+        },
+        {
+            "name": "Emmaj9",
+            "fretString": "2_0_0_1_2_0"
+        },
+        {
+            "name": "Emmaj9",
+            "fretString": "3_4_4_4_x_0"
+        },
+        {
+            "name": "Emmaj9",
+            "fretString": "0_1_2_3_4_0"
+        },
+        {
+            "name": "Emmaj9",
+            "fretString": "3_1_1_2_3_1"
+        },
+        {
+            "name": "Emmaj11",
+            "fretString": "2_0_0_1_0_0"
+        },
+        {
+            "name": "Emmaj11",
+            "fretString": "3_4_2_2_2_x"
+        },
+        {
+            "name": "Emmaj11",
+            "fretString": "1_3_4_1_3_x"
+        },
+        {
+            "name": "Emmaj11",
+            "fretString": "1_2_2_1_1_1"
+        },
+        {
+            "name": "Eadd9",
+            "fretString": "2_0_1_2_2_0"
+        },
+        {
+            "name": "Eadd9",
+            "fretString": "1_4_1_3_4_x"
+        },
+        {
+            "name": "Eadd9",
+            "fretString": "2_2_x_1_2_x"
+        },
+        {
+            "name": "Eadd9",
+            "fretString": "3_1_2_3_x_x"
+        },
+        {
+            "name": "Emadd9",
+            "fretString": "3_1_1_3_x_x"
+        },
+        {
+            "name": "Emadd9",
+            "fretString": "x_4_1_2_4_x"
+        },
+        {
+            "name": "Emadd9",
+            "fretString": "3_1_0_1_3_x"
+        },
+        {
+            "name": "Emadd9",
+            "fretString": "1_2_0_3_1_x"
+        },
+        {
+            "name": "E/F",
+            "fretString": "0_0_1_2_2_1"
+        },
+        {
+            "name": "E/F",
+            "fretString": "0_0_1_3_x_x"
+        },
+        {
+            "name": "E/F",
+            "fretString": "2_3_2_1_x_x"
+        },
+        {
+            "name": "E/F#",
+            "fretString": "0_0_1_2_2_2"
+        },
+        {
+            "name": "E/F#",
+            "fretString": "1_2_1_1_x_x"
+        },
+        {
+            "name": "E/F#",
+            "fretString": "3_4_3_1_1_1"
+        },
+        {
+            "name": "E/G",
+            "fretString": "0_0_1_2_2_3"
+        },
+        {
+            "name": "E/G",
+            "fretString": "3_4_3_1_1_2"
+        },
+        {
+            "name": "E/G",
+            "fretString": "1_2_1_2_x_x"
+        },
+        {
+            "name": "E/G#",
+            "fretString": "0_0_1_x_x_x"
+        },
+        {
+            "name": "E/G#",
+            "fretString": "0_0_1_2_2_4"
+        },
+        {
+            "name": "E/G#",
+            "fretString": "1_2_1_3_4_1"
+        },
+        {
+            "name": "E/G#",
+            "fretString": "x_4_3_1_1_3"
+        },
+        {
+            "name": "E/B",
+            "fretString": "0_0_1_2_2_x"
+        },
+        {
+            "name": "E/B",
+            "fretString": "3_4_3_1_1_x"
+        },
+        {
+            "name": "E/B",
+            "fretString": "1_3_3_3_1_1"
+        },
+        {
+            "name": "E/C#",
+            "fretString": "1_2_1_3_1_x"
+        },
+        {
+            "name": "E/C#",
+            "fretString": "4_2_1_3_1_x"
+        },
+        {
+            "name": "E/C#",
+            "fretString": "4_4_1_1_3_1"
+        },
+        {
+            "name": "Em/B",
+            "fretString": "0_0_0_2_2_x"
+        },
+        {
+            "name": "Em/B",
+            "fretString": "3_0_0_2_2_x"
+        },
+        {
+            "name": "Em/B",
+            "fretString": "2_4_3_1_1_x"
+        },
+        {
+            "name": "Em/C#",
+            "fretString": "0_0_0_2_4_x"
+        },
+        {
+            "name": "Em/C#",
+            "fretString": "4_2_1_2_1_x"
+        },
+        {
+            "name": "Em/C#",
+            "fretString": "4_4_4_1_2_1"
+        },
+        {
+            "name": "E/D",
+            "fretString": "0_0_1_0_x_x"
+        },
+        {
+            "name": "E/D",
+            "fretString": "1_2_1_3_2_x"
+        },
+        {
+            "name": "E/D",
+            "fretString": "3_4_3_1_4_x"
+        },
+        {
+            "name": "Em/D",
+            "fretString": "0_0_0_0_x_x"
+        },
+        {
+            "name": "Em/D",
+            "fretString": "x_2_1_2_2_x"
+        },
+        {
+            "name": "Em/D",
+            "fretString": "1_1_1_1_x_x"
+        },
+        {
+            "name": "E/D#",
+            "fretString": "0_0_1_1_x_x"
+        },
+        {
+            "name": "E/D#",
+            "fretString": "1_2_1_3_3_x"
+        },
+        {
+            "name": "E/D#",
+            "fretString": "4_4_1_1_3_3"
+        },
+        {
+            "name": "Em/D#",
+            "fretString": "0_0_0_1_x_x"
+        },
+        {
+            "name": "Em/D#",
+            "fretString": "x_2_1_2_3_x"
+        },
+        {
+            "name": "Em/D#",
+            "fretString": "x_3_4_4_1_x"
+        },
+        {
+            "name": "Em/F",
+            "fretString": "0_0_0_3_x_x"
+        },
+        {
+            "name": "Em/F",
+            "fretString": "0_0_0_2_2_1"
+        },
+        {
+            "name": "Em/F",
+            "fretString": "3_0_0_2_2_1"
+        },
+        {
+            "name": "Em/F#",
+            "fretString": "0_0_0_2_2_2"
+        },
+        {
+            "name": "Em/F#",
+            "fretString": "3_0_0_2_2_2"
+        },
+        {
+            "name": "Em/F#",
+            "fretString": "2_4_3_1_1_1"
+        },
+        {
+            "name": "Em/G",
+            "fretString": "0_0_0_2_2_3"
+        },
+        {
+            "name": "Em/G",
+            "fretString": "3_0_0_2_2_3"
+        },
+        {
+            "name": "Em/G",
+            "fretString": "0_4_3_1_1_2"
+        },
+        {
+            "name": "Em/G#",
+            "fretString": "0_0_0_2_2_4"
+        },
+        {
+            "name": "Em/G#",
+            "fretString": "x_2_1_2_4_1"
+        },
+        {
+            "name": "Em/G#",
+            "fretString": "1_3_2_4_x_x"
+        },
+        {
+            "name": "F6",
+            "fretString": "1_3_2_3_x_1"
+        },
+        {
+            "name": "F6",
+            "fretString": "3_1_3_1_1_x"
+        },
+        {
+            "name": "F6",
+            "fretString": "x_1_2_2_3_x"
+        },
+        {
+            "name": "F6",
+            "fretString": "3_3_3_3_1_1"
+        },
+        {
+            "name": "F7",
+            "fretString": "1_1_2_1_3_1"
+        },
+        {
+            "name": "F7",
+            "fretString": "3_2_3_1_1_x"
+        },
+        {
+            "name": "F7",
+            "fretString": "1_3_1_3_1_1"
+        },
+        {
+            "name": "F7",
+            "fretString": "2_1_1_1_x_x"
+        },
+        {
+            "name": "F9",
+            "fretString": "3_1_2_1_3_1"
+        },
+        {
+            "name": "F9",
+            "fretString": "3_4_2_3_x_x"
+        },
+        {
+            "name": "F9",
+            "fretString": "2_2_2_1_2_2"
+        },
+        {
+            "name": "F9",
+            "fretString": "2_1_1_1_1_x"
+        },
+        {
+            "name": "F11",
+            "fretString": "1_1_2_1_1_1"
+        },
+        {
+            "name": "F11",
+            "fretString": "3_2_1_1_1_1"
+        },
+        {
+            "name": "F11",
+            "fretString": "1_1_3_2_3_x"
+        },
+        {
+            "name": "F11",
+            "fretString": "1_3_1_1_1_x"
+        },
+        {
+            "name": "F13",
+            "fretString": "1_3_2_1_3_1"
+        },
+        {
+            "name": "F13",
+            "fretString": "3_3_2_1_1_1"
+        },
+        {
+            "name": "F13",
+            "fretString": "4_4_2_1_2_x"
+        },
+        {
+            "name": "F13",
+            "fretString": "3_3_1_1_1_1"
+        },
+        {
+            "name": "F",
+            "fretString": "1_1_2_3_3_1"
+        },
+        {
+            "name": "F",
+            "fretString": "3_4_3_1_1_x"
+        },
+        {
+            "name": "F",
+            "fretString": "1_2_1_3_4_1"
+        },
+        {
+            "name": "F",
+            "fretString": "1_3_3_3_1_1"
+        },
+        {
+            "name": "Fm",
+            "fretString": "1_1_1_3_3_1"
+        },
+        {
+            "name": "Fm",
+            "fretString": "2_4_3_1_x_x"
+        },
+        {
+            "name": "Fm",
+            "fretString": "1_2_3_3_1_1"
+        },
+        {
+            "name": "Fm",
+            "fretString": "x_x_1_1_2_4"
+        },
+        {
+            "name": "Fdim",
+            "fretString": "4_x_4_3_x_x"
+        },
+        {
+            "name": "Fdim",
+            "fretString": "2_1_x_1_3_x"
+        },
+        {
+            "name": "Fdim",
+            "fretString": "x_2_3_2_1_x"
+        },
+        {
+            "name": "Fdim",
+            "fretString": "x_2_3_x_1_3"
+        },
+        {
+            "name": "Fdim7",
+            "fretString": "1_0_1_0_x_1"
+        },
+        {
+            "name": "Fdim7",
+            "fretString": "4_3_4_3_x_x"
+        },
+        {
+            "name": "Fdim7",
+            "fretString": "1_3_1_3_2_1"
+        },
+        {
+            "name": "Fdim7",
+            "fretString": "x_1_2_1_x_2"
+        },
+        {
+            "name": "Fsus2",
+            "fretString": "3_1_x_3_3_1"
+        },
+        {
+            "name": "Fsus2",
+            "fretString": "1_4_3_1_1_1"
+        },
+        {
+            "name": "Fsus2",
+            "fretString": "1_1_3_3_1_1"
+        },
+        {
+            "name": "Fsus2",
+            "fretString": "x_4_3_1_1_4"
+        },
+        {
+            "name": "Fsus4",
+            "fretString": "1_1_3_3_3_1"
+        },
+        {
+            "name": "Fsus4",
+            "fretString": "4_4_3_1_x_x"
+        },
+        {
+            "name": "Fsus4",
+            "fretString": "1_4_3_3_1_1"
+        },
+        {
+            "name": "Fsus4",
+            "fretString": "x_2_1_1_x_x"
+        },
+        {
+            "name": "F7sus4",
+            "fretString": "1_1_3_1_3_1"
+        },
+        {
+            "name": "F7sus4",
+            "fretString": "1_1_3_3_3_1"
+        },
+        {
+            "name": "F7sus4",
+            "fretString": "1_4_1_3_1_1"
+        },
+        {
+            "name": "F7sus4",
+            "fretString": "2_2_1_1_x_x"
+        },
+        {
+            "name": "Falt",
+            "fretString": "x_0_2_3_2_1"
+        },
+        {
+            "name": "Falt",
+            "fretString": "3_0_2_1_x_x"
+        },
+        {
+            "name": "Falt",
+            "fretString": "x_3_3_2_1_x"
+        },
+        {
+            "name": "Falt",
+            "fretString": "2_1_3_x_1_2"
+        },
+        {
+            "name": "Faug",
+            "fretString": "1_2_2_3_x_x"
+        },
+        {
+            "name": "Faug",
+            "fretString": "x_1_1_2_3_x"
+        },
+        {
+            "name": "Faug",
+            "fretString": "2_3_3_x_1_x"
+        },
+        {
+            "name": "Faug",
+            "fretString": "x_1_1_2_3_4"
+        },
+        {
+            "name": "F6/9",
+            "fretString": "1_1_0_0_0_1"
+        },
+        {
+            "name": "F6/9",
+            "fretString": "3_3_2_3_x_x"
+        },
+        {
+            "name": "F6/9",
+            "fretString": "1_2_1_1_1_x"
+        },
+        {
+            "name": "F6/9",
+            "fretString": "2_2_1_1_2_x"
+        },
+        {
+            "name": "F7b5",
+            "fretString": "1_0_2_1_0_1"
+        },
+        {
+            "name": "F7b5",
+            "fretString": "3_2_2_1_x_x"
+        },
+        {
+            "name": "F7b5",
+            "fretString": "2_1_3_2_x_x"
+        },
+        {
+            "name": "F7b5",
+            "fretString": "x_3_1_2_1_x"
+        },
+        {
+            "name": "Faug7",
+            "fretString": "x_2_2_1_0_1"
+        },
+        {
+            "name": "Faug7",
+            "fretString": "3_2_4_1_x_x"
+        },
+        {
+            "name": "Faug7",
+            "fretString": "2_3_1_4_1_x"
+        },
+        {
+            "name": "Faug7",
+            "fretString": "x_3_x_2_1_2"
+        },
+        {
+            "name": "F9b5",
+            "fretString": "1_0_0_1_0_1"
+        },
+        {
+            "name": "F9b5",
+            "fretString": "1_2_2_1_2_x"
+        },
+        {
+            "name": "F9b5",
+            "fretString": "4_3_0_2_1_x"
+        },
+        {
+            "name": "F9b5",
+            "fretString": "2_0_0_2_1_2"
+        },
+        {
+            "name": "Faug9",
+            "fretString": "1_2_0_1_0_1"
+        },
+        {
+            "name": "Faug9",
+            "fretString": "1_2_2_1_2_1"
+        },
+        {
+            "name": "Faug9",
+            "fretString": "3_2_2_1_2_x"
+        },
+        {
+            "name": "Faug9",
+            "fretString": "x_3_1_2_1_2"
+        },
+        {
+            "name": "F7b9",
+            "fretString": "2_1_2_1_3_1"
+        },
+        {
+            "name": "F7b9",
+            "fretString": "2_4_2_3_x_x"
+        },
+        {
+            "name": "F7b9",
+            "fretString": "2_1_2_1_2_x"
+        },
+        {
+            "name": "F7b9",
+            "fretString": "x_x_1_3_2_3"
+        },
+        {
+            "name": "F7#9",
+            "fretString": "4_1_2_1_3_1"
+        },
+        {
+            "name": "F7#9",
+            "fretString": "4_4_2_3_x_x"
+        },
+        {
+            "name": "F7#9",
+            "fretString": "x_3_2_1_2_x"
+        },
+        {
+            "name": "F7#9",
+            "fretString": "2_1_1_1_2_x"
+        },
+        {
+            "name": "F9#11",
+            "fretString": "1_0_0_1_0_1"
+        },
+        {
+            "name": "F9#11",
+            "fretString": "3_2_2_1_x_x"
+        },
+        {
+            "name": "F9#11",
+            "fretString": "1_2_2_1_2_x"
+        },
+        {
+            "name": "F9#11",
+            "fretString": "1_3_1_2_1_x"
+        },
+        {
+            "name": "Fmaj7",
+            "fretString": "0_1_2_3_x_x"
+        },
+        {
+            "name": "Fmaj7",
+            "fretString": "1_1_2_2_3_1"
+        },
+        {
+            "name": "Fmaj7",
+            "fretString": "3_3_3_1_1_x"
+        },
+        {
+            "name": "Fmaj7",
+            "fretString": "1_3_2_3_1_1"
+        },
+        {
+            "name": "Fmaj7b5",
+            "fretString": "0_0_2_2_0_1"
+        },
+        {
+            "name": "Fmaj7b5",
+            "fretString": "3_3_2_1_x_x"
+        },
+        {
+            "name": "Fmaj7b5",
+            "fretString": "x_3_2_2_1_x"
+        },
+        {
+            "name": "Fmaj7b5",
+            "fretString": "1_1_3_3_1_2"
+        },
+        {
+            "name": "Fmaj7#5",
+            "fretString": "0_2_2_2_0_1"
+        },
+        {
+            "name": "Fmaj7#5",
+            "fretString": "1_1_2_3_4_1"
+        },
+        {
+            "name": "Fmaj7#5",
+            "fretString": "x_3_2_4_1_x"
+        },
+        {
+            "name": "Fmaj7#5",
+            "fretString": "1_3_3_4_x_x"
+        },
+        {
+            "name": "Fmaj9",
+            "fretString": "0_1_0_2_0_1"
+        },
+        {
+            "name": "Fmaj9",
+            "fretString": "3_1_2_2_x_x"
+        },
+        {
+            "name": "Fmaj9",
+            "fretString": "x_2_3_1_2_x"
+        },
+        {
+            "name": "Fmaj9",
+            "fretString": "3_1_3_1_x_x"
+        },
+        {
+            "name": "Fmaj11",
+            "fretString": "1_1_2_2_1_1"
+        },
+        {
+            "name": "Fmaj11",
+            "fretString": "3_3_1_1_x_x"
+        },
+        {
+            "name": "Fmaj11",
+            "fretString": "1_3_2_1_1_1"
+        },
+        {
+            "name": "Fmaj11",
+            "fretString": "0_1_0_4_2_3"
+        },
+        {
+            "name": "Fmaj13",
+            "fretString": "0_1_0_0_0_1"
+        },
+        {
+            "name": "Fmaj13",
+            "fretString": "0_3_2_3_x_x"
+        },
+        {
+            "name": "Fmaj13",
+            "fretString": "1_1_3_3_4_x"
+        },
+        {
+            "name": "Fmaj13",
+            "fretString": "3_3_2_1_1_x"
+        },
+        {
+            "name": "Fm6",
+            "fretString": "1_1_1_0_x_1"
+        },
+        {
+            "name": "Fm6",
+            "fretString": "2_1_3_1_x_x"
+        },
+        {
+            "name": "Fm6",
+            "fretString": "3_1_2_1_3_x"
+        },
+        {
+            "name": "Fm6",
+            "fretString": "2_1_2_2_x_x"
+        },
+        {
+            "name": "Fm6/9",
+            "fretString": "3_3_1_3_3_1"
+        },
+        {
+            "name": "Fm6/9",
+            "fretString": "1_1_3_1_x_2"
+        },
+        {
+            "name": "Fm6/9",
+            "fretString": "x_3_2_1_3_x"
+        },
+        {
+            "name": "Fm6/9",
+            "fretString": "x_3_0_2_1_3"
+        },
+        {
+            "name": "Fm7",
+            "fretString": "1_1_1_1_3_1"
+        },
+        {
+            "name": "Fm7",
+            "fretString": "2_2_3_1_x_x"
+        },
+        {
+            "name": "Fm7",
+            "fretString": "1_2_1_3_1_1"
+        },
+        {
+            "name": "Fm7",
+            "fretString": "3_1_2_2_x_x"
+        },
+        {
+            "name": "Fm7b5",
+            "fretString": "x_0_1_1_x_1"
+        },
+        {
+            "name": "Fm7b5",
+            "fretString": "4_4_4_3_x_x"
+        },
+        {
+            "name": "Fm7b5",
+            "fretString": "x_2_1_2_1_x"
+        },
+        {
+            "name": "Fm7b5",
+            "fretString": "x_0_3_3_1_3"
+        },
+        {
+            "name": "Fm9",
+            "fretString": "3_1_1_1_3_1"
+        },
+        {
+            "name": "Fm9",
+            "fretString": "4_4_0_3_3_x"
+        },
+        {
+            "name": "Fm9",
+            "fretString": "3_3_3_1_3_x"
+        },
+        {
+            "name": "Fm9",
+            "fretString": "3_3_0_3_1_3"
+        },
+        {
+            "name": "Fm11",
+            "fretString": "3_1_1_1_1_1"
+        },
+        {
+            "name": "Fm11",
+            "fretString": "4_4_3_3_x_x"
+        },
+        {
+            "name": "Fm11",
+            "fretString": "1_3_3_1_3_x"
+        },
+        {
+            "name": "Fm11",
+            "fretString": "1_1_2_3_1_3"
+        },
+        {
+            "name": "Fmmaj7",
+            "fretString": "1_1_1_2_3_1"
+        },
+        {
+            "name": "Fmmaj7",
+            "fretString": "2_3_3_1_x_x"
+        },
+        {
+            "name": "Fmmaj7",
+            "fretString": "1_2_2_3_1_1"
+        },
+        {
+            "name": "Fmmaj7",
+            "fretString": "1_2_2_4_x_x"
+        },
+        {
+            "name": "Fmmaj7b5",
+            "fretString": "0_0_1_2_2_1"
+        },
+        {
+            "name": "Fmmaj7b5",
+            "fretString": "2_3_2_1_x_x"
+        },
+        {
+            "name": "Fmmaj7b5",
+            "fretString": "x_3_3_3_2_1"
+        },
+        {
+            "name": "Fmmaj7b5",
+            "fretString": "x_2_2_2_1_x"
+        },
+        {
+            "name": "Fmmaj9",
+            "fretString": "3_1_1_2_3_1"
+        },
+        {
+            "name": "Fmmaj9",
+            "fretString": "2_3_0_1_x_x"
+        },
+        {
+            "name": "Fmmaj9",
+            "fretString": "x_3_4_1_3_x"
+        },
+        {
+            "name": "Fmmaj9",
+            "fretString": "0_3_2_x_1_3"
+        },
+        {
+            "name": "Fmmaj11",
+            "fretString": "3_1_1_2_1_1"
+        },
+        {
+            "name": "Fmmaj11",
+            "fretString": "2_3_1_1_1_x"
+        },
+        {
+            "name": "Fmmaj11",
+            "fretString": "1_3_4_1_3_x"
+        },
+        {
+            "name": "Fmmaj11",
+            "fretString": "1_2_2_1_1_1"
+        },
+        {
+            "name": "Fadd9",
+            "fretString": "3_1_2_3_x_x"
+        },
+        {
+            "name": "Fadd9",
+            "fretString": "3_4_0_1_x_x"
+        },
+        {
+            "name": "Fadd9",
+            "fretString": "1_4_1_3_4_x"
+        },
+        {
+            "name": "Fadd9",
+            "fretString": "2_2_0_1_2_x"
+        },
+        {
+            "name": "Fmadd9",
+            "fretString": "3_1_1_3_x_x"
+        },
+        {
+            "name": "Fmadd9",
+            "fretString": "x_4_1_2_4_x"
+        },
+        {
+            "name": "Fmadd9",
+            "fretString": "3_1_0_1_3_x"
+        },
+        {
+            "name": "Fmadd9",
+            "fretString": "1_2_0_3_1_x"
+        },
+        {
+            "name": "F/E",
+            "fretString": "1_1_2_3_0_0"
+        },
+        {
+            "name": "F/E",
+            "fretString": "1_1_2_2_x_x"
+        },
+        {
+            "name": "F/E",
+            "fretString": "1_1_2_3_3_0"
+        },
+        {
+            "name": "F/G",
+            "fretString": "1_1_2_3_0_3"
+        },
+        {
+            "name": "F/G",
+            "fretString": "x_x_2_3_3_3"
+        },
+        {
+            "name": "F/G",
+            "fretString": "3_4_3_1_1_1"
+        },
+        {
+            "name": "F/A",
+            "fretString": "1_1_2_3_0_x"
+        },
+        {
+            "name": "F/A",
+            "fretString": "x_x_1_2_2_4"
+        },
+        {
+            "name": "F/A",
+            "fretString": "0_4_3_1_1_3"
+        },
+        {
+            "name": "F/C",
+            "fretString": "1_1_2_3_3_x"
+        },
+        {
+            "name": "F/C",
+            "fretString": "3_4_3_1_1_x"
+        },
+        {
+            "name": "F/C",
+            "fretString": "1_3_3_3_1_1"
+        },
+        {
+            "name": "Fm/C",
+            "fretString": "1_1_1_3_3_x"
+        },
+        {
+            "name": "Fm/C",
+            "fretString": "4_1_1_3_3_x"
+        },
+        {
+            "name": "Fm/C",
+            "fretString": "1_2_3_3_1_1"
+        },
+        {
+            "name": "F/D",
+            "fretString": "1_1_2_0_x_x"
+        },
+        {
+            "name": "F/D",
+            "fretString": "1_2_1_3_1_x"
+        },
+        {
+            "name": "F/D",
+            "fretString": "4_2_1_3_1_x"
+        },
+        {
+            "name": "F/D#",
+            "fretString": "1_1_2_1_x_x"
+        },
+        {
+            "name": "F/D#",
+            "fretString": "1_2_1_3_2_x"
+        },
+        {
+            "name": "F/D#",
+            "fretString": "3_4_3_1_4_x"
+        },
+        {
+            "name": "F#6",
+            "fretString": "x_2_3_1_x_2"
+        },
+        {
+            "name": "F#6",
+            "fretString": "2_4_3_4_x_2"
+        },
+        {
+            "name": "F#6",
+            "fretString": "3_1_3_1_1_x"
+        },
+        {
+            "name": "F#6",
+            "fretString": "3_3_3_3_1_x"
+        },
+        {
+            "name": "F#7",
+            "fretString": "2_2_3_2_4_2"
+        },
+        {
+            "name": "F#7",
+            "fretString": "3_2_3_1_1_x"
+        },
+        {
+            "name": "F#7",
+            "fretString": "x_1_3_2_3_x"
+        },
+        {
+            "name": "F#7",
+            "fretString": "1_3_1_3_1_1"
+        },
+        {
+            "name": "F#9",
+            "fretString": "4_2_3_2_4_2"
+        },
+        {
+            "name": "F#9",
+            "fretString": "2_3_1_2_x_x"
+        },
+        {
+            "name": "F#9",
+            "fretString": "2_2_2_1_2_2"
+        },
+        {
+            "name": "F#9",
+            "fretString": "2_1_1_1_1_x"
+        },
+        {
+            "name": "F#11",
+            "fretString": "0_0_1_2_1_2"
+        },
+        {
+            "name": "F#11",
+            "fretString": "3_2_1_1_1_1"
+        },
+        {
+            "name": "F#11",
+            "fretString": "1_1_3_2_3_x"
+        },
+        {
+            "name": "F#11",
+            "fretString": "1_3_1_1_1_x"
+        },
+        {
+            "name": "F#13",
+            "fretString": "0_0_3_1_2_2"
+        },
+        {
+            "name": "F#13",
+            "fretString": "4_4_3_2_2_2"
+        },
+        {
+            "name": "F#13",
+            "fretString": "0_1_2_2_3_x"
+        },
+        {
+            "name": "F#13",
+            "fretString": "3_3_1_1_1_1"
+        },
+        {
+            "name": "F#",
+            "fretString": "2_2_3_4_4_2"
+        },
+        {
+            "name": "F#",
+            "fretString": "3_4_3_1_1_x"
+        },
+        {
+            "name": "F#",
+            "fretString": "1_2_1_3_4_1"
+        },
+        {
+            "name": "F#",
+            "fretString": "1_3_3_3_1_1"
+        },
+        {
+            "name": "F#m",
+            "fretString": "2_2_2_4_4_2"
+        },
+        {
+            "name": "F#m",
+            "fretString": "2_4_3_1_1_x"
+        },
+        {
+            "name": "F#m",
+            "fretString": "1_3_2_3_x_x"
+        },
+        {
+            "name": "F#m",
+            "fretString": "1_2_3_3_1_1"
+        },
+        {
+            "name": "F#dim",
+            "fretString": "x_1_2_x_0_2"
+        },
+        {
+            "name": "F#dim",
+            "fretString": "2_x_2_1_x_x"
+        },
+        {
+            "name": "F#dim",
+            "fretString": "2_1_x_1_3_x"
+        },
+        {
+            "name": "F#dim",
+            "fretString": "x_2_3_2_1_x"
+        },
+        {
+            "name": "F#dim7",
+            "fretString": "x_1_2_1_x_2"
+        },
+        {
+            "name": "F#dim7",
+            "fretString": "2_4_2_4_3_2"
+        },
+        {
+            "name": "F#dim7",
+            "fretString": "2_1_2_1_x_x"
+        },
+        {
+            "name": "F#dim7",
+            "fretString": "1_3_1_3_2_1"
+        },
+        {
+            "name": "F#sus2",
+            "fretString": "2_2_1_x_x_2"
+        },
+        {
+            "name": "F#sus2",
+            "fretString": "1_4_3_1_1_1"
+        },
+        {
+            "name": "F#sus2",
+            "fretString": "1_1_3_3_1_1"
+        },
+        {
+            "name": "F#sus2",
+            "fretString": "x_4_3_1_1_4"
+        },
+        {
+            "name": "F#sus4",
+            "fretString": "2_2_4_4_4_2"
+        },
+        {
+            "name": "F#sus4",
+            "fretString": "4_4_3_1_1_x"
+        },
+        {
+            "name": "F#sus4",
+            "fretString": "1_4_3_3_1_1"
+        },
+        {
+            "name": "F#sus4",
+            "fretString": "4_2_1_1_x_x"
+        },
+        {
+            "name": "F#7sus4",
+            "fretString": "2_2_4_2_4_2"
+        },
+        {
+            "name": "F#7sus4",
+            "fretString": "4_2_3_1_x_x"
+        },
+        {
+            "name": "F#7sus4",
+            "fretString": "1_1_3_3_3_x"
+        },
+        {
+            "name": "F#7sus4",
+            "fretString": "1_4_1_3_1_1"
+        },
+        {
+            "name": "F#alt",
+            "fretString": "2_1_3_4_x_x"
+        },
+        {
+            "name": "F#alt",
+            "fretString": "2_x_3_4_3_2"
+        },
+        {
+            "name": "F#alt",
+            "fretString": "3_4_2_1_x_x"
+        },
+        {
+            "name": "F#alt",
+            "fretString": "1_3_3_2_1_x"
+        },
+        {
+            "name": "F#aug",
+            "fretString": "2_3_3_4_x_x"
+        },
+        {
+            "name": "F#aug",
+            "fretString": "x_3_3_4_x_x"
+        },
+        {
+            "name": "F#aug",
+            "fretString": "x_1_1_2_3_x"
+        },
+        {
+            "name": "F#aug",
+            "fretString": "x_1_1_2_3_4"
+        },
+        {
+            "name": "F#6/9",
+            "fretString": "2_2_1_1_1_2"
+        },
+        {
+            "name": "F#6/9",
+            "fretString": "4_4_3_4_x_x"
+        },
+        {
+            "name": "F#6/9",
+            "fretString": "1_2_1_1_1_x"
+        },
+        {
+            "name": "F#6/9",
+            "fretString": "2_2_1_1_2_x"
+        },
+        {
+            "name": "F#7b5",
+            "fretString": "x_1_3_2_x_2"
+        },
+        {
+            "name": "F#7b5",
+            "fretString": "3_2_2_1_x_x"
+        },
+        {
+            "name": "F#7b5",
+            "fretString": "2_1_3_2_1_x"
+        },
+        {
+            "name": "F#7b5",
+            "fretString": "0_3_1_2_1_x"
+        },
+        {
+            "name": "F#aug7",
+            "fretString": "x_3_3_2_x_2"
+        },
+        {
+            "name": "F#aug7",
+            "fretString": "3_2_4_1_x_x"
+        },
+        {
+            "name": "F#aug7",
+            "fretString": "0_1_1_2_3_x"
+        },
+        {
+            "name": "F#aug7",
+            "fretString": "2_3_1_4_1_x"
+        },
+        {
+            "name": "F#9b5",
+            "fretString": "2_1_1_2_1_2"
+        },
+        {
+            "name": "F#9b5",
+            "fretString": "0_1_1_2_1_2"
+        },
+        {
+            "name": "F#9b5",
+            "fretString": "2_3_1_2_1_x"
+        },
+        {
+            "name": "F#9b5",
+            "fretString": "1_2_2_1_2_x"
+        },
+        {
+            "name": "F#aug9",
+            "fretString": "0_3_1_2_1_2"
+        },
+        {
+            "name": "F#aug9",
+            "fretString": "0_3_1_2_3_x"
+        },
+        {
+            "name": "F#aug9",
+            "fretString": "3_2_2_1_2_x"
+        },
+        {
+            "name": "F#aug9",
+            "fretString": "0_1_3_2_x_4"
+        },
+        {
+            "name": "F#7b9",
+            "fretString": "0_2_0_2_1_2"
+        },
+        {
+            "name": "F#7b9",
+            "fretString": "1_3_1_2_x_x"
+        },
+        {
+            "name": "F#7b9",
+            "fretString": "2_1_2_1_2_x"
+        },
+        {
+            "name": "F#7b9",
+            "fretString": "x_x_1_3_2_3"
+        },
+        {
+            "name": "F#7#9",
+            "fretString": "2_2_2_2_1_2"
+        },
+        {
+            "name": "F#7#9",
+            "fretString": "4_1_2_1_3_1"
+        },
+        {
+            "name": "F#7#9",
+            "fretString": "3_3_1_2_x_x"
+        },
+        {
+            "name": "F#7#9",
+            "fretString": "x_3_2_1_2_x"
+        },
+        {
+            "name": "F#9#11",
+            "fretString": "2_1_1_2_1_2"
+        },
+        {
+            "name": "F#9#11",
+            "fretString": "3_2_2_1_x_x"
+        },
+        {
+            "name": "F#9#11",
+            "fretString": "1_2_2_1_2_x"
+        },
+        {
+            "name": "F#9#11",
+            "fretString": "1_3_1_2_1_x"
+        },
+        {
+            "name": "F#maj7",
+            "fretString": "2_2_3_3_4_2"
+        },
+        {
+            "name": "F#maj7",
+            "fretString": "3_3_3_1_1_x"
+        },
+        {
+            "name": "F#maj7",
+            "fretString": "1_1_1_3_4_x"
+        },
+        {
+            "name": "F#maj7",
+            "fretString": "1_3_2_3_1_1"
+        },
+        {
+            "name": "F#maj7b5",
+            "fretString": "1_1_3_3_1_2"
+        },
+        {
+            "name": "F#maj7b5",
+            "fretString": "3_3_2_1_x_x"
+        },
+        {
+            "name": "F#maj7b5",
+            "fretString": "1_4_3_1_2_x"
+        },
+        {
+            "name": "F#maj7b5",
+            "fretString": "x_3_2_2_1_x"
+        },
+        {
+            "name": "F#maj7#5",
+            "fretString": "x_3_3_3_x_2"
+        },
+        {
+            "name": "F#maj7#5",
+            "fretString": "1_1_2_3_4_1"
+        },
+        {
+            "name": "F#maj7#5",
+            "fretString": "x_3_2_4_1_x"
+        },
+        {
+            "name": "F#maj7#5",
+            "fretString": "3_1_1_2_x_x"
+        },
+        {
+            "name": "F#maj9",
+            "fretString": "1_2_1_3_1_2"
+        },
+        {
+            "name": "F#maj9",
+            "fretString": "4_2_3_3_x_2"
+        },
+        {
+            "name": "F#maj9",
+            "fretString": "2_4_1_2_x_x"
+        },
+        {
+            "name": "F#maj9",
+            "fretString": "x_2_3_1_2_2"
+        },
+        {
+            "name": "F#maj11",
+            "fretString": "2_2_3_3_2_2"
+        },
+        {
+            "name": "F#maj11",
+            "fretString": "3_3_1_1_x_x"
+        },
+        {
+            "name": "F#maj11",
+            "fretString": "2_0_3_1_2_x"
+        },
+        {
+            "name": "F#maj11",
+            "fretString": "1_3_2_1_1_1"
+        },
+        {
+            "name": "F#maj13",
+            "fretString": "1_2_1_1_1_2"
+        },
+        {
+            "name": "F#maj13",
+            "fretString": "3_3_1_1_3_x"
+        },
+        {
+            "name": "F#maj13",
+            "fretString": "1_1_3_3_4_x"
+        },
+        {
+            "name": "F#maj13",
+            "fretString": "3_3_2_1_1_x"
+        },
+        {
+            "name": "F#m6",
+            "fretString": "2_2_2_1_x_2"
+        },
+        {
+            "name": "F#m6",
+            "fretString": "2_1_3_1_1_x"
+        },
+        {
+            "name": "F#m6",
+            "fretString": "3_1_2_1_3_x"
+        },
+        {
+            "name": "F#m6",
+            "fretString": "x_3_1_4_2_x"
+        },
+        {
+            "name": "F#m6/9",
+            "fretString": "2_2_1_1_0_2"
+        },
+        {
+            "name": "F#m6/9",
+            "fretString": "4_4_2_4_4_2"
+        },
+        {
+            "name": "F#m6/9",
+            "fretString": "1_1_3_1_1_2"
+        },
+        {
+            "name": "F#m6/9",
+            "fretString": "x_3_2_1_3_x"
+        },
+        {
+            "name": "F#m7",
+            "fretString": "2_2_2_2_4_2"
+        },
+        {
+            "name": "F#m7",
+            "fretString": "2_2_3_1_x_x"
+        },
+        {
+            "name": "F#m7",
+            "fretString": "1_2_1_3_1_1"
+        },
+        {
+            "name": "F#m7",
+            "fretString": "3_1_2_2_x_x"
+        },
+        {
+            "name": "F#m7b5",
+            "fretString": "0_1_2_2_0_2"
+        },
+        {
+            "name": "F#m7b5",
+            "fretString": "2_2_2_1_x_x"
+        },
+        {
+            "name": "F#m7b5",
+            "fretString": "x_2_1_2_1_x"
+        },
+        {
+            "name": "F#m7b5",
+            "fretString": "3_1_2_1_x_x"
+        },
+        {
+            "name": "F#m9",
+            "fretString": "0_2_1_2_0_2"
+        },
+        {
+            "name": "F#m9",
+            "fretString": "4_2_2_2_4_2"
+        },
+        {
+            "name": "F#m9",
+            "fretString": "3_3_3_1_3_x"
+        },
+        {
+            "name": "F#m9",
+            "fretString": "3_1_4_2_x_x"
+        },
+        {
+            "name": "F#m11",
+            "fretString": "0_0_1_2_0_2"
+        },
+        {
+            "name": "F#m11",
+            "fretString": "4_2_2_2_2_2"
+        },
+        {
+            "name": "F#m11",
+            "fretString": "2_2_1_1_x_x"
+        },
+        {
+            "name": "F#m11",
+            "fretString": "1_3_3_1_3_x"
+        },
+        {
+            "name": "F#mmaj7",
+            "fretString": "2_2_2_3_4_2"
+        },
+        {
+            "name": "F#mmaj7",
+            "fretString": "2_3_3_1_1_x"
+        },
+        {
+            "name": "F#mmaj7",
+            "fretString": "x_1_1_2_4_x"
+        },
+        {
+            "name": "F#mmaj7",
+            "fretString": "1_2_2_3_1_1"
+        },
+        {
+            "name": "F#mmaj7b5",
+            "fretString": "2_x_2_3_3_2"
+        },
+        {
+            "name": "F#mmaj7b5",
+            "fretString": "2_3_2_1_x_x"
+        },
+        {
+            "name": "F#mmaj7b5",
+            "fretString": "x_3_3_3_2_1"
+        },
+        {
+            "name": "F#mmaj7b5",
+            "fretString": "x_2_2_2_1_x"
+        },
+        {
+            "name": "F#mmaj9",
+            "fretString": "1_2_1_3_0_2"
+        },
+        {
+            "name": "F#mmaj9",
+            "fretString": "x_2_1_3_0_2"
+        },
+        {
+            "name": "F#mmaj9",
+            "fretString": "4_2_2_3_4_2"
+        },
+        {
+            "name": "F#mmaj9",
+            "fretString": "x_3_4_1_3_x"
+        },
+        {
+            "name": "F#mmaj11",
+            "fretString": "4_2_2_3_2_2"
+        },
+        {
+            "name": "F#mmaj11",
+            "fretString": "2_3_1_1_1_x"
+        },
+        {
+            "name": "F#mmaj11",
+            "fretString": "1_3_4_1_3_x"
+        },
+        {
+            "name": "F#mmaj11",
+            "fretString": "1_2_2_1_1_1"
+        },
+        {
+            "name": "F#add9",
+            "fretString": "2_2_1_x_1_2"
+        },
+        {
+            "name": "F#add9",
+            "fretString": "4_2_3_4_x_x"
+        },
+        {
+            "name": "F#add9",
+            "fretString": "1_4_1_3_4_x"
+        },
+        {
+            "name": "F#add9",
+            "fretString": "2_2_x_1_2_x"
+        },
+        {
+            "name": "F#madd9",
+            "fretString": "4_2_2_4_x_x"
+        },
+        {
+            "name": "F#madd9",
+            "fretString": "4_2_2_4_4_2"
+        },
+        {
+            "name": "F#madd9",
+            "fretString": "x_4_1_2_4_x"
+        },
+        {
+            "name": "F#madd9",
+            "fretString": "3_3_x_1_3_x"
+        },
+        {
+            "name": "G6",
+            "fretString": "0_0_0_0_2_3"
+        },
+        {
+            "name": "G6",
+            "fretString": "x_3_4_2_x_3"
+        },
+        {
+            "name": "G6",
+            "fretString": "3_1_3_1_1_x"
+        },
+        {
+            "name": "G6",
+            "fretString": "3_3_3_3_1_x"
+        },
+        {
+            "name": "G7",
+            "fretString": "1_0_0_0_2_3"
+        },
+        {
+            "name": "G7",
+            "fretString": "1_1_2_1_3_1"
+        },
+        {
+            "name": "G7",
+            "fretString": "3_2_3_1_1_x"
+        },
+        {
+            "name": "G7",
+            "fretString": "1_3_1_3_1_1"
+        },
+        {
+            "name": "G9",
+            "fretString": "1_0_0_0_0_3"
+        },
+        {
+            "name": "G9",
+            "fretString": "x_3_2_3_2_3"
+        },
+        {
+            "name": "G9",
+            "fretString": "3_1_2_1_3_1"
+        },
+        {
+            "name": "G9",
+            "fretString": "2_2_2_1_2_2"
+        },
+        {
+            "name": "G11",
+            "fretString": "1_1_0_0_2_3"
+        },
+        {
+            "name": "G11",
+            "fretString": "3_2_1_1_1_1"
+        },
+        {
+            "name": "G11",
+            "fretString": "1_1_3_2_3_x"
+        },
+        {
+            "name": "G11",
+            "fretString": "1_3_1_1_1_x"
+        },
+        {
+            "name": "G13",
+            "fretString": "1_0_0_2_0_3"
+        },
+        {
+            "name": "G13",
+            "fretString": "3_3_2_1_x_1"
+        },
+        {
+            "name": "G13",
+            "fretString": "1_3_2_1_3_1"
+        },
+        {
+            "name": "G13",
+            "fretString": "4_2_2_1_2_x"
+        },
+        {
+            "name": "G",
+            "fretString": "3_0_0_0_2_3"
+        },
+        {
+            "name": "G",
+            "fretString": "1_1_2_3_3_1"
+        },
+        {
+            "name": "G",
+            "fretString": "3_4_3_1_1_x"
+        },
+        {
+            "name": "G",
+            "fretString": "1_2_1_3_4_1"
+        },
+        {
+            "name": "Gm",
+            "fretString": "3_3_0_0_1_3"
+        },
+        {
+            "name": "Gm",
+            "fretString": "1_1_1_3_3_1"
+        },
+        {
+            "name": "Gm",
+            "fretString": "2_4_3_1_x_x"
+        },
+        {
+            "name": "Gm",
+            "fretString": "1_2_3_3_1_1"
+        },
+        {
+            "name": "Gdim",
+            "fretString": "x_2_3_x_1_3"
+        },
+        {
+            "name": "Gdim",
+            "fretString": "2_x_2_1_x_x"
+        },
+        {
+            "name": "Gdim",
+            "fretString": "2_1_x_1_3_x"
+        },
+        {
+            "name": "Gdim",
+            "fretString": "x_2_3_2_1_x"
+        },
+        {
+            "name": "Gdim7",
+            "fretString": "0_2_3_x_1_3"
+        },
+        {
+            "name": "Gdim7",
+            "fretString": "0_2_3_2_x_3"
+        },
+        {
+            "name": "Gdim7",
+            "fretString": "1_3_1_3_2_1"
+        },
+        {
+            "name": "Gdim7",
+            "fretString": "2_1_2_1_x_x"
+        },
+        {
+            "name": "Gsus2",
+            "fretString": "3_3_0_0_0_3"
+        },
+        {
+            "name": "Gsus2",
+            "fretString": "1_4_3_1_1_1"
+        },
+        {
+            "name": "Gsus2",
+            "fretString": "4_2_1_1_4_x"
+        },
+        {
+            "name": "Gsus2",
+            "fretString": "1_1_3_3_1_1"
+        },
+        {
+            "name": "Gsus4",
+            "fretString": "3_1_0_0_3_3"
+        },
+        {
+            "name": "Gsus4",
+            "fretString": "1_1_3_3_3_1"
+        },
+        {
+            "name": "Gsus4",
+            "fretString": "4_4_3_1_1_x"
+        },
+        {
+            "name": "Gsus4",
+            "fretString": "1_4_3_3_1_1"
+        },
+        {
+            "name": "G7sus4",
+            "fretString": "1_1_0_0_3_3"
+        },
+        {
+            "name": "G7sus4",
+            "fretString": "1_1_3_1_3_1"
+        },
+        {
+            "name": "G7sus4",
+            "fretString": "1_1_3_3_3_x"
+        },
+        {
+            "name": "G7sus4",
+            "fretString": "1_4_1_3_1_1"
+        },
+        {
+            "name": "Galt",
+            "fretString": "3_2_0_x_2_3"
+        },
+        {
+            "name": "Galt",
+            "fretString": "3_0_2_1_x_x"
+        },
+        {
+            "name": "Galt",
+            "fretString": "1_0_0_1_2_x"
+        },
+        {
+            "name": "Galt",
+            "fretString": "x_3_3_2_1_x"
+        },
+        {
+            "name": "Gaug",
+            "fretString": "x_0_0_1_2_3"
+        },
+        {
+            "name": "Gaug",
+            "fretString": "x_2_2_3_x_1"
+        },
+        {
+            "name": "Gaug",
+            "fretString": "x_1_1_2_x_x"
+        },
+        {
+            "name": "Gaug",
+            "fretString": "x_1_1_2_3_x"
+        },
+        {
+            "name": "G6/9",
+            "fretString": "0_0_0_0_0_3"
+        },
+        {
+            "name": "G6/9",
+            "fretString": "3_3_2_2_2_3"
+        },
+        {
+            "name": "G6/9",
+            "fretString": "2_2_1_2_2_x"
+        },
+        {
+            "name": "G6/9",
+            "fretString": "2_2_1_1_2_x"
+        },
+        {
+            "name": "G7b5",
+            "fretString": "x_2_4_3_x_3"
+        },
+        {
+            "name": "G7b5",
+            "fretString": "3_2_2_1_x_x"
+        },
+        {
+            "name": "G7b5",
+            "fretString": "1_0_2_1_2_x"
+        },
+        {
+            "name": "G7b5",
+            "fretString": "x_3_1_2_1_x"
+        },
+        {
+            "name": "Gaug7",
+            "fretString": "1_0_0_1_2_3"
+        },
+        {
+            "name": "Gaug7",
+            "fretString": "x_4_4_3_x_3"
+        },
+        {
+            "name": "Gaug7",
+            "fretString": "3_2_4_1_x_x"
+        },
+        {
+            "name": "Gaug7",
+            "fretString": "2_3_1_4_1_x"
+        },
+        {
+            "name": "G9b5",
+            "fretString": "3_2_2_3_2_3"
+        },
+        {
+            "name": "G9b5",
+            "fretString": "3_0_2_1_2_1"
+        },
+        {
+            "name": "G9b5",
+            "fretString": "1_2_2_1_2_x"
+        },
+        {
+            "name": "G9b5",
+            "fretString": "3_0_0_1_2_x"
+        },
+        {
+            "name": "Gaug9",
+            "fretString": "1_0_0_1_0_3"
+        },
+        {
+            "name": "Gaug9",
+            "fretString": "x_4_2_3_2_3"
+        },
+        {
+            "name": "Gaug9",
+            "fretString": "3_2_2_1_2_x"
+        },
+        {
+            "name": "Gaug9",
+            "fretString": "2_1_0_2_1_x"
+        },
+        {
+            "name": "G7b9",
+            "fretString": "1_3_1_0_2_3"
+        },
+        {
+            "name": "G7b9",
+            "fretString": "4_3_4_3_x_3"
+        },
+        {
+            "name": "G7b9",
+            "fretString": "1_3_1_2_x_x"
+        },
+        {
+            "name": "G7b9",
+            "fretString": "2_1_2_1_2_x"
+        },
+        {
+            "name": "G7#9",
+            "fretString": "1_0_3_0_2_3"
+        },
+        {
+            "name": "G7#9",
+            "fretString": "4_4_2_1_3_1"
+        },
+        {
+            "name": "G7#9",
+            "fretString": "3_3_1_2_2_x"
+        },
+        {
+            "name": "G7#9",
+            "fretString": "x_3_2_1_2_x"
+        },
+        {
+            "name": "G9#11",
+            "fretString": "3_2_2_3_2_3"
+        },
+        {
+            "name": "G9#11",
+            "fretString": "3_2_2_1_x_x"
+        },
+        {
+            "name": "G9#11",
+            "fretString": "1_2_2_1_2_x"
+        },
+        {
+            "name": "G9#11",
+            "fretString": "1_3_1_2_1_x"
+        },
+        {
+            "name": "Gmaj7",
+            "fretString": "2_0_0_0_2_3"
+        },
+        {
+            "name": "Gmaj7",
+            "fretString": "1_1_2_2_3_1"
+        },
+        {
+            "name": "Gmaj7",
+            "fretString": "3_3_3_1_1_x"
+        },
+        {
+            "name": "Gmaj7",
+            "fretString": "1_3_2_3_1_x"
+        },
+        {
+            "name": "Gmaj7b5",
+            "fretString": "2_2_4_4_2_3"
+        },
+        {
+            "name": "Gmaj7b5",
+            "fretString": "x_x_4_4_4_3"
+        },
+        {
+            "name": "Gmaj7b5",
+            "fretString": "3_3_2_1_x_x"
+        },
+        {
+            "name": "Gmaj7b5",
+            "fretString": "x_3_2_2_1_x"
+        },
+        {
+            "name": "Gmaj7#5",
+            "fretString": "2_0_0_1_x_x"
+        },
+        {
+            "name": "Gmaj7#5",
+            "fretString": "x_4_4_4_x_3"
+        },
+        {
+            "name": "Gmaj7#5",
+            "fretString": "1_1_2_3_4_1"
+        },
+        {
+            "name": "Gmaj7#5",
+            "fretString": "x_3_2_4_1_x"
+        },
+        {
+            "name": "Gmaj9",
+            "fretString": "2_0_0_0_0_3"
+        },
+        {
+            "name": "Gmaj9",
+            "fretString": "2_3_2_4_2_3"
+        },
+        {
+            "name": "Gmaj9",
+            "fretString": "3_1_2_2_x_x"
+        },
+        {
+            "name": "Gmaj9",
+            "fretString": "x_2_3_1_2_x"
+        },
+        {
+            "name": "Gmaj11",
+            "fretString": "2_1_0_0_2_3"
+        },
+        {
+            "name": "Gmaj11",
+            "fretString": "3_3_4_4_3_3"
+        },
+        {
+            "name": "Gmaj11",
+            "fretString": "2_1_0_3_x_x"
+        },
+        {
+            "name": "Gmaj11",
+            "fretString": "1_3_2_1_1_1"
+        },
+        {
+            "name": "Gmaj13",
+            "fretString": "2_3_2_2_2_3"
+        },
+        {
+            "name": "Gmaj13",
+            "fretString": "1_3_2_2_1_1"
+        },
+        {
+            "name": "Gmaj13",
+            "fretString": "1_1_3_3_4_x"
+        },
+        {
+            "name": "Gmaj13",
+            "fretString": "3_3_2_1_1_x"
+        },
+        {
+            "name": "Gm6",
+            "fretString": "3_3_3_2_x_3"
+        },
+        {
+            "name": "Gm6",
+            "fretString": "1_3_1_3_3_1"
+        },
+        {
+            "name": "Gm6",
+            "fretString": "2_1_3_1_1_x"
+        },
+        {
+            "name": "Gm6",
+            "fretString": "3_1_2_1_3_x"
+        },
+        {
+            "name": "Gm6/9",
+            "fretString": "0_3_2_0_1_3"
+        },
+        {
+            "name": "Gm6/9",
+            "fretString": "3_3_1_3_3_x"
+        },
+        {
+            "name": "Gm6/9",
+            "fretString": "1_1_3_1_1_2"
+        },
+        {
+            "name": "Gm6/9",
+            "fretString": "3_3_2_1_3_x"
+        },
+        {
+            "name": "Gm7",
+            "fretString": "1_1_1_1_3_1"
+        },
+        {
+            "name": "Gm7",
+            "fretString": "2_2_3_1_1_x"
+        },
+        {
+            "name": "Gm7",
+            "fretString": "3_1_3_1_3_x"
+        },
+        {
+            "name": "Gm7",
+            "fretString": "1_2_1_3_1_1"
+        },
+        {
+            "name": "Gm7b5",
+            "fretString": "1_2_3_x_x_3"
+        },
+        {
+            "name": "Gm7b5",
+            "fretString": "x_2_3_3_x_3"
+        },
+        {
+            "name": "Gm7b5",
+            "fretString": "2_2_2_1_x_x"
+        },
+        {
+            "name": "Gm7b5",
+            "fretString": "x_2_1_2_1_x"
+        },
+        {
+            "name": "Gm9",
+            "fretString": "1_3_3_0_0_3"
+        },
+        {
+            "name": "Gm9",
+            "fretString": "3_1_1_1_3_1"
+        },
+        {
+            "name": "Gm9",
+            "fretString": "1_1_0_2_x_x"
+        },
+        {
+            "name": "Gm9",
+            "fretString": "3_3_3_1_3_x"
+        },
+        {
+            "name": "Gm11",
+            "fretString": "x_1_3_3_x_3"
+        },
+        {
+            "name": "Gm11",
+            "fretString": "3_1_1_1_1_1"
+        },
+        {
+            "name": "Gm11",
+            "fretString": "3_3_1_1_x_x"
+        },
+        {
+            "name": "Gm11",
+            "fretString": "1_3_3_1_3_x"
+        },
+        {
+            "name": "Gmmaj7",
+            "fretString": "2_3_0_0_1_3"
+        },
+        {
+            "name": "Gmmaj7",
+            "fretString": "1_1_1_2_3_1"
+        },
+        {
+            "name": "Gmmaj7",
+            "fretString": "2_3_3_1_1_x"
+        },
+        {
+            "name": "Gmmaj7",
+            "fretString": "1_2_2_3_1_x"
+        },
+        {
+            "name": "Gmmaj7b5",
+            "fretString": "3_x_3_4_4_3"
+        },
+        {
+            "name": "Gmmaj7b5",
+            "fretString": "2_3_2_1_x_x"
+        },
+        {
+            "name": "Gmmaj7b5",
+            "fretString": "x_3_3_3_2_1"
+        },
+        {
+            "name": "Gmmaj7b5",
+            "fretString": "x_2_2_2_1_x"
+        },
+        {
+            "name": "Gmmaj9",
+            "fretString": "2_3_3_0_0_3"
+        },
+        {
+            "name": "Gmmaj9",
+            "fretString": "3_1_1_2_3_1"
+        },
+        {
+            "name": "Gmmaj9",
+            "fretString": "1_2_0_2_x_x"
+        },
+        {
+            "name": "Gmmaj9",
+            "fretString": "x_3_4_1_3_x"
+        },
+        {
+            "name": "Gmmaj11",
+            "fretString": "3_1_1_2_1_1"
+        },
+        {
+            "name": "Gmmaj11",
+            "fretString": "2_3_1_1_1_x"
+        },
+        {
+            "name": "Gmmaj11",
+            "fretString": "1_3_4_1_3_x"
+        },
+        {
+            "name": "Gmmaj11",
+            "fretString": "1_2_2_1_1_1"
+        },
+        {
+            "name": "Gadd9",
+            "fretString": "3_0_2_0_0_3"
+        },
+        {
+            "name": "Gadd9",
+            "fretString": "4_1_2_3_x_x"
+        },
+        {
+            "name": "Gadd9",
+            "fretString": "1_4_1_3_4_x"
+        },
+        {
+            "name": "Gadd9",
+            "fretString": "2_2_0_1_2_x"
+        },
+        {
+            "name": "Gmadd9",
+            "fretString": "3_3_2_0_1_3"
+        },
+        {
+            "name": "Gmadd9",
+            "fretString": "3_1_1_3_x_x"
+        },
+        {
+            "name": "Gmadd9",
+            "fretString": "1_3_0_2_x_x"
+        },
+        {
+            "name": "Gmadd9",
+            "fretString": "x_4_1_2_4_x"
+        },
+        {
+            "name": "G/E",
+            "fretString": "3_3_0_0_2_0"
+        },
+        {
+            "name": "G/E",
+            "fretString": "3_0_0_0_2_0"
+        },
+        {
+            "name": "G/E",
+            "fretString": "3_3_4_2_x_x"
+        },
+        {
+            "name": "G/F",
+            "fretString": "3_3_0_0_2_1"
+        },
+        {
+            "name": "G/F",
+            "fretString": "3_0_0_0_2_1"
+        },
+        {
+            "name": "G/F",
+            "fretString": "3_3_4_3_x_x"
+        },
+        {
+            "name": "G/F#",
+            "fretString": "3_0_0_0_2_2"
+        },
+        {
+            "name": "G/F#",
+            "fretString": "3_3_0_0_2_2"
+        },
+        {
+            "name": "G/F#",
+            "fretString": "3_3_4_4_x_x"
+        },
+        {
+            "name": "G/B",
+            "fretString": "3_3_0_0_2_x"
+        },
+        {
+            "name": "G/B",
+            "fretString": "3_0_0_0_2_x"
+        },
+        {
+            "name": "G/B",
+            "fretString": "2_2_3_4_1_x"
+        },
+        {
+            "name": "G/D",
+            "fretString": "3_0_0_0_x_x"
+        },
+        {
+            "name": "G/D",
+            "fretString": "1_1_2_3_3_x"
+        },
+        {
+            "name": "G/D",
+            "fretString": "3_4_3_1_1_x"
+        },
+        {
+            "name": "Ab6",
+            "fretString": "1_1_1_1_3_x"
+        },
+        {
+            "name": "Ab6",
+            "fretString": "x_2_3_1_x_2"
+        },
+        {
+            "name": "Ab6",
+            "fretString": "3_1_3_1_1_x"
+        },
+        {
+            "name": "Ab6",
+            "fretString": "x_1_2_2_3_x"
+        },
+        {
+            "name": "Ab7",
+            "fretString": "2_1_1_1_x_x"
+        },
+        {
+            "name": "Ab7",
+            "fretString": "1_1_2_1_3_1"
+        },
+        {
+            "name": "Ab7",
+            "fretString": "3_2_3_1_1_x"
+        },
+        {
+            "name": "Ab7",
+            "fretString": "1_3_1_3_1_1"
+        },
+        {
+            "name": "Ab9",
+            "fretString": "x_4_3_4_3_4"
+        },
+        {
+            "name": "Ab9",
+            "fretString": "3_1_2_1_3_1"
+        },
+        {
+            "name": "Ab9",
+            "fretString": "2_3_1_2_x_x"
+        },
+        {
+            "name": "Ab9",
+            "fretString": "2_2_2_1_2_2"
+        },
+        {
+            "name": "Ab11",
+            "fretString": "1_1_2_1_1_1"
+        },
+        {
+            "name": "Ab11",
+            "fretString": "3_2_1_1_1_1"
+        },
+        {
+            "name": "Ab11",
+            "fretString": "1_1_3_2_3_x"
+        },
+        {
+            "name": "Ab11",
+            "fretString": "1_3_1_1_1_x"
+        },
+        {
+            "name": "Ab13",
+            "fretString": "2_1_1_3_1_4"
+        },
+        {
+            "name": "Ab13",
+            "fretString": "1_3_2_1_3_1"
+        },
+        {
+            "name": "Ab13",
+            "fretString": "3_3_2_1_1_1"
+        },
+        {
+            "name": "Ab13",
+            "fretString": "4_4_2_1_2_x"
+        },
+        {
+            "name": "Ab",
+            "fretString": "x_1_1_1_3_4"
+        },
+        {
+            "name": "Ab",
+            "fretString": "1_1_2_3_3_1"
+        },
+        {
+            "name": "Ab",
+            "fretString": "3_4_3_1_1_x"
+        },
+        {
+            "name": "Ab",
+            "fretString": "1_2_1_3_4_1"
+        },
+        {
+            "name": "Abm",
+            "fretString": "1_1_1_3_3_1"
+        },
+        {
+            "name": "Abm",
+            "fretString": "2_4_3_1_x_x"
+        },
+        {
+            "name": "Abm",
+            "fretString": "1_3_2_3_x_x"
+        },
+        {
+            "name": "Abm",
+            "fretString": "1_2_3_3_1_1"
+        },
+        {
+            "name": "Abdim",
+            "fretString": "x_3_4_x_2_4"
+        },
+        {
+            "name": "Abdim",
+            "fretString": "2_x_2_1_x_x"
+        },
+        {
+            "name": "Abdim",
+            "fretString": "2_1_x_1_3_x"
+        },
+        {
+            "name": "Abdim",
+            "fretString": "x_2_3_2_1_x"
+        },
+        {
+            "name": "Abdim7",
+            "fretString": "1_0_1_0_x_x"
+        },
+        {
+            "name": "Abdim7",
+            "fretString": "4_3_4_3_x_4"
+        },
+        {
+            "name": "Abdim7",
+            "fretString": "2_1_2_1_x_x"
+        },
+        {
+            "name": "Abdim7",
+            "fretString": "1_3_1_3_2_1"
+        },
+        {
+            "name": "Absus2",
+            "fretString": "4_4_3_x_x_4"
+        },
+        {
+            "name": "Absus2",
+            "fretString": "3_1_x_3_3_1"
+        },
+        {
+            "name": "Absus2",
+            "fretString": "1_4_3_1_1_1"
+        },
+        {
+            "name": "Absus2",
+            "fretString": "1_1_3_3_1_1"
+        },
+        {
+            "name": "Absus4",
+            "fretString": "4_2_1_1_x_x"
+        },
+        {
+            "name": "Absus4",
+            "fretString": "1_1_3_3_3_1"
+        },
+        {
+            "name": "Absus4",
+            "fretString": "4_4_3_1_1_x"
+        },
+        {
+            "name": "Absus4",
+            "fretString": "1_4_3_3_1_1"
+        },
+        {
+            "name": "Ab7sus4",
+            "fretString": "2_2_1_1_x_x"
+        },
+        {
+            "name": "Ab7sus4",
+            "fretString": "1_1_3_1_3_1"
+        },
+        {
+            "name": "Ab7sus4",
+            "fretString": "1_1_3_3_3_x"
+        },
+        {
+            "name": "Ab7sus4",
+            "fretString": "1_4_1_3_1_1"
+        },
+        {
+            "name": "Abalt",
+            "fretString": "2_1_3_4_x_x"
+        },
+        {
+            "name": "Abalt",
+            "fretString": "3_4_2_1_x_x"
+        },
+        {
+            "name": "Abalt",
+            "fretString": "1_4_4_1_2_x"
+        },
+        {
+            "name": "Abalt",
+            "fretString": "x_3_3_2_1_x"
+        },
+        {
+            "name": "Abaug",
+            "fretString": "x_1_1_2_3_4"
+        },
+        {
+            "name": "Abaug",
+            "fretString": "x_2_2_3_x_1"
+        },
+        {
+            "name": "Abaug",
+            "fretString": "x_1_1_2_x_x"
+        },
+        {
+            "name": "Abaug",
+            "fretString": "x_1_1_2_3_x"
+        },
+        {
+            "name": "Ab6/9",
+            "fretString": "1_1_1_1_1_x"
+        },
+        {
+            "name": "Ab6/9",
+            "fretString": "4_4_3_3_3_4"
+        },
+        {
+            "name": "Ab6/9",
+            "fretString": "2_2_1_2_x_x"
+        },
+        {
+            "name": "Ab6/9",
+            "fretString": "2_2_1_1_2_x"
+        },
+        {
+            "name": "Ab7b5",
+            "fretString": "x_1_3_2_x_2"
+        },
+        {
+            "name": "Ab7b5",
+            "fretString": "3_2_2_1_x_x"
+        },
+        {
+            "name": "Ab7b5",
+            "fretString": "2_1_3_2_1_x"
+        },
+        {
+            "name": "Ab7b5",
+            "fretString": "x_3_1_2_1_x"
+        },
+        {
+            "name": "Abaug7",
+            "fretString": "0_2_2_1_x_1"
+        },
+        {
+            "name": "Abaug7",
+            "fretString": "3_2_4_1_x_x"
+        },
+        {
+            "name": "Abaug7",
+            "fretString": "0_1_3_2_3_x"
+        },
+        {
+            "name": "Abaug7",
+            "fretString": "2_3_1_4_1_x"
+        },
+        {
+            "name": "Ab9b5",
+            "fretString": "2_x_3_0_3_4"
+        },
+        {
+            "name": "Ab9b5",
+            "fretString": "4_3_3_4_3_4"
+        },
+        {
+            "name": "Ab9b5",
+            "fretString": "3_x_2_1_2_1"
+        },
+        {
+            "name": "Ab9b5",
+            "fretString": "1_2_2_1_2_x"
+        },
+        {
+            "name": "Abaug9",
+            "fretString": "2_1_1_2_1_2"
+        },
+        {
+            "name": "Abaug9",
+            "fretString": "0_3_1_2_1_2"
+        },
+        {
+            "name": "Abaug9",
+            "fretString": "3_2_2_1_x_x"
+        },
+        {
+            "name": "Abaug9",
+            "fretString": "0_2_2_1_2_x"
+        },
+        {
+            "name": "Ab7b9",
+            "fretString": "2_1_1_1_0_x"
+        },
+        {
+            "name": "Ab7b9",
+            "fretString": "2_1_2_1_x_x"
+        },
+        {
+            "name": "Ab7b9",
+            "fretString": "1_3_1_2_x_x"
+        },
+        {
+            "name": "Ab7b9",
+            "fretString": "2_1_2_1_2_x"
+        },
+        {
+            "name": "Ab7#9",
+            "fretString": "4_4_4_4_3_4"
+        },
+        {
+            "name": "Ab7#9",
+            "fretString": "4_4_2_1_3_1"
+        },
+        {
+            "name": "Ab7#9",
+            "fretString": "3_3_1_2_x_x"
+        },
+        {
+            "name": "Ab7#9",
+            "fretString": "x_3_2_1_2_x"
+        },
+        {
+            "name": "Ab9#11",
+            "fretString": "x_1_3_2_x_2"
+        },
+        {
+            "name": "Ab9#11",
+            "fretString": "3_2_2_1_x_x"
+        },
+        {
+            "name": "Ab9#11",
+            "fretString": "1_2_2_1_2_x"
+        },
+        {
+            "name": "Ab9#11",
+            "fretString": "1_3_1_2_1_x"
+        },
+        {
+            "name": "Abmaj7",
+            "fretString": "1_1_2_2_3_1"
+        },
+        {
+            "name": "Abmaj7",
+            "fretString": "3_3_3_1_1_x"
+        },
+        {
+            "name": "Abmaj7",
+            "fretString": "x_1_4_2_3_x"
+        },
+        {
+            "name": "Abmaj7",
+            "fretString": "1_3_2_3_1_1"
+        },
+        {
+            "name": "Abmaj7b5",
+            "fretString": "1_1_3_3_1_2"
+        },
+        {
+            "name": "Abmaj7b5",
+            "fretString": "x_x_2_2_2_1"
+        },
+        {
+            "name": "Abmaj7b5",
+            "fretString": "3_3_2_1_0_0"
+        },
+        {
+            "name": "Abmaj7b5",
+            "fretString": "x_3_2_2_1_x"
+        },
+        {
+            "name": "Abmaj7#5",
+            "fretString": "0_1_0_2_3_4"
+        },
+        {
+            "name": "Abmaj7#5",
+            "fretString": "0_3_0_3_1_2"
+        },
+        {
+            "name": "Abmaj7#5",
+            "fretString": "1_1_2_3_4_1"
+        },
+        {
+            "name": "Abmaj7#5",
+            "fretString": "x_3_2_4_1_x"
+        },
+        {
+            "name": "Abmaj9",
+            "fretString": "3_1_1_1_1_x"
+        },
+        {
+            "name": "Abmaj9",
+            "fretString": "1_2_1_3_1_2"
+        },
+        {
+            "name": "Abmaj9",
+            "fretString": "3_1_2_2_3_1"
+        },
+        {
+            "name": "Abmaj9",
+            "fretString": "x_2_3_1_2_2"
+        },
+        {
+            "name": "Abmaj11",
+            "fretString": "x_2_0_1_3_4"
+        },
+        {
+            "name": "Abmaj11",
+            "fretString": "1_1_2_2_1_1"
+        },
+        {
+            "name": "Abmaj11",
+            "fretString": "3_3_1_1_x_x"
+        },
+        {
+            "name": "Abmaj11",
+            "fretString": "1_3_2_1_1_1"
+        },
+        {
+            "name": "Abmaj13",
+            "fretString": "3_4_3_3_3_4"
+        },
+        {
+            "name": "Abmaj13",
+            "fretString": "1_3_2_2_1_1"
+        },
+        {
+            "name": "Abmaj13",
+            "fretString": "1_1_3_3_4_x"
+        },
+        {
+            "name": "Abmaj13",
+            "fretString": "3_3_2_1_1_x"
+        },
+        {
+            "name": "Abm6",
+            "fretString": "x_4_4_3_x_4"
+        },
+        {
+            "name": "Abm6",
+            "fretString": "1_3_1_3_3_1"
+        },
+        {
+            "name": "Abm6",
+            "fretString": "2_1_3_1_1_x"
+        },
+        {
+            "name": "Abm6",
+            "fretString": "3_1_2_1_3_x"
+        },
+        {
+            "name": "Abm6/9",
+            "fretString": "4_2_2_1_x_2"
+        },
+        {
+            "name": "Abm6/9",
+            "fretString": "3_3_1_3_3_1"
+        },
+        {
+            "name": "Abm6/9",
+            "fretString": "1_1_3_1_1_2"
+        },
+        {
+            "name": "Abm6/9",
+            "fretString": "3_3_2_1_3_x"
+        },
+        {
+            "name": "Abm7",
+            "fretString": "1_1_1_1_3_1"
+        },
+        {
+            "name": "Abm7",
+            "fretString": "2_2_3_1_1_x"
+        },
+        {
+            "name": "Abm7",
+            "fretString": "x_1_3_1_3_x"
+        },
+        {
+            "name": "Abm7",
+            "fretString": "1_2_1_3_1_1"
+        },
+        {
+            "name": "Abm7b5",
+            "fretString": "2_0_1_0_x_x"
+        },
+        {
+            "name": "Abm7b5",
+            "fretString": "x_3_4_4_x_4"
+        },
+        {
+            "name": "Abm7b5",
+            "fretString": "2_2_2_1_x_x"
+        },
+        {
+            "name": "Abm7b5",
+            "fretString": "x_2_1_2_1_x"
+        },
+        {
+            "name": "Abm9",
+            "fretString": "2_0_1_1_1_4"
+        },
+        {
+            "name": "Abm9",
+            "fretString": "3_1_1_1_3_1"
+        },
+        {
+            "name": "Abm9",
+            "fretString": "1_3_2_2_3_1"
+        },
+        {
+            "name": "Abm9",
+            "fretString": "3_3_3_1_3_x"
+        },
+        {
+            "name": "Abm11",
+            "fretString": "2_2_3_4_2_4"
+        },
+        {
+            "name": "Abm11",
+            "fretString": "3_1_1_1_1_1"
+        },
+        {
+            "name": "Abm11",
+            "fretString": "2_2_1_1_x_x"
+        },
+        {
+            "name": "Abm11",
+            "fretString": "1_3_3_1_3_x"
+        },
+        {
+            "name": "Abmmaj7",
+            "fretString": "3_4_1_1_2_x"
+        },
+        {
+            "name": "Abmmaj7",
+            "fretString": "1_1_1_2_3_1"
+        },
+        {
+            "name": "Abmmaj7",
+            "fretString": "2_3_3_1_1_x"
+        },
+        {
+            "name": "Abmmaj7",
+            "fretString": "1_2_2_3_1_x"
+        },
+        {
+            "name": "Abmmaj7b5",
+            "fretString": "1_x_1_2_2_1"
+        },
+        {
+            "name": "Abmmaj7b5",
+            "fretString": "2_3_2_1_x_x"
+        },
+        {
+            "name": "Abmmaj7b5",
+            "fretString": "x_3_3_3_2_1"
+        },
+        {
+            "name": "Abmmaj7b5",
+            "fretString": "x_2_2_2_1_x"
+        },
+        {
+            "name": "Abmmaj9",
+            "fretString": "2_0_1_3_x_2"
+        },
+        {
+            "name": "Abmmaj9",
+            "fretString": "3_1_1_2_3_1"
+        },
+        {
+            "name": "Abmmaj9",
+            "fretString": "2_3_3_1_1_1"
+        },
+        {
+            "name": "Abmmaj9",
+            "fretString": "x_3_4_1_3_x"
+        },
+        {
+            "name": "Abmmaj11",
+            "fretString": "3_1_1_2_1_1"
+        },
+        {
+            "name": "Abmmaj11",
+            "fretString": "2_3_1_1_1_x"
+        },
+        {
+            "name": "Abmmaj11",
+            "fretString": "1_3_4_1_3_x"
+        },
+        {
+            "name": "Abmmaj11",
+            "fretString": "1_2_2_1_1_1"
+        },
+        {
+            "name": "Abadd9",
+            "fretString": "x_4_3_x_3_4"
+        },
+        {
+            "name": "Abadd9",
+            "fretString": "3_1_2_3_x_x"
+        },
+        {
+            "name": "Abadd9",
+            "fretString": "1_4_1_3_4_x"
+        },
+        {
+            "name": "Abadd9",
+            "fretString": "2_2_x_1_2_x"
+        },
+        {
+            "name": "Abmadd9",
+            "fretString": "x_4_3_x_2_4"
+        },
+        {
+            "name": "Abmadd9",
+            "fretString": "3_1_1_3_x_x"
+        },
+        {
+            "name": "Abmadd9",
+            "fretString": "3_1_1_3_3_1"
+        },
+        {
+            "name": "Abmadd9",
+            "fretString": "x_4_1_2_4_x"
+        },
+        {
+            "name": "A6",
+            "fretString": "2_2_2_2_0_x"
+        },
+        {
+            "name": "A6",
+            "fretString": "x_2_3_1_x_2"
+        },
+        {
+            "name": "A6",
+            "fretString": "1_3_2_x_3_1"
+        },
+        {
+            "name": "A6",
+            "fretString": "x_1_2_2_3_x"
+        },
+        {
+            "name": "A7",
+            "fretString": "0_2_0_2_0_x"
+        },
+        {
+            "name": "A7",
+            "fretString": "3_2_2_2_0_x"
+        },
+        {
+            "name": "A7",
+            "fretString": "1_1_2_1_3_1"
+        },
+        {
+            "name": "A7",
+            "fretString": "3_2_3_1_0_x"
+        },
+        {
+            "name": "A9",
+            "fretString": "0_0_0_1_3_4"
+        },
+        {
+            "name": "A9",
+            "fretString": "3_2_4_2_0_x"
+        },
+        {
+            "name": "A9",
+            "fretString": "3_1_2_1_3_1"
+        },
+        {
+            "name": "A9",
+            "fretString": "2_2_2_1_2_x"
+        },
+        {
+            "name": "A11",
+            "fretString": "0_2_0_0_0_x"
+        },
+        {
+            "name": "A11",
+            "fretString": "1_0_0_0_2_3"
+        },
+        {
+            "name": "A11",
+            "fretString": "1_1_2_1_1_1"
+        },
+        {
+            "name": "A11",
+            "fretString": "3_2_1_1_1_1"
+        },
+        {
+            "name": "A13",
+            "fretString": "2_2_0_2_0_x"
+        },
+        {
+            "name": "A13",
+            "fretString": "0_1_0_2_2_3"
+        },
+        {
+            "name": "A13",
+            "fretString": "1_3_2_1_3_1"
+        },
+        {
+            "name": "A13",
+            "fretString": "4_4_2_1_2_x"
+        },
+        {
+            "name": "A",
+            "fretString": "0_2_2_2_0_x"
+        },
+        {
+            "name": "A",
+            "fretString": "4_1_1_1_0_x"
+        },
+        {
+            "name": "A",
+            "fretString": "1_1_2_3_3_1"
+        },
+        {
+            "name": "A",
+            "fretString": "3_4_3_1_0_x"
+        },
+        {
+            "name": "Am",
+            "fretString": "0_1_2_2_0_x"
+        },
+        {
+            "name": "Am",
+            "fretString": "4_4_4_1_0_x"
+        },
+        {
+            "name": "Am",
+            "fretString": "1_1_1_3_3_1"
+        },
+        {
+            "name": "Am",
+            "fretString": "2_4_3_1_0_x"
+        },
+        {
+            "name": "Adim",
+            "fretString": "x_1_2_1_0_x"
+        },
+        {
+            "name": "Adim",
+            "fretString": "x_1_2_x_1_3"
+        },
+        {
+            "name": "Adim",
+            "fretString": "2_x_2_1_x_x"
+        },
+        {
+            "name": "Adim",
+            "fretString": "2_1_x_1_3_x"
+        },
+        {
+            "name": "Adim7",
+            "fretString": "2_1_2_1_0_x"
+        },
+        {
+            "name": "Adim7",
+            "fretString": "x_1_2_1_x_2"
+        },
+        {
+            "name": "Adim7",
+            "fretString": "1_3_1_3_2_1"
+        },
+        {
+            "name": "Adim7",
+            "fretString": "2_1_2_1_0_x"
+        },
+        {
+            "name": "Asus2",
+            "fretString": "0_0_2_2_0_x"
+        },
+        {
+            "name": "Asus2",
+            "fretString": "0_0_4_2_0_x"
+        },
+        {
+            "name": "Asus2",
+            "fretString": "1_4_3_1_1_1"
+        },
+        {
+            "name": "Asus2",
+            "fretString": "0_0_1_1_0_x"
+        },
+        {
+            "name": "Asus4",
+            "fretString": "0_3_2_2_0_x"
+        },
+        {
+            "name": "Asus4",
+            "fretString": "0_3_x_0_0_x"
+        },
+        {
+            "name": "Asus4",
+            "fretString": "1_1_3_3_3_1"
+        },
+        {
+            "name": "Asus4",
+            "fretString": "4_4_3_1_1_x"
+        },
+        {
+            "name": "A7sus4",
+            "fretString": "0_3_0_2_0_x"
+        },
+        {
+            "name": "A7sus4",
+            "fretString": "1_1_3_1_3_1"
+        },
+        {
+            "name": "A7sus4",
+            "fretString": "4_2_3_1_0_x"
+        },
+        {
+            "name": "A7sus4",
+            "fretString": "1_1_3_3_3_x"
+        },
+        {
+            "name": "Aalt",
+            "fretString": "x_2_2_1_0_x"
+        },
+        {
+            "name": "Aalt",
+            "fretString": "2_1_3_4_0_x"
+        },
+        {
+            "name": "Aalt",
+            "fretString": "2_3_1_4_0_x"
+        },
+        {
+            "name": "Aalt",
+            "fretString": "x_3_3_2_1_x"
+        },
+        {
+            "name": "Aaug",
+            "fretString": "1_2_2_3_0_x"
+        },
+        {
+            "name": "Aaug",
+            "fretString": "x_1_1_2_3_4"
+        },
+        {
+            "name": "Aaug",
+            "fretString": "1_2_2_3_x_1"
+        },
+        {
+            "name": "Aaug",
+            "fretString": "x_1_1_2_3_x"
+        },
+        {
+            "name": "A6/9",
+            "fretString": "2_2_4_4_0_x"
+        },
+        {
+            "name": "A6/9",
+            "fretString": "2_2_1_1_1_2"
+        },
+        {
+            "name": "A6/9",
+            "fretString": "2_2_1_2_2_x"
+        },
+        {
+            "name": "A6/9",
+            "fretString": "2_2_1_1_2_x"
+        },
+        {
+            "name": "A7b5",
+            "fretString": "3_2_2_1_0_x"
+        },
+        {
+            "name": "A7b5",
+            "fretString": "2_1_3_2_0_x"
+        },
+        {
+            "name": "A7b5",
+            "fretString": "3_2_2_1_x_x"
+        },
+        {
+            "name": "A7b5",
+            "fretString": "2_1_3_2_1_x"
+        },
+        {
+            "name": "Aaug7",
+            "fretString": "1_2_0_3_0_x"
+        },
+        {
+            "name": "Aaug7",
+            "fretString": "3_2_2_3_0_x"
+        },
+        {
+            "name": "Aaug7",
+            "fretString": "1_2_2_1_0_x"
+        },
+        {
+            "name": "Aaug7",
+            "fretString": "3_2_4_1_x_x"
+        },
+        {
+            "name": "A9b5",
+            "fretString": "3_2_4_1_0_x"
+        },
+        {
+            "name": "A9b5",
+            "fretString": "2_1_1_2_1_2"
+        },
+        {
+            "name": "A9b5",
+            "fretString": "2_1_1_2_0_x"
+        },
+        {
+            "name": "A9b5",
+            "fretString": "1_2_2_1_2_x"
+        },
+        {
+            "name": "Aaug9",
+            "fretString": "3_2_4_3_0_x"
+        },
+        {
+            "name": "Aaug9",
+            "fretString": "3_0_0_1_2_3"
+        },
+        {
+            "name": "Aaug9",
+            "fretString": "3_2_2_1_0_x"
+        },
+        {
+            "name": "Aaug9",
+            "fretString": "3_0_2_1_2_x"
+        },
+        {
+            "name": "A7b9",
+            "fretString": "3_2_3_2_0_x"
+        },
+        {
+            "name": "A7b9",
+            "fretString": "2_1_2_1_3_1"
+        },
+        {
+            "name": "A7b9",
+            "fretString": "1_3_1_2_x_x"
+        },
+        {
+            "name": "A7b9",
+            "fretString": "2_1_2_1_2_x"
+        },
+        {
+            "name": "A7#9",
+            "fretString": "4_4_2_1_3_1"
+        },
+        {
+            "name": "A7#9",
+            "fretString": "3_3_1_2_x_x"
+        },
+        {
+            "name": "A7#9",
+            "fretString": "2_1_2_3_0_x"
+        },
+        {
+            "name": "A7#9",
+            "fretString": "x_3_2_1_2_x"
+        },
+        {
+            "name": "A9#11",
+            "fretString": "0_2_0_1_0_x"
+        },
+        {
+            "name": "A9#11",
+            "fretString": "2_1_1_2_1_2"
+        },
+        {
+            "name": "A9#11",
+            "fretString": "3_2_2_1_x_x"
+        },
+        {
+            "name": "A9#11",
+            "fretString": "1_2_2_1_2_x"
+        },
+        {
+            "name": "Amaj7",
+            "fretString": "0_2_1_2_0_x"
+        },
+        {
+            "name": "Amaj7",
+            "fretString": "4_2_2_2_0_x"
+        },
+        {
+            "name": "Amaj7",
+            "fretString": "1_1_2_2_3_1"
+        },
+        {
+            "name": "Amaj7",
+            "fretString": "3_3_3_1_0_x"
+        },
+        {
+            "name": "Amaj7b5",
+            "fretString": "4_2_1_1_0_x"
+        },
+        {
+            "name": "Amaj7b5",
+            "fretString": "4_2_2_1_0_x"
+        },
+        {
+            "name": "Amaj7b5",
+            "fretString": "x_x_2_2_2_1"
+        },
+        {
+            "name": "Amaj7b5",
+            "fretString": "3_3_2_1_0_x"
+        },
+        {
+            "name": "Amaj7#5",
+            "fretString": "1_2_1_3_0_x"
+        },
+        {
+            "name": "Amaj7#5",
+            "fretString": "4_2_2_3_0_x"
+        },
+        {
+            "name": "Amaj7#5",
+            "fretString": "1_2_2_2_0_x"
+        },
+        {
+            "name": "Amaj7#5",
+            "fretString": "1_1_2_3_4_1"
+        },
+        {
+            "name": "Amaj9",
+            "fretString": "4_2_4_2_0_x"
+        },
+        {
+            "name": "Amaj9",
+            "fretString": "0_2_1_3_1_2"
+        },
+        {
+            "name": "Amaj9",
+            "fretString": "3_1_2_2_0_x"
+        },
+        {
+            "name": "Amaj9",
+            "fretString": "x_2_3_1_2_2"
+        },
+        {
+            "name": "Amaj11",
+            "fretString": "0_2_1_0_0_x"
+        },
+        {
+            "name": "Amaj11",
+            "fretString": "4_2_2_0_0_x"
+        },
+        {
+            "name": "Amaj11",
+            "fretString": "3_1_2_2_1_1"
+        },
+        {
+            "name": "Amaj11",
+            "fretString": "1_1_1_1_0_2"
+        },
+        {
+            "name": "Amaj13",
+            "fretString": "2_2_1_2_0_x"
+        },
+        {
+            "name": "Amaj13",
+            "fretString": "1_2_1_1_1_2"
+        },
+        {
+            "name": "Amaj13",
+            "fretString": "2_2_1_1_0_x"
+        },
+        {
+            "name": "Amaj13",
+            "fretString": "1_1_3_3_4_x"
+        },
+        {
+            "name": "Am6",
+            "fretString": "2_1_2_2_0_x"
+        },
+        {
+            "name": "Am6",
+            "fretString": "2_2_2_1_x_2"
+        },
+        {
+            "name": "Am6",
+            "fretString": "1_3_1_3_3_1"
+        },
+        {
+            "name": "Am6",
+            "fretString": "2_1_3_1_1_x"
+        },
+        {
+            "name": "Am6/9",
+            "fretString": "0_0_2_1_0_x"
+        },
+        {
+            "name": "Am6/9",
+            "fretString": "3_3_1_3_3_1"
+        },
+        {
+            "name": "Am6/9",
+            "fretString": "1_1_3_1_0_2"
+        },
+        {
+            "name": "Am6/9",
+            "fretString": "3_3_2_1_3_x"
+        },
+        {
+            "name": "Am7",
+            "fretString": "0_1_0_2_0_x"
+        },
+        {
+            "name": "Am7",
+            "fretString": "3_1_2_2_0_x"
+        },
+        {
+            "name": "Am7",
+            "fretString": "1_1_1_1_3_1"
+        },
+        {
+            "name": "Am7",
+            "fretString": "2_2_3_1_1_x"
+        },
+        {
+            "name": "Am7b5",
+            "fretString": "x_1_0_1_0_x"
+        },
+        {
+            "name": "Am7b5",
+            "fretString": "x_1_2_2_x_2"
+        },
+        {
+            "name": "Am7b5",
+            "fretString": "1_4_1_3_2_1"
+        },
+        {
+            "name": "Am7b5",
+            "fretString": "2_2_2_1_x_x"
+        },
+        {
+            "name": "Am9",
+            "fretString": "3_1_4_2_0_x"
+        },
+        {
+            "name": "Am9",
+            "fretString": "3_1_1_1_3_1"
+        },
+        {
+            "name": "Am9",
+            "fretString": "0_1_0_2_0_1"
+        },
+        {
+            "name": "Am9",
+            "fretString": "3_3_3_1_3_x"
+        },
+        {
+            "name": "Am11",
+            "fretString": "0_1_0_0_0_x"
+        },
+        {
+            "name": "Am11",
+            "fretString": "1_1_2_3_1_3"
+        },
+        {
+            "name": "Am11",
+            "fretString": "3_1_1_1_1_1"
+        },
+        {
+            "name": "Am11",
+            "fretString": "1_3_3_1_3_x"
+        },
+        {
+            "name": "Ammaj7",
+            "fretString": "0_1_1_2_0_x"
+        },
+        {
+            "name": "Ammaj7",
+            "fretString": "1_1_1_2_3_1"
+        },
+        {
+            "name": "Ammaj7",
+            "fretString": "2_3_3_1_1_x"
+        },
+        {
+            "name": "Ammaj7",
+            "fretString": "x_1_1_2_4_x"
+        },
+        {
+            "name": "Ammaj7b5",
+            "fretString": "4_1_1_1_0_x"
+        },
+        {
+            "name": "Ammaj7b5",
+            "fretString": "1_x_1_2_2_1"
+        },
+        {
+            "name": "Ammaj7b5",
+            "fretString": "2_3_2_1_x_x"
+        },
+        {
+            "name": "Ammaj7b5",
+            "fretString": "x_3_3_3_2_1"
+        },
+        {
+            "name": "Ammaj9",
+            "fretString": "0_0_2_4_1_3"
+        },
+        {
+            "name": "Ammaj9",
+            "fretString": "1_0_2_3_0_x"
+        },
+        {
+            "name": "Ammaj9",
+            "fretString": "3_1_1_2_3_1"
+        },
+        {
+            "name": "Ammaj9",
+            "fretString": "1_2_2_2_0_x"
+        },
+        {
+            "name": "Ammaj11",
+            "fretString": "0_1_1_0_0_x"
+        },
+        {
+            "name": "Ammaj11",
+            "fretString": "3_1_1_2_1_1"
+        },
+        {
+            "name": "Ammaj11",
+            "fretString": "2_3_1_1_0_x"
+        },
+        {
+            "name": "Ammaj11",
+            "fretString": "1_3_4_1_3_x"
+        },
+        {
+            "name": "Aadd9",
+            "fretString": "0_2_4_2_0_x"
+        },
+        {
+            "name": "Aadd9",
+            "fretString": "3_1_2_3_x_x"
+        },
+        {
+            "name": "Aadd9",
+            "fretString": "1_4_1_3_4_x"
+        },
+        {
+            "name": "Aadd9",
+            "fretString": "2_2_x_1_2_x"
+        },
+        {
+            "name": "Amadd9",
+            "fretString": "0_1_4_2_0_x"
+        },
+        {
+            "name": "Amadd9",
+            "fretString": "3_1_1_3_x_x"
+        },
+        {
+            "name": "Amadd9",
+            "fretString": "2_0_3_1_x_x"
+        },
+        {
+            "name": "Amadd9",
+            "fretString": "x_4_1_2_4_x"
+        },
+        {
+            "name": "A/E",
+            "fretString": "0_2_2_2_0_0"
+        },
+        {
+            "name": "A/E",
+            "fretString": "1_1_2_3_3_x"
+        },
+        {
+            "name": "A/E",
+            "fretString": "4_1_1_1_x_x"
+        },
+        {
+            "name": "A/F",
+            "fretString": "0_2_2_2_0_1"
+        },
+        {
+            "name": "A/F",
+            "fretString": "0_2_2_3_x_x"
+        },
+        {
+            "name": "A/F",
+            "fretString": "x_2_2_2_4_1"
+        },
+        {
+            "name": "A/F#",
+            "fretString": "0_2_2_2_0_2"
+        },
+        {
+            "name": "A/F#",
+            "fretString": "4_4_1_1_3_1"
+        },
+        {
+            "name": "A/F#",
+            "fretString": "4_1_1_1_3_1"
+        },
+        {
+            "name": "A/G",
+            "fretString": "0_2_2_2_0_3"
+        },
+        {
+            "name": "A/G",
+            "fretString": "1_1_2_1_x_x"
+        },
+        {
+            "name": "A/G",
+            "fretString": "4_4_1_1_3_2"
+        },
+        {
+            "name": "A/G#",
+            "fretString": "4_4_1_1_3_3"
+        },
+        {
+            "name": "A/G#",
+            "fretString": "4_1_1_1_3_3"
+        },
+        {
+            "name": "A/G#",
+            "fretString": "1_1_2_2_x_x"
+        },
+        {
+            "name": "A/C#",
+            "fretString": "4_4_1_1_3_x"
+        },
+        {
+            "name": "A/C#",
+            "fretString": "4_1_1_1_3_x"
+        },
+        {
+            "name": "A/C#",
+            "fretString": "2_2_3_4_1_x"
+        },
+        {
+            "name": "Am/C",
+            "fretString": "0_1_2_2_3_x"
+        },
+        {
+            "name": "Am/C",
+            "fretString": "4_4_4_1_2_x"
+        },
+        {
+            "name": "Am/C",
+            "fretString": "4_4_1_1_2_x"
+        },
+        {
+            "name": "Am/E",
+            "fretString": "0_1_2_2_0_0"
+        },
+        {
+            "name": "Am/E",
+            "fretString": "0_1_2_2_3_0"
+        },
+        {
+            "name": "Am/E",
+            "fretString": "1_1_1_3_3_x"
+        },
+        {
+            "name": "Am/F",
+            "fretString": "0_1_2_2_0_1"
+        },
+        {
+            "name": "Am/F",
+            "fretString": "0_1_2_3_x_x"
+        },
+        {
+            "name": "Am/F",
+            "fretString": "x_1_2_2_3_1"
+        },
+        {
+            "name": "Am/F#",
+            "fretString": "0_1_2_2_0_2"
+        },
+        {
+            "name": "Am/F#",
+            "fretString": "2_2_2_1_x_x"
+        },
+        {
+            "name": "Am/F#",
+            "fretString": "4_4_4_1_2_1"
+        },
+        {
+            "name": "Am/G",
+            "fretString": "1_1_1_1_x_x"
+        },
+        {
+            "name": "Am/G",
+            "fretString": "0_1_2_2_0_3"
+        },
+        {
+            "name": "Am/G",
+            "fretString": "4_4_4_1_2_2"
+        },
+        {
+            "name": "Am/G#",
+            "fretString": "2_2_2_1_x_x"
+        },
+        {
+            "name": "Am/G#",
+            "fretString": "4_4_4_1_2_3"
+        },
+        {
+            "name": "Am/G#",
+            "fretString": "4_4_1_1_2_3"
+        },
+        {
+            "name": "Bb6",
+            "fretString": "3_3_3_3_1_x"
+        },
+        {
+            "name": "Bb6",
+            "fretString": "2_2_0_0_1_2"
+        },
+        {
+            "name": "Bb6",
+            "fretString": "1_3_2_x_3_1"
+        },
+        {
+            "name": "Bb6",
+            "fretString": "x_1_2_2_4_x"
+        },
+        {
+            "name": "Bb7",
+            "fretString": "1_3_1_3_1_x"
+        },
+        {
+            "name": "Bb7",
+            "fretString": "1_1_2_1_3_1"
+        },
+        {
+            "name": "Bb7",
+            "fretString": "3_2_3_1_1_x"
+        },
+        {
+            "name": "Bb7",
+            "fretString": "x_1_3_2_3_x"
+        },
+        {
+            "name": "Bb9",
+            "fretString": "1_1_1_0_1_x"
+        },
+        {
+            "name": "Bb9",
+            "fretString": "x_2_1_2_1_2"
+        },
+        {
+            "name": "Bb9",
+            "fretString": "3_1_2_1_3_1"
+        },
+        {
+            "name": "Bb9",
+            "fretString": "2_2_2_1_2_x"
+        },
+        {
+            "name": "Bb11",
+            "fretString": "1_3_1_1_1_x"
+        },
+        {
+            "name": "Bb11",
+            "fretString": "1_1_2_0_2_3"
+        },
+        {
+            "name": "Bb11",
+            "fretString": "3_2_1_1_1_1"
+        },
+        {
+            "name": "Bb11",
+            "fretString": "1_1_3_2_3_x"
+        },
+        {
+            "name": "Bb13",
+            "fretString": "3_3_1_0_1_x"
+        },
+        {
+            "name": "Bb13",
+            "fretString": "1_1_0_0_2_3"
+        },
+        {
+            "name": "Bb13",
+            "fretString": "3_3_2_1_1_1"
+        },
+        {
+            "name": "Bb13",
+            "fretString": "4_4_2_1_2_x"
+        },
+        {
+            "name": "Bb",
+            "fretString": "1_3_3_3_1_x"
+        },
+        {
+            "name": "Bb",
+            "fretString": "x_1_1_1_3_4"
+        },
+        {
+            "name": "Bb",
+            "fretString": "1_1_2_3_3_1"
+        },
+        {
+            "name": "Bb",
+            "fretString": "3_4_3_1_1_x"
+        },
+        {
+            "name": "Bbm",
+            "fretString": "1_2_3_3_1_x"
+        },
+        {
+            "name": "Bbm",
+            "fretString": "1_1_1_3_3_1"
+        },
+        {
+            "name": "Bbm",
+            "fretString": "1_1_1_3_x_x"
+        },
+        {
+            "name": "Bbm",
+            "fretString": "2_4_3_1_x_x"
+        },
+        {
+            "name": "Bbdim",
+            "fretString": "x_2_3_2_1_x"
+        },
+        {
+            "name": "Bbdim",
+            "fretString": "x_2_3_x_1_3"
+        },
+        {
+            "name": "Bbdim",
+            "fretString": "2_x_2_1_x_x"
+        },
+        {
+            "name": "Bbdim",
+            "fretString": "2_1_x_1_3_x"
+        },
+        {
+            "name": "Bbdim7",
+            "fretString": "0_2_0_2_1_x"
+        },
+        {
+            "name": "Bbdim7",
+            "fretString": "3_2_3_2_x_x"
+        },
+        {
+            "name": "Bbdim7",
+            "fretString": "1_3_1_3_2_1"
+        },
+        {
+            "name": "Bbdim7",
+            "fretString": "2_1_2_1_x_x"
+        },
+        {
+            "name": "Bbsus2",
+            "fretString": "1_1_3_3_1_1"
+        },
+        {
+            "name": "Bbsus2",
+            "fretString": "x_4_3_1_1_4"
+        },
+        {
+            "name": "Bbsus2",
+            "fretString": "1_4_3_1_1_1"
+        },
+        {
+            "name": "Bbsus2",
+            "fretString": "4_2_1_1_4_x"
+        },
+        {
+            "name": "Bbsus4",
+            "fretString": "1_4_3_3_1_x"
+        },
+        {
+            "name": "Bbsus4",
+            "fretString": "4_2_1_1_x_x"
+        },
+        {
+            "name": "Bbsus4",
+            "fretString": "1_1_3_3_3_1"
+        },
+        {
+            "name": "Bbsus4",
+            "fretString": "4_4_3_1_1_x"
+        },
+        {
+            "name": "Bb7sus4",
+            "fretString": "1_4_1_3_1_x"
+        },
+        {
+            "name": "Bb7sus4",
+            "fretString": "4_4_3_3_x_x"
+        },
+        {
+            "name": "Bb7sus4",
+            "fretString": "1_1_3_1_3_1"
+        },
+        {
+            "name": "Bb7sus4",
+            "fretString": "4_2_3_1_x_x"
+        },
+        {
+            "name": "Bbalt",
+            "fretString": "0_3_3_2_1_x"
+        },
+        {
+            "name": "Bbalt",
+            "fretString": "0_1_3_0_3_2"
+        },
+        {
+            "name": "Bbalt",
+            "fretString": "1_x_2_0_2_1"
+        },
+        {
+            "name": "Bbalt",
+            "fretString": "3_4_2_1_x_x"
+        },
+        {
+            "name": "Bbaug",
+            "fretString": "x_3_3_4_1_x"
+        },
+        {
+            "name": "Bbaug",
+            "fretString": "x_1_1_2_3_4"
+        },
+        {
+            "name": "Bbaug",
+            "fretString": "1_2_2_3_x_x"
+        },
+        {
+            "name": "Bbaug",
+            "fretString": "x_1_1_2_x_x"
+        },
+        {
+            "name": "Bb6/9",
+            "fretString": "1_1_0_0_1_x"
+        },
+        {
+            "name": "Bb6/9",
+            "fretString": "2_2_1_1_1_2"
+        },
+        {
+            "name": "Bb6/9",
+            "fretString": "2_2_1_2_2_x"
+        },
+        {
+            "name": "Bb6/9",
+            "fretString": "2_2_1_1_2_x"
+        },
+        {
+            "name": "Bb7b5",
+            "fretString": "x_3_1_2_1_x"
+        },
+        {
+            "name": "Bb7b5",
+            "fretString": "0_1_3_2_x_2"
+        },
+        {
+            "name": "Bb7b5",
+            "fretString": "3_2_2_1_x_x"
+        },
+        {
+            "name": "Bb7b5",
+            "fretString": "0_1_3_2_3_x"
+        },
+        {
+            "name": "Bbaug7",
+            "fretString": "2_3_1_4_1_x"
+        },
+        {
+            "name": "Bbaug7",
+            "fretString": "x_2_2_1_x_1"
+        },
+        {
+            "name": "Bbaug7",
+            "fretString": "3_2_4_1_x_x"
+        },
+        {
+            "name": "Bbaug7",
+            "fretString": "3_x_2_1_2_x"
+        },
+        {
+            "name": "Bb9b5",
+            "fretString": "0_1_1_0_1_x"
+        },
+        {
+            "name": "Bb9b5",
+            "fretString": "1_2_2_0_x_3"
+        },
+        {
+            "name": "Bb9b5",
+            "fretString": "2_1_1_2_1_2"
+        },
+        {
+            "name": "Bb9b5",
+            "fretString": "0_2_2_1_2_x"
+        },
+        {
+            "name": "Bbaug9",
+            "fretString": "2_1_1_0_1_x"
+        },
+        {
+            "name": "Bbaug9",
+            "fretString": "4_3_3_4_3_4"
+        },
+        {
+            "name": "Bbaug9",
+            "fretString": "x_3_1_2_1_2"
+        },
+        {
+            "name": "Bbaug9",
+            "fretString": "3_2_2_1_x_1"
+        },
+        {
+            "name": "Bb7b9",
+            "fretString": "1_0_1_0_1_x"
+        },
+        {
+            "name": "Bb7b9",
+            "fretString": "x_x_1_3_2_3"
+        },
+        {
+            "name": "Bb7b9",
+            "fretString": "2_1_2_1_x_1"
+        },
+        {
+            "name": "Bb7b9",
+            "fretString": "2_1_2_1_2_x"
+        },
+        {
+            "name": "Bb7#9",
+            "fretString": "x_2_1_0_1_x"
+        },
+        {
+            "name": "Bb7#9",
+            "fretString": "4_4_2_1_3_1"
+        },
+        {
+            "name": "Bb7#9",
+            "fretString": "3_3_1_2_x_x"
+        },
+        {
+            "name": "Bb7#9",
+            "fretString": "x_3_2_1_2_x"
+        },
+        {
+            "name": "Bb9#11",
+            "fretString": "0_1_1_0_1_x"
+        },
+        {
+            "name": "Bb9#11",
+            "fretString": "x_1_1_2_1_2"
+        },
+        {
+            "name": "Bb9#11",
+            "fretString": "3_2_2_1_x_x"
+        },
+        {
+            "name": "Bb9#11",
+            "fretString": "1_2_2_1_2_x"
+        },
+        {
+            "name": "Bbmaj7",
+            "fretString": "1_3_2_3_1_x"
+        },
+        {
+            "name": "Bbmaj7",
+            "fretString": "3_1_1_1_x_x"
+        },
+        {
+            "name": "Bbmaj7",
+            "fretString": "1_1_2_2_3_1"
+        },
+        {
+            "name": "Bbmaj7",
+            "fretString": "3_3_3_1_1_x"
+        },
+        {
+            "name": "Bbmaj7b5",
+            "fretString": "x_3_2_2_1_x"
+        },
+        {
+            "name": "Bbmaj7b5",
+            "fretString": "1_1_3_3_1_2"
+        },
+        {
+            "name": "Bbmaj7b5",
+            "fretString": "0_x_2_2_2_1"
+        },
+        {
+            "name": "Bbmaj7b5",
+            "fretString": "3_3_2_1_x_x"
+        },
+        {
+            "name": "Bbmaj7#5",
+            "fretString": "2_3_2_0_1_x"
+        },
+        {
+            "name": "Bbmaj7#5",
+            "fretString": "3_1_1_2_x_x"
+        },
+        {
+            "name": "Bbmaj7#5",
+            "fretString": "x_2_2_2_x_1"
+        },
+        {
+            "name": "Bbmaj7#5",
+            "fretString": "1_1_2_3_4_1"
+        },
+        {
+            "name": "Bbmaj9",
+            "fretString": "x_1_2_0_1_1"
+        },
+        {
+            "name": "Bbmaj9",
+            "fretString": "3_1_1_1_1_4"
+        },
+        {
+            "name": "Bbmaj9",
+            "fretString": "x_2_1_3_1_2"
+        },
+        {
+            "name": "Bbmaj9",
+            "fretString": "3_1_2_2_3_1"
+        },
+        {
+            "name": "Bbmaj11",
+            "fretString": "1_3_2_1_1_x"
+        },
+        {
+            "name": "Bbmaj11",
+            "fretString": "2_1_2_0_x_3"
+        },
+        {
+            "name": "Bbmaj11",
+            "fretString": "1_1_2_2_1_1"
+        },
+        {
+            "name": "Bbmaj11",
+            "fretString": "3_3_1_1_x_x"
+        },
+        {
+            "name": "Bbmaj13",
+            "fretString": "3_3_2_1_1_x"
+        },
+        {
+            "name": "Bbmaj13",
+            "fretString": "1_2_1_1_1_2"
+        },
+        {
+            "name": "Bbmaj13",
+            "fretString": "1_3_2_2_1_1"
+        },
+        {
+            "name": "Bbmaj13",
+            "fretString": "1_1_3_3_4_x"
+        },
+        {
+            "name": "Bbm6",
+            "fretString": "3_2_x_3_1_x"
+        },
+        {
+            "name": "Bbm6",
+            "fretString": "x_4_1_3_2_x"
+        },
+        {
+            "name": "Bbm6",
+            "fretString": "2_2_2_1_x_2"
+        },
+        {
+            "name": "Bbm6",
+            "fretString": "1_3_1_3_3_1"
+        },
+        {
+            "name": "Bbm6/9",
+            "fretString": "4_2_2_1_x_2"
+        },
+        {
+            "name": "Bbm6/9",
+            "fretString": "3_3_1_3_x_1"
+        },
+        {
+            "name": "Bbm6/9",
+            "fretString": "1_1_3_1_x_2"
+        },
+        {
+            "name": "Bbm6/9",
+            "fretString": "x_3_2_1_3_x"
+        },
+        {
+            "name": "Bbm7",
+            "fretString": "1_2_1_3_1_x"
+        },
+        {
+            "name": "Bbm7",
+            "fretString": "4_2_3_3_x_x"
+        },
+        {
+            "name": "Bbm7",
+            "fretString": "1_1_1_1_3_1"
+        },
+        {
+            "name": "Bbm7",
+            "fretString": "2_2_3_1_1_x"
+        },
+        {
+            "name": "Bbm7b5",
+            "fretString": "x_2_1_2_1_x"
+        },
+        {
+            "name": "Bbm7b5",
+            "fretString": "4_2_3_2_x_x"
+        },
+        {
+            "name": "Bbm7b5",
+            "fretString": "x_1_2_2_x_2"
+        },
+        {
+            "name": "Bbm7b5",
+            "fretString": "2_2_2_1_x_x"
+        },
+        {
+            "name": "Bbm9",
+            "fretString": "3_1_4_2_x_x"
+        },
+        {
+            "name": "Bbm9",
+            "fretString": "1_3_2_x_1_3"
+        },
+        {
+            "name": "Bbm9",
+            "fretString": "3_1_1_1_3_1"
+        },
+        {
+            "name": "Bbm9",
+            "fretString": "x_3_3_1_3_x"
+        },
+        {
+            "name": "Bbm11",
+            "fretString": "1_1_2_3_1_3"
+        },
+        {
+            "name": "Bbm11",
+            "fretString": "3_1_1_1_1_1"
+        },
+        {
+            "name": "Bbm11",
+            "fretString": "2_2_1_1_x_x"
+        },
+        {
+            "name": "Bbm11",
+            "fretString": "1_3_3_1_3_x"
+        },
+        {
+            "name": "Bbmmaj7",
+            "fretString": "1_2_2_3_1_x"
+        },
+        {
+            "name": "Bbmmaj7",
+            "fretString": "1_1_1_2_3_1"
+        },
+        {
+            "name": "Bbmmaj7",
+            "fretString": "2_3_3_1_1_x"
+        },
+        {
+            "name": "Bbmmaj7",
+            "fretString": "x_1_1_2_4_x"
+        },
+        {
+            "name": "Bbmmaj7b5",
+            "fretString": "0_2_2_2_1_x"
+        },
+        {
+            "name": "Bbmmaj7b5",
+            "fretString": "1_1_2_x_3_2"
+        },
+        {
+            "name": "Bbmmaj7b5",
+            "fretString": "1_x_1_2_2_1"
+        },
+        {
+            "name": "Bbmmaj7b5",
+            "fretString": "2_3_2_1_x_x"
+        },
+        {
+            "name": "Bbmmaj9",
+            "fretString": "2_3_2_x_1_3"
+        },
+        {
+            "name": "Bbmmaj9",
+            "fretString": "x_x_2_4_1_3"
+        },
+        {
+            "name": "Bbmmaj9",
+            "fretString": "3_1_1_2_3_1"
+        },
+        {
+            "name": "Bbmmaj9",
+            "fretString": "2_3_3_1_1_1"
+        },
+        {
+            "name": "Bbmmaj11",
+            "fretString": "1_2_2_1_1_x"
+        },
+        {
+            "name": "Bbmmaj11",
+            "fretString": "3_1_1_2_1_1"
+        },
+        {
+            "name": "Bbmmaj11",
+            "fretString": "2_3_1_1_1_x"
+        },
+        {
+            "name": "Bbmmaj11",
+            "fretString": "1_3_4_1_3_x"
+        },
+        {
+            "name": "Bbadd9",
+            "fretString": "1_1_3_0_1_x"
+        },
+        {
+            "name": "Bbadd9",
+            "fretString": "3_1_2_3_x_x"
+        },
+        {
+            "name": "Bbadd9",
+            "fretString": "2_x_1_2_x_x"
+        },
+        {
+            "name": "Bbadd9",
+            "fretString": "1_4_1_3_4_x"
+        },
+        {
+            "name": "Bbmadd9",
+            "fretString": "x_1_3_3_4_x"
+        },
+        {
+            "name": "Bbmadd9",
+            "fretString": "x_3_2_x_1_3"
+        },
+        {
+            "name": "Bbmadd9",
+            "fretString": "3_1_1_3_x_x"
+        },
+        {
+            "name": "Bbmadd9",
+            "fretString": "x_4_1_2_4_x"
+        },
+        {
+            "name": "B6",
+            "fretString": "x_0_1_1_2_x"
+        },
+        {
+            "name": "B6",
+            "fretString": "4_4_4_4_2_x"
+        },
+        {
+            "name": "B6",
+            "fretString": "x_3_2_3_x_1"
+        },
+        {
+            "name": "B6",
+            "fretString": "3_1_3_1_x_x"
+        },
+        {
+            "name": "B7",
+            "fretString": "2_0_2_1_2_x"
+        },
+        {
+            "name": "B7",
+            "fretString": "2_4_2_4_2_2"
+        },
+        {
+            "name": "B7",
+            "fretString": "2_1_1_1_x_x"
+        },
+        {
+            "name": "B7",
+            "fretString": "1_1_2_1_3_1"
+        },
+        {
+            "name": "B9",
+            "fretString": "2_2_2_1_2_x"
+        },
+        {
+            "name": "B9",
+            "fretString": "2_1_3_1_1_4"
+        },
+        {
+            "name": "B9",
+            "fretString": "3_1_2_1_3_1"
+        },
+        {
+            "name": "B9",
+            "fretString": "2_3_1_2_x_x"
+        },
+        {
+            "name": "B11",
+            "fretString": "0_0_2_1_2_x"
+        },
+        {
+            "name": "B11",
+            "fretString": "2_4_2_2_2_2"
+        },
+        {
+            "name": "B11",
+            "fretString": "1_1_2_1_1_1"
+        },
+        {
+            "name": "B11",
+            "fretString": "3_2_1_1_1_1"
+        },
+        {
+            "name": "B13",
+            "fretString": "4_4_2_1_2_x"
+        },
+        {
+            "name": "B13",
+            "fretString": "4_4_2_2_2_2"
+        },
+        {
+            "name": "B13",
+            "fretString": "2_1_1_3_1_4"
+        },
+        {
+            "name": "B13",
+            "fretString": "3_3_2_1_1_1"
+        },
+        {
+            "name": "B",
+            "fretString": "2_4_4_4_2_2"
+        },
+        {
+            "name": "B",
+            "fretString": "4_1_1_1_x_x"
+        },
+        {
+            "name": "B",
+            "fretString": "1_1_2_3_3_1"
+        },
+        {
+            "name": "B",
+            "fretString": "3_4_3_1_1_x"
+        },
+        {
+            "name": "Bm",
+            "fretString": "2_3_4_4_2_2"
+        },
+        {
+            "name": "Bm",
+            "fretString": "1_1_1_3_3_1"
+        },
+        {
+            "name": "Bm",
+            "fretString": "2_4_3_1_x_x"
+        },
+        {
+            "name": "Bm",
+            "fretString": "1_3_2_3_x_x"
+        },
+        {
+            "name": "Bdim",
+            "fretString": "1_0_x_0_2_x"
+        },
+        {
+            "name": "Bdim",
+            "fretString": "x_3_4_3_2_x"
+        },
+        {
+            "name": "Bdim",
+            "fretString": "x_2_3_x_1_3"
+        },
+        {
+            "name": "Bdim",
+            "fretString": "2_x_2_1_x_x"
+        },
+        {
+            "name": "Bdim7",
+            "fretString": "1_3_1_3_2_x"
+        },
+        {
+            "name": "Bdim7",
+            "fretString": "4_3_4_3_x_x"
+        },
+        {
+            "name": "Bdim7",
+            "fretString": "x_1_2_1_x_2"
+        },
+        {
+            "name": "Bdim7",
+            "fretString": "1_3_1_3_2_1"
+        },
+        {
+            "name": "Bsus2",
+            "fretString": "2_2_4_4_2_2"
+        },
+        {
+            "name": "Bsus2",
+            "fretString": "2_2_1_x_x_2"
+        },
+        {
+            "name": "Bsus2",
+            "fretString": "1_4_3_1_1_1"
+        },
+        {
+            "name": "Bsus2",
+            "fretString": "4_2_1_1_4_x"
+        },
+        {
+            "name": "Bsus4",
+            "fretString": "1_4_3_3_1_1"
+        },
+        {
+            "name": "Bsus4",
+            "fretString": "4_2_1_1_x_x"
+        },
+        {
+            "name": "Bsus4",
+            "fretString": "1_1_3_3_3_1"
+        },
+        {
+            "name": "Bsus4",
+            "fretString": "4_4_3_1_1_x"
+        },
+        {
+            "name": "B7sus4",
+            "fretString": "0_0_2_2_2_x"
+        },
+        {
+            "name": "B7sus4",
+            "fretString": "1_4_1_3_1_1"
+        },
+        {
+            "name": "B7sus4",
+            "fretString": "2_2_1_1_x_x"
+        },
+        {
+            "name": "B7sus4",
+            "fretString": "1_1_3_1_3_1"
+        },
+        {
+            "name": "Balt",
+            "fretString": "x_4_4_3_2_x"
+        },
+        {
+            "name": "Balt",
+            "fretString": "2_1_3_4_x_x"
+        },
+        {
+            "name": "Balt",
+            "fretString": "x_0_2_3_2_1"
+        },
+        {
+            "name": "Balt",
+            "fretString": "3_0_2_1_x_x"
+        },
+        {
+            "name": "Baug",
+            "fretString": "x_0_0_1_2_x"
+        },
+        {
+            "name": "Baug",
+            "fretString": "1_2_2_3_x_x"
+        },
+        {
+            "name": "Baug",
+            "fretString": "x_2_2_3_x_1"
+        },
+        {
+            "name": "Baug",
+            "fretString": "0_1_1_2_3_x"
+        },
+        {
+            "name": "B6/9",
+            "fretString": "2_2_1_1_2_x"
+        },
+        {
+            "name": "B6/9",
+            "fretString": "2_2_1_1_1_2"
+        },
+        {
+            "name": "B6/9",
+            "fretString": "2_2_1_2_2_x"
+        },
+        {
+            "name": "B6/9",
+            "fretString": "1_2_3_1_4_x"
+        },
+        {
+            "name": "B7b5",
+            "fretString": "1_0_2_1_2_x"
+        },
+        {
+            "name": "B7b5",
+            "fretString": "x_4_2_3_2_x"
+        },
+        {
+            "name": "B7b5",
+            "fretString": "x_1_3_2_x_2"
+        },
+        {
+            "name": "B7b5",
+            "fretString": "3_2_2_1_x_x"
+        },
+        {
+            "name": "Baug7",
+            "fretString": "3_0_2_1_2_x"
+        },
+        {
+            "name": "Baug7",
+            "fretString": "2_3_1_4_1_x"
+        },
+        {
+            "name": "Baug7",
+            "fretString": "x_2_2_1_x_1"
+        },
+        {
+            "name": "Baug7",
+            "fretString": "3_2_4_1_x_x"
+        },
+        {
+            "name": "B9b5",
+            "fretString": "1_2_2_1_2_x"
+        },
+        {
+            "name": "B9b5",
+            "fretString": "2_1_1_2_1_2"
+        },
+        {
+            "name": "B9b5",
+            "fretString": "3_x_2_1_2_1"
+        },
+        {
+            "name": "B9b5",
+            "fretString": "1_2_2_1_2_x"
+        },
+        {
+            "name": "Baug9",
+            "fretString": "3_2_2_1_2_x"
+        },
+        {
+            "name": "Baug9",
+            "fretString": "2_1_1_2_1_2"
+        },
+        {
+            "name": "Baug9",
+            "fretString": "x_3_1_2_1_2"
+        },
+        {
+            "name": "Baug9",
+            "fretString": "1_2_2_1_2_1"
+        },
+        {
+            "name": "B7b9",
+            "fretString": "2_1_2_1_2_x"
+        },
+        {
+            "name": "B7b9",
+            "fretString": "x_x_1_3_2_3"
+        },
+        {
+            "name": "B7b9",
+            "fretString": "2_1_2_1_x_1"
+        },
+        {
+            "name": "B7b9",
+            "fretString": "1_3_1_2_x_x"
+        },
+        {
+            "name": "B7#9",
+            "fretString": "x_3_2_1_2_x"
+        },
+        {
+            "name": "B7#9",
+            "fretString": "1_0_3_0_2_3"
+        },
+        {
+            "name": "B7#9",
+            "fretString": "4_4_2_1_3_1"
+        },
+        {
+            "name": "B7#9",
+            "fretString": "3_3_1_2_x_x"
+        },
+        {
+            "name": "B9#11",
+            "fretString": "1_2_2_1_2_x"
+        },
+        {
+            "name": "B9#11",
+            "fretString": "2_4_2_3_2_x"
+        },
+        {
+            "name": "B9#11",
+            "fretString": "x_1_3_2_x_2"
+        },
+        {
+            "name": "B9#11",
+            "fretString": "3_2_2_1_x_x"
+        },
+        {
+            "name": "Bmaj7",
+            "fretString": "2_4_3_4_2_2"
+        },
+        {
+            "name": "Bmaj7",
+            "fretString": "3_1_1_1_x_x"
+        },
+        {
+            "name": "Bmaj7",
+            "fretString": "1_1_2_2_3_1"
+        },
+        {
+            "name": "Bmaj7",
+            "fretString": "3_3_3_1_1_x"
+        },
+        {
+            "name": "Bmaj7b5",
+            "fretString": "x_4_3_3_2_x"
+        },
+        {
+            "name": "Bmaj7b5",
+            "fretString": "1_1_3_3_1_2"
+        },
+        {
+            "name": "Bmaj7b5",
+            "fretString": "x_0_2_2_2_1"
+        },
+        {
+            "name": "Bmaj7b5",
+            "fretString": "3_3_2_1_x_x"
+        },
+        {
+            "name": "Bmaj7#5",
+            "fretString": "3_0_3_1_2_x"
+        },
+        {
+            "name": "Bmaj7#5",
+            "fretString": "x_3_2_4_1_x"
+        },
+        {
+            "name": "Bmaj7#5",
+            "fretString": "x_3_0_3_1_2"
+        },
+        {
+            "name": "Bmaj7#5",
+            "fretString": "1_1_2_3_4_1"
+        },
+        {
+            "name": "Bmaj9",
+            "fretString": "x_2_3_1_2_2"
+        },
+        {
+            "name": "Bmaj9",
+            "fretString": "3_1_3_1_x_x"
+        },
+        {
+            "name": "Bmaj9",
+            "fretString": "x_2_1_3_1_2"
+        },
+        {
+            "name": "Bmaj9",
+            "fretString": "2_4_1_2_x_x"
+        },
+        {
+            "name": "Bmaj11",
+            "fretString": "0_0_3_1_2_x"
+        },
+        {
+            "name": "Bmaj11",
+            "fretString": "2_4_3_2_2_2"
+        },
+        {
+            "name": "Bmaj11",
+            "fretString": "3_1_2_2_1_1"
+        },
+        {
+            "name": "Bmaj11",
+            "fretString": "3_3_1_1_x_x"
+        },
+        {
+            "name": "Bmaj13",
+            "fretString": "4_4_3_2_2_x"
+        },
+        {
+            "name": "Bmaj13",
+            "fretString": "1_2_1_1_1_2"
+        },
+        {
+            "name": "Bmaj13",
+            "fretString": "1_3_2_2_1_1"
+        },
+        {
+            "name": "Bmaj13",
+            "fretString": "1_1_3_3_4_x"
+        },
+        {
+            "name": "Bm6",
+            "fretString": "2_0_1_0_2_2"
+        },
+        {
+            "name": "Bm6",
+            "fretString": "4_3_4_4_x_x"
+        },
+        {
+            "name": "Bm6",
+            "fretString": "x_2_2_1_x_2"
+        },
+        {
+            "name": "Bm6",
+            "fretString": "1_3_1_3_3_1"
+        },
+        {
+            "name": "Bm6/9",
+            "fretString": "2_2_1_0_2_x"
+        },
+        {
+            "name": "Bm6/9",
+            "fretString": "3_3_2_2_1_x"
+        },
+        {
+            "name": "Bm6/9",
+            "fretString": "3_3_1_3_3_1"
+        },
+        {
+            "name": "Bm6/9",
+            "fretString": "1_1_3_1_x_2"
+        },
+        {
+            "name": "Bm7",
+            "fretString": "2_3_2_4_2_2"
+        },
+        {
+            "name": "Bm7",
+            "fretString": "3_1_2_2_x_x"
+        },
+        {
+            "name": "Bm7",
+            "fretString": "1_1_1_1_3_1"
+        },
+        {
+            "name": "Bm7",
+            "fretString": "2_2_3_1_1_x"
+        },
+        {
+            "name": "Bm7b5",
+            "fretString": "x_3_2_3_2_x"
+        },
+        {
+            "name": "Bm7b5",
+            "fretString": "x_1_2_2_x_2"
+        },
+        {
+            "name": "Bm7b5",
+            "fretString": "1_4_1_3_2_1"
+        },
+        {
+            "name": "Bm7b5",
+            "fretString": "2_2_2_1_x_x"
+        },
+        {
+            "name": "Bm9",
+            "fretString": "2_2_2_0_2_x"
+        },
+        {
+            "name": "Bm9",
+            "fretString": "3_1_2_2_2_x"
+        },
+        {
+            "name": "Bm9",
+            "fretString": "3_1_1_1_3_1"
+        },
+        {
+            "name": "Bm9",
+            "fretString": "1_3_2_2_3_1"
+        },
+        {
+            "name": "Bm11",
+            "fretString": "0_2_2_0_2_x"
+        },
+        {
+            "name": "Bm11",
+            "fretString": "1_1_2_3_1_3"
+        },
+        {
+            "name": "Bm11",
+            "fretString": "3_1_1_1_1_1"
+        },
+        {
+            "name": "Bm11",
+            "fretString": "2_2_1_1_x_x"
+        },
+        {
+            "name": "Bmmaj7",
+            "fretString": "2_0_3_0_2_x"
+        },
+        {
+            "name": "Bmmaj7",
+            "fretString": "2_3_3_4_2_2"
+        },
+        {
+            "name": "Bmmaj7",
+            "fretString": "1_1_1_2_3_1"
+        },
+        {
+            "name": "Bmmaj7",
+            "fretString": "2_3_3_1_1_x"
+        },
+        {
+            "name": "Bmmaj7b5",
+            "fretString": "x_3_3_3_2_x"
+        },
+        {
+            "name": "Bmmaj7b5",
+            "fretString": "1_1_2_x_3_2"
+        },
+        {
+            "name": "Bmmaj7b5",
+            "fretString": "1_x_1_2_2_1"
+        },
+        {
+            "name": "Bmmaj7b5",
+            "fretString": "2_3_2_1_x_x"
+        },
+        {
+            "name": "Bmmaj9",
+            "fretString": "2_2_3_0_2_x"
+        },
+        {
+            "name": "Bmmaj9",
+            "fretString": "x_0_2_4_1_3"
+        },
+        {
+            "name": "Bmmaj9",
+            "fretString": "3_1_1_2_3_1"
+        },
+        {
+            "name": "Bmmaj9",
+            "fretString": "x_3_4_1_3_x"
+        },
+        {
+            "name": "Bmmaj11",
+            "fretString": "0_2_3_0_2_x"
+        },
+        {
+            "name": "Bmmaj11",
+            "fretString": "2_3_3_2_2_2"
+        },
+        {
+            "name": "Bmmaj11",
+            "fretString": "3_1_1_2_1_1"
+        },
+        {
+            "name": "Bmmaj11",
+            "fretString": "2_3_1_1_1_x"
+        },
+        {
+            "name": "Badd9",
+            "fretString": "2_2_x_1_2_x"
+        },
+        {
+            "name": "Badd9",
+            "fretString": "2_2_1_x_1_2"
+        },
+        {
+            "name": "Badd9",
+            "fretString": "3_1_2_3_x_x"
+        },
+        {
+            "name": "Badd9",
+            "fretString": "1_4_1_3_4_x"
+        },
+        {
+            "name": "Bmadd9",
+            "fretString": "x_1_3_3_4_x"
+        },
+        {
+            "name": "Bmadd9",
+            "fretString": "x_3_2_0_1_3"
+        },
+        {
+            "name": "Bmadd9",
+            "fretString": "3_1_1_3_x_x"
+        },
+        {
+            "name": "Bmadd9",
+            "fretString": "x_4_1_2_4_x"
+        }
+    ]
 }
