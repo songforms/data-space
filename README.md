@@ -9,6 +9,6 @@
 
 ### 기타 코드
 
-| Guitar Chords JSON |
-| --- |
-| https://raw.githubusercontent.com/songforms/data-space/main/guitar-chords/chords.json |
+| Guitar Chords JSON | Note |
+| --- | --- |
+| https://raw.githubusercontent.com/songforms/data-space/main/guitar-chords/chords.json | 2062 Chords |
